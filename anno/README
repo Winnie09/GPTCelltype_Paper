@@ -1,0 +1,4 @@
+start with raw annotation and cell types
+first generate cl, manually annotate, and repopulate back
+then do agreement, manually annotate, and repopulate back
+each time when update cl and agreement, check if already done

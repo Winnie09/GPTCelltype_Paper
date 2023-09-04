@@ -1,0 +1,46 @@
+astrocyte,glial cell
+astrocyte,macroglial cell
+glial cell,macroglial cell
+glial cell,microglia
+glial cell,oligodendrocyte
+macroglial cell,oligodendrocyte
+glial cell,radial glial cell
+megakaryocyte,platelet
+erythroid cell,myeloid cell
+megakaryocyte,myeloid cell
+platelet,myeloid cell
+b cell,antigen presenting cell
+antigen presenting cell,dendritic cell
+b cell,immune cell
+antigen presenting cell,immune cell
+dendritic cell,immune cell
+granulocyte,immune cell
+immune cell,innate lymphoid cell
+b cell,leukocyte
+antigen presenting cell,leukocyte
+dendritic cell,leukocyte
+granulocyte,leukocyte
+immune cell,leukocyte
+innate lymphoid cell,leukocyte
+b cell,lymphocyte
+antigen presenting cell,lymphocyte
+immune cell,lymphocyte
+innate lymphoid cell,lymphocyte
+leukocyte,lymphocyte
+antigen presenting cell,macrophage/monocyte
+immune cell,macrophage/monocyte
+leukocyte,macrophage/monocyte
+antigen presenting cell,myeloid cell
+dendritic cell,myeloid cell
+granulocyte,myeloid cell
+immune cell,myeloid cell
+leukocyte,myeloid cell
+macrophage/monocyte,myeloid cell
+immune cell,t/nk cell
+leukocyte,t/nk cell
+lymphocyte,t/nk cell
+endothelial cell,epithelial cell
+fibroblast,stromal cell
+osteoblast,stromal cell
+pericyte,stromal cell
+fat cell,stromal cell

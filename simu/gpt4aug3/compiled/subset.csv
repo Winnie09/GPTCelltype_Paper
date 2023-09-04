@@ -1,0 +1,181 @@
+"simuround","subset","gene","manual_annotation","manual_CLname","manual_CLID","manual_broadtype","gpt4aug3_annotation","gpt4aug3_CLname","gpt4aug3_CLID","gpt4aug3_broadtype","gpt4aug3_agreement"
+1,0.25,"ADIPOQ,PLIN2","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes, Lipid metabolizing cells","fat cell,NA","CL:0000136,NA","fat cell",0.5
+1,0.25,"CR2","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+1,0.25,"S100A4,COL6A2,DCN,HGF,IGFBP3,IGFBP5,FN1","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts, Dermal Fibroblasts","fibroblast,NA","CL:0000057,NA","fibroblast",0.5
+1,0.25,"KIT,SOX9,KRT7,MUC1","Luminal Epithelial",NA,NA,"epithelial cell","Epithelial cells, Gastric Epithelial cells","epithelial cell,NA","CL:0000066,NA","epithelial cell",0.5
+1,0.25,"LYVE1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+1,0.25,"PTPRC,MSR1,C1QA,CD68","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages, Microglia","macrophage,microglial cell","CL:0000235,CL:0000129","macrophage/monocyte,microglia",0.5
+1,0.25,"TPSAB1","Mast Cell","mast cell","CL:0000097","granulocyte","Mast cells","mast cell","CL:0000097","granulocyte",1
+1,0.25,"TP63,MME","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Basal cells, Epidermal Stem Cells","basal cell,stem cell of epidermis","CL:0000646,CL:1000428","stem cell",0
+1,0.25,"DES,MYO1B","Pericyte","pericyte","CL:0000669","pericyte","Muscle cells, Myocytes","muscle cell","CL:0000187","muscle cell",0
+1,0.25,"MYL9,ACTN1,ACTG2","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+1,0.25,"CD3G,CD96,SKAP1","T cell","T cell","CL:0000084","t/nk cell","T cells, Cytotoxic T cells","T cell,cytotoxic T cell","CL:0000084,CL:0000910","t/nk cell",0.5
+1,0.25,"PECAM1,PECAM1,EPHB4","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial cells","endothelial cell","CL:0000115","endothelial cell",0.5
+1,0.5,"GHR,FOXO1,PPARG,PLIN2,ACSL1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes, T cells","fat cell,T cell","CL:0000136,CL:0000084","fat cell,t/nk cell",0.5
+1,0.5,"CXCR3,CD24","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+1,0.5,"SLIT2,FBLN1,COL6A2,COL3A1,NEGR1,VIM,FBN1,COL5A1,IGFBP5,FN1,COL5A2,HGF,S100A4,COL6A6","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+1,0.5,"KRT7,SOX9,HES2,KLF5,MUC1,KRT8,KRT19,AFF3","Luminal Epithelial",NA,NA,"epithelial cell","Epithelial Cells","epithelial cell","CL:0000066","epithelial cell",0.5
+1,0.5,"LYVE1,RELN,FLT4","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+1,0.5,"MS4A6A,MRC1,CD36,CSF1R,PTPRC,MSR1,LYVE1,CD163,CD68","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+1,0.5,"CD69,HDC,KIT","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+1,0.5,"TP63,MME,KRT5,MYH11","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Epithelial Stem Cells, Smooth Muscle Cells","epithelial fate stem cell,smooth muscle cell","CL:0000036,CL:0000192","stem cell,muscle cell",0
+1,0.5,"CSPG4,ACTA2,DES,MCAM","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+1,0.5,"DES,SMTN,CALD1,ACTG2,VCL,PALLD,TAGLN","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+1,0.5,"CD69,PTPRC,CD3D,CD3E,IL7R,SKAP1","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+1,0.5,"PECAM1,PTPRB,EGFL7,EPHB4,LDB2,CD300LG,LDB2","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+1,0.75,"LPIN1,PPARG,ACSL1,GHR,PLIN2,EBF1,PLIN1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+1,0.75,"CD24,FAS,CXCR3","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+1,0.75,"FN1,HGF,COL5A2,COL3A1,COL1A2,CCN2,COL1A1,FBN1,IL33,FGF7,IGFBP5,COL5A1,DDR2,IGFBP3,COL18A1,SLIT2,VIM,COL6A2,S100A4,NEGR1,FBLN1","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+1,0.75,"MUC1,TFCP2L1,AFF3,KRT18,PRLR,SOX10,EPCAM,KRT8,KLF5,ELF5,KRT7,ESR1","Luminal Epithelial",NA,NA,"epithelial cell","Breast Epithelial cells","mammary gland epithelial cell","CL:0002327","epithelial cell",0.5
+1,0.75,"MMRN1,LYVE1,RELN,FLT4,PROX1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+1,0.75,"CD36,RBPJ,CD163,MS4A6A,MS4A4A,MS4A6A,LYZ,CPM,CD74,CD68,CSF1R,MSR1,MERTK,MRC1","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Monocytes/Macrophages","monocyte,macrophage","CL:0000576,CL:0000235","macrophage/monocyte",0.5
+1,0.75,"FCER1A,HDC,TPSB2,TPSAB1","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+1,0.75,"ACTA2,MME,CALD1,TP63,KRT5,KRT14","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Myoepithelial Cells","myoepithelial cell","CL:0000185","epithelial cell",1
+1,0.75,"MCAM,ANPEP,CSPG4,PDGFRB,DES,ACTA2","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+1,0.75,"ACTA2,CALD1,TAGLN,CNN1,ACTG2,SMTN,ACTN1,MYH11,VCL,MYOCD,PALLD","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+1,0.75,"CD3E,CD3G,THEMIS,NKG7,SKAP1,CD96,CD3D,TRBC1,CD69","T cell","T cell","CL:0000084","t/nk cell","T cells","T cell","CL:0000084","t/nk cell",1
+1,0.75,"LDB2,VWF,CDH5,EPHB4,NOSTRIN,BACE2,CD300LG,PTPRB,RAMP3,EGFL7","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+2,0.25,"G0S2,ACSL1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+2,0.25,"CXCR3","B cell_memory","memory B cell","CL:0000787","b cell","T cells","T cell","CL:0000084","t/nk cell",0
+2,0.25,"COL4A1,NEGR1,DDR2,COL1A1,FBN1,COL5A1,COL1A2","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+2,0.25,"SOX10,HES2,KIT,MUC1","Luminal Epithelial",NA,NA,"epithelial cell","Melanocytes","melanocyte","CL:0000148","melanocyte",0
+2,0.25,"LYVE1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic endothelial cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+2,0.25,"PTPRC,CD68,MSR1,CD163","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+2,0.25,"HDC","Mast Cell","mast cell","CL:0000097","granulocyte","Mast cells","mast cell","CL:0000097","granulocyte",1
+2,0.25,"TP63,MYH11","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Smooth muscle cells","smooth muscle cell","CL:0000192","muscle cell",0
+2,0.25,"ANPEP,ACTA2","Pericyte","pericyte","CL:0000669","pericyte","Smooth muscle cells","smooth muscle cell","CL:0000192","muscle cell",0
+2,0.25,"GUCY1B3,TAGLN,DES","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth muscle cells","smooth muscle cell","CL:0000192","muscle cell",1
+2,0.25,"TRAC,TRBC1,IL7R","T cell","T cell","CL:0000084","t/nk cell","T cells","T cell","CL:0000084","t/nk cell",1
+2,0.25,"BACE2,VWF,LDB2","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial cells","endothelial cell","CL:0000115","endothelial cell",0.5
+2,0.5,"PPARG,PLIN2,FOXO1,ADIPOQ,LPIN1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+2,0.5,"CD24,CXCR3","B cell_memory","memory B cell","CL:0000787","b cell","T cells","T cell","CL:0000084","t/nk cell",0
+2,0.5,"NEGR1,FN1,HGF,SLIT2,IL6,FBLN1,FN1,S100A4,IL33,FBN1,COL6A1,COL1A1,COL6A2,COL18A1","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+2,0.5,"KRT7,PRLR,HES2,TFCP2L1,KRT19,KRT8,ELF5,ESR1","Luminal Epithelial",NA,NA,"epithelial cell","Luminal Epithelial Breast Cells","luminal epithelial cell of mammary gland","CL:0002326","epithelial cell",0.5
+2,0.5,"MMRN1,FLT4,PROX1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+2,0.5,"CD163,PTPRC,RBPJ,C1QA,CD36,LYZ,MS4A6A,MRC1,MERTK","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+2,0.5,"TPSB2,TPSAB1,HDC","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+2,0.5,"KRT5,CALD1,MME,MYH11","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",0
+2,0.5,"MCAM,DES,ACTA2,CSPG4","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+2,0.5,"CALD1,DES,MYL9,ACTN1,TAGLN,GUCY1B3,VCL","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+2,0.5,"SKAP1,CD96,CD3E,TRAC,IL7R,CD3D","T cell","T cell","CL:0000084","t/nk cell","T cells","T cell","CL:0000084","t/nk cell",1
+2,0.5,"PECAM1,PTPRB,CDH5,EGFL7,PECAM1,CLDN5,LDB2","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+2,0.75,"PPARG,EBF1,ADIPOQ,GHR,FOXO1,ACSL1,PLIN1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+2,0.75,"FAS,CR2,CD1c","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+2,0.75,"IGFBP3,COL1A1,COL4A1,IL6,NEGR1,S100A4,COL6A1,COL3A1,IL33,CCN2,COL6A6,HGF,COL1A2,IGFBP5,DCN,DDR2,COL6A3,FGF7,FBLN1,FN1,FN1","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+2,0.75,"SOX10,PGR,ESR1,HES2,KRT8,ELF5,PRLR,KIT,KLF5,KRT7,AFF3,KRT18","Luminal Epithelial",NA,NA,"epithelial cell","Breast Epithelial Cells","mammary gland epithelial cell","CL:0002327","epithelial cell",0.5
+2,0.75,"CCL21,FLT4,RELN,LYVE1,PROX1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+2,0.75,"MS4A6A,CD68,PTPRC,MR1,CD163,CD74,RBPJ,MERTK,LYVE1,MRC1,MSR1,LYZ,MS4A4A,C1QA","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+2,0.75,"TPSB2,CD69,KIT,TPSAB1","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+2,0.75,"ACTA2,MME,CALD1,KRT17,KRT5,MYH11","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",0
+2,0.75,"CSPG4,MCAM,ACTA2,PDGFRB,MYO1B,ANPEP","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+2,0.75,"GUCY1B3,MYL9,ACTA2,SMTN,DES,MYOCD,CALD1,ACTG2,ACTN1,GUCY1A3,VCL","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+2,0.75,"TRBC1,CD3D,NKG7,PTPRC,TRAC,CD96,CD3E,SKAP1,CD3G","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+2,0.75,"CDH5,VWF,EPHB4,CLDN5,RAMP3,CD300LG,LDB2,PTPRB,EGFL7,LDB2","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+3,0.25,"LPIN1,ADIPOQ","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+3,0.25,"CD1c","B cell_memory","memory B cell","CL:0000787","b cell","Dendritic Cells","dendritic cell","CL:0000451","dendritic cell",0.5
+3,0.25,"NEGR1,COL6A6,FBLN1,COL6A1,FN1,COL3A1,IGFBP3","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+3,0.25,"ELF5,SOX10,HES2,SOX9","Luminal Epithelial",NA,NA,"epithelial cell","Mammary epithelial cells","mammary gland epithelial cell","CL:0002327","epithelial cell",0.5
+3,0.25,"PROX1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic endothelial cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+3,0.25,"CD36,CSF1R,MS4A6A,MS4A6A","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+3,0.25,"KIT","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+3,0.25,"MYH11,ACTA2","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",0
+3,0.25,"ACTA2,MCAM","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+3,0.25,"SMTN,PALLD,CNN1","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+3,0.25,"IL7R,SKAP1,CD247","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+3,0.25,"VWF,EGFL7,CLDN5","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+3,0.5,"LPIN1,PLIN1,G0S2,ACSL1,FOXO1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+3,0.5,"CD1c,FAS","B cell_memory","memory B cell","CL:0000787","b cell","Dendritic Cells","dendritic cell","CL:0000451","dendritic cell",0.5
+3,0.5,"COL6A2,COL18A1,COL6A3,S100A4,COL6A6,IL6,COL5A1,VIM,IL33,DCN,CCN2,NEGR1,COL3A1,COL4A1","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+3,0.5,"SOX9,KLF5,KRT18,ESR1,KIT,HES2,MUC1,KRT7","Luminal Epithelial",NA,NA,"epithelial cell","Breast Epithelial Cells","mammary gland epithelial cell","CL:0002327","epithelial cell",0.5
+3,0.5,"RELN,CCL21,MMRN1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+3,0.5,"RBPJ,MSR1,MRC1,CD74,C1QA,LYVE1,MR1,MS4A6A,MS4A6A","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+3,0.5,"KIT,HDC,CD69","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+3,0.5,"KRT17,KRT5,TP63,KRT14","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Basal Epithelial Cells","basal cell","CL:0000646","stem cell",0
+3,0.5,"DES,ACTA2,MCAM,CSPG4","Pericyte","pericyte","CL:0000669","pericyte","Myofibroblasts","myofibroblast cell","CL:0000186","myofibroblast cell",0
+3,0.5,"ACTA2,SMTN,TAGLN,MYH11,GUCY1A3,MYL9,MYOCD","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+3,0.5,"THEMIS,IL7R,CD3D,TRBC1,NKG7,CD3E","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+3,0.5,"PECAM1,EPHB4,RAMP3,CDH5,LDB2,LDB2,PECAM1","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+3,0.75,"PLIN1,ACSL1,PLIN2,ADIPOQ,G0S2,PPARG,EBF1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+3,0.75,"CR2,FAS,CD1c","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+3,0.75,"COL5A2,DDR2,FBLN1,DCN,SLIT2,COL1A2,COL4A1,COL3A1,IL6,COL6A1,FBN1,NEGR1,IGFBP3,FN1,IL33,VIM,COL6A6,COL6A2,COL1A1,FN1,COL18A1","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+3,0.75,"EPCAM,SOX9,TFCP2L1,KLF5,ESR1,KRT8,AFF3,KRT19,MUC1,KRT7,PGR,PRLR","Luminal Epithelial",NA,NA,"epithelial cell","Luminal epithelial cells",NA,NA,"epithelial cell",0.5
+3,0.75,"CCL21,LYVE1,MMRN1,FLT4,LYVE1","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic endothelial cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+3,0.75,"SLC11A1,CSF1R,MS4A6A,LYZ,CD36,MS4A6A,RBPJ,CD163,MR1,LYVE1,CPM,MS4A4A,C1QA,MRC1","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Tissue-resident macrophages","tissue-resident macrophage","CL:0000864","macrophage/monocyte",0.5
+3,0.75,"KIT,TPSAB1,FCER1A,CD69","Mast Cell","mast cell","CL:0000097","granulocyte","Mast cells","mast cell","CL:0000097","granulocyte",1
+3,0.75,"ACTA2,MME,KRT17,KRT14,MYH11,CALD1","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Myofibroblasts","myofibroblast cell","CL:0000186","myofibroblast cell",0
+3,0.75,"DES,PDGFRB,CSPG4,ACTA2,MCAM,ACTA2","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+3,0.75,"SMTN,GUCY1A3,MYOCD,GUCY1B3,ACTG2,CALD1,MYL9,ACTA2,TAGLN,PALLD,MYH11","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth muscle cells","smooth muscle cell","CL:0000192","muscle cell",1
+3,0.75,"THEMIS,IL7R,SKAP1,CD96,TRBC1,CD247,CD3D,CD3G,TRAC","T cell","T cell","CL:0000084","t/nk cell","T cells","T cell","CL:0000084","t/nk cell",1
+3,0.75,"PTPRB,EGFL7,CD300LG,CDH5,NOSTRIN,VWF,PECAM1,EPHB4,CLDN5,RAMP3","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial cells","endothelial cell","CL:0000115","endothelial cell",0.5
+4,0.25,"G0S2,PLIN1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+4,0.25,"CXCR3","B cell_memory","memory B cell","CL:0000787","b cell","T cells","T cell","CL:0000084","t/nk cell",0
+4,0.25,"S100A4,COL4A1,FBN1,COL18A1,FN1,COL6A6,IL6","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+4,0.25,"KRT18,SOX10,KRT7,PGR","Luminal Epithelial",NA,NA,"epithelial cell","Basal Cells","basal cell","CL:0000646","stem cell",0
+4,0.25,"RELN","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Neurons","neuron","CL:0000540","neuron",0
+4,0.25,"CD36,CPM,LYVE1,RBPJ","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0
+4,0.25,"CD69","Mast Cell","mast cell","CL:0000097","granulocyte","T cells","T cell","CL:0000084","t/nk cell",0.5
+4,0.25,"ACTA2,KRT14","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Myoepithelial Cells","myoepithelial cell","CL:0000185","epithelial cell",1
+4,0.25,"ANPEP,DES","Pericyte","pericyte","CL:0000669","pericyte","Myocytes","muscle cell","CL:0000187","muscle cell",0
+4,0.25,"ACTN1,DES,SMTN","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth muscle cells","smooth muscle cell","CL:0000192","muscle cell",1
+4,0.25,"SKAP1,PTPRC,CD3D","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+4,0.25,"LDB2,PECAM1,CLDN5","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+4,0.5,"PLIN1,G0S2,PPARG,PLIN2,FOXO1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+4,0.5,"CR2,CXCR3","B cell_memory","memory B cell","CL:0000787","b cell","T cells or B cells","T cell,B cell","CL:0000084,CL:0000236","t/nk cell,b cell",0.5
+4,0.5,"NEGR1,COL1A2,FN1,IL33,SLIT2,FGF7,IGFBP3,COL6A2,COL18A1,COL5A1,COL4A1,CCN2,COL3A1,HGF","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+4,0.5,"KRT19,ELF5,ESR1,PRLR,SOX9,KRT18,HES2,EPCAM","Luminal Epithelial",NA,NA,"epithelial cell","Luminal Breast Epithelial Cells","luminal epithelial cell of mammary gland","CL:0002326","epithelial cell",0.5
+4,0.5,"MMRN1,LYVE1,CCL21","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+4,0.5,"CD74,PTPRC,RBPJ,CD163,CPM,LYVE1,MSR1,LYZ,MR1","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+4,0.5,"TPSAB1,TPSB2,FCER1A","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+4,0.5,"TP63,KRT5,MYH11,KRT14","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Epithelial Stem Cells","epithelial fate stem cell","CL:0000036","stem cell",0
+4,0.5,"ACTA2,ANPEP,ACTA2,MYO1B","Pericyte","pericyte","CL:0000669","pericyte","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",0
+4,0.5,"TAGLN,SMTN,GUCY1B3,MYOCD,ACTA2,ACTG2,MYL9","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+4,0.5,"PTPRC,TRBC1,IL7R,SKAP1,CD69,CD3G","T cell","T cell","CL:0000084","t/nk cell","T cells","T cell","CL:0000084","t/nk cell",1
+4,0.5,"RAMP3,PTPRB,BACE2,PECAM1,EPHB4,CD300LG,LDB2","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+4,0.75,"LPIN1,ADIPOQ,FOXO1,ACSL1,GHR,PLIN1,PLIN2","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+4,0.75,"CD1c,CD24,FAS","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+4,0.75,"COL6A6,IGFBP5,FGF7,COL1A1,VIM,FBN1,HGF,COL6A1,COL1A2,COL6A3,COL4A1,NEGR1,IL33,COL6A2,FN1,COL18A1,SLIT2,COL5A2,COL3A1,COL5A1,S100A4","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+4,0.75,"KRT7,AFF3,KIT,PGR,PRLR,ELF5,SOX9,HES2,MUC1,KRT18,ESR1,KRT8","Luminal Epithelial",NA,NA,"epithelial cell","Epithelial Cells","epithelial cell","CL:0000066","epithelial cell",0.5
+4,0.75,"MMRN1,PROX1,RELN,LYVE1,CCL21","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+4,0.75,"MS4A4A,SLC11A1,CD36,MS4A6A,CSF1R,CD74,LYZ,MS4A6A,C1QA,MR1,MSR1,RBPJ,MRC1,MERTK","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+4,0.75,"TPSB2,FCER1A,TPSAB1,CD69","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+4,0.75,"MME,MYH11,KRT5,KRT17,ACTA2,KRT14","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Myoepithelial Cells","myoepithelial cell","CL:0000185","epithelial cell",1
+4,0.75,"ANPEP,MYO1B,PDGFRB,MCAM,CSPG4,DES","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+4,0.75,"ACTN1,MYL9,ACTG2,VCL,TAGLN,MYOCD,CALD1,GUCY1B3,SMTN,MYH11,CNN1","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+4,0.75,"TRBC1,CD3G,CD247,NKG7,PTPRC,CD69,IL7R,TRAC,CD96","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+4,0.75,"EPHB4,RAMP3,VWF,PTPRB,NOSTRIN,CLDN5,CDH5,CD300LG,EGFL7,PECAM1","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5
+5,0.25,"PLIN2,GHR","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes, Hepatocytes","fat cell,hepatocyte","CL:0009099,CL:0000182","fat cell,epithelial",0.5
+5,0.25,"CR2","B cell_memory","memory B cell","CL:0000787","b cell","B cells","B cell","CL:0000236","b cell",0.5
+5,0.25,"IGFBP5,FBN1,CCN2,COL1A2,NEGR1,FGF7,COL5A2","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+5,0.25,"KRT19,AFF3,EPCAM,KIT","Luminal Epithelial",NA,NA,"epithelial cell","Epithelial cells, Basal Cells","epithelial cell,basal cells","CL:0000066,CL:0000646","epithelial cell,stem cell",0.5
+5,0.25,"FLT4","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Endothelial cells","endothelial cell","CL:0000115","endothelial cell",0.5
+5,0.25,"MS4A6A,CD36,CPM,CD68","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Monocytes, Macrophages","monocyte,macrophage","CL:0000576,CL:0000235","macrophage/monocyte",0.5
+5,0.25,"HDC","Mast Cell","mast cell","CL:0000097","granulocyte","Mast cells","mast cell","CL:0000097","granulocyte",1
+5,0.25,"KRT17,KRT14","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Stratified epithelial cells","stratified epithelial cell","CL:0000079","epithelial cell",0.5
+5,0.25,"MYO1B,ACTA2","Pericyte","pericyte","CL:0000669","pericyte","Myocytes, Smooth muscle cells","muscle cell,smooth muscle cell","CL:0000187,CL:0000192","muscle cell",0
+5,0.25,"TAGLN,CNN1,DES","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth muscle cells","smooth muscle cell","CL:0000192","muscle cell",1
+5,0.25,"IL7R,CD69,TRBC1","T cell","T cell","CL:0000084","t/nk cell","T cells","T cell","CL:0000084","t/nk cell",1
+5,0.25,"CD300LG,LDB2,PTPRB","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial cells","endothelial cell","CL:0000115","endothelial cell",0.5
+5,0.5,"ACSL1,PPARG,LPIN1,PLIN2,GHR","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+5,0.5,"CD24,CD1c","B cell_memory","memory B cell","CL:0000787","b cell","Dendritic Cells","dendritic cell","CL:0000451","dendritic cell",0.5
+5,0.5,"FBN1,S100A4,CCN2,IGFBP5,SLIT2,FN1,COL6A3,COL3A1,NEGR1,COL6A6,DCN,FBLN1,VIM,COL1A2","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+5,0.5,"ESR1,KLF5,SOX9,AFF3,SOX10,KRT19,PGR,ELF5","Luminal Epithelial",NA,NA,"epithelial cell","Luminal Breast Cancer Cells",NA,NA,"malignant cell",0
+5,0.5,"CCL21,RELN,FLT4","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+5,0.5,"CD36,LYVE1,MS4A6A,CPM,C1QA,MRC1,MERTK,MR1,CD163","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+5,0.5,"HDC,TPSB2,FCER1A","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+5,0.5,"MME,MYH11,ACTA2,KRT5","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Myoepithelial Cells","myoepithelial cell","CL:0000185","epithelial cell",1
+5,0.5,"ACTA2,MCAM,MYO1B,ANPEP","Pericyte","pericyte","CL:0000669","pericyte","Pericytes","pericyte","CL:0000669","pericyte",1
+5,0.5,"PALLD,VCL,MYL9,CALD1,CNN1,ACTG2,TAGLN","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+5,0.5,"CD3E,NKG7,CD3D,SKAP1,CD96,THEMIS","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+5,0.5,"RAMP3,EPHB4,VWF,CDH5,CLDN5,BACE2,CD300LG","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Blood Vascular Endothelial Cells","blood vessel endothelial cell","CL:0000071","endothelial cell",0.5
+5,0.75,"GHR,LPIN1,PPARG,EBF1,FOXO1,ADIPOQ,PLIN1","Adipocyte","fat cell","CL:0000136","fat cell","Adipocytes","fat cell","CL:0000136","fat cell",1
+5,0.75,"CD24,FAS,CR2","B cell_memory","memory B cell","CL:0000787","b cell","B Cells","B cell","CL:0000236","b cell",0.5
+5,0.75,"FN1,CCN2,COL3A1,SLIT2,FN1,COL6A1,IGFBP3,COL6A2,FBN1,COL1A2,DCN,COL5A1,HGF,DDR2,COL6A3,FGF7,COL18A1,COL6A6,IL33,NEGR1,IGFBP5","Fibroblast","fibroblast","CL:0000057","fibroblast","Fibroblasts","fibroblast","CL:0000057","fibroblast",1
+5,0.75,"KLF5,EPCAM,SOX10,PRLR,HES2,ESR1,PGR,MUC1,KIT,KRT8,KRT19,TFCP2L1","Luminal Epithelial",NA,NA,"epithelial cell","Breast Epithelial cells","mammary gland epithelial cell","CL:0002327","epithelial cell",0.5
+5,0.75,"LYVE1,MMRN1,PROX1,FLT4,CCL21","Lymphatic Endothelial","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell","Lymphatic Endothelial Cells","endothelial cell of lymphatic vessel","CL:0002138","endothelial cell",1
+5,0.75,"MERTK,CPM,SLC11A1,C1QA,MS4A4A,LYVE1,MRC1,CD74,CD68,CD36,PTPRC,MR1,CSF1R,CD163","Macrophage","macrophage","CL:0000235","macrophage/monocyte","Macrophages","macrophage","CL:0000235","macrophage/monocyte",1
+5,0.75,"FCER1A,CD69,TPSB2,TPSAB1","Mast Cell","mast cell","CL:0000097","granulocyte","Mast Cells","mast cell","CL:0000097","granulocyte",1
+5,0.75,"MYH11,ACTA2,MME,KRT17,KRT5,TP63","Myoepithelial (Basal)","myoepithelial cell","CL:0000185","epithelial cell","Epithelial Cells","epithelial cell","CL:0000066","epithelial cell",0.5
+5,0.75,"MYO1B,ACTA2,DES,MCAM,ACTA2,ANPEP","Pericyte","pericyte","CL:0000669","pericyte","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",0
+5,0.75,"MYL9,MYH11,CALD1,GUCY1B3,CNN1,TAGLN,PALLD,ACTA2,ACTG2,SMTN,ACTN1","Smooth Muscle","smooth muscle cell","CL:0000192","muscle cell","Smooth Muscle Cells","smooth muscle cell","CL:0000192","muscle cell",1
+5,0.75,"IL7R,SKAP1,CD3E,TRAC,CD3G,THEMIS,CD247,CD3D,TRBC1","T cell","T cell","CL:0000084","t/nk cell","T Cells","T cell","CL:0000084","t/nk cell",1
+5,0.75,"EGFL7,BACE2,EPHB4,RAMP3,CDH5,PECAM1,VWF,PECAM1,NOSTRIN,CLDN5","Vascular Endothelial","endothelial cell of vascular tree","CL:0002139","endothelial cell","Endothelial Cells","endothelial cell","CL:0000115","endothelial cell",0.5

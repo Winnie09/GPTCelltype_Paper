@@ -1,0 +1,181 @@
+simuround,subset,celltype,gene,annotation
+1,0.25,Adipocyte,"ADIPOQ,PLIN2","Adipocytes, Lipid metabolizing cells"
+1,0.25,B cell_memory,CR2,B cells
+1,0.25,Fibroblast,"S100A4,COL6A2,DCN,HGF,IGFBP3,IGFBP5,FN1","Fibroblasts, Dermal Fibroblasts"
+1,0.25,Luminal Epithelial,"KIT,SOX9,KRT7,MUC1","Epithelial cells, Gastric Epithelial cells"
+1,0.25,Lymphatic Endothelial,LYVE1,Lymphatic Endothelial Cells
+1,0.25,Macrophage,"PTPRC,MSR1,C1QA,CD68","Macrophages, Microglia"
+1,0.25,Mast Cell,TPSAB1,Mast cells
+1,0.25,Myoepithelial (Basal),"TP63,MME","Basal cells, Epidermal Stem Cells"
+1,0.25,Pericyte,"DES,MYO1B","Muscle cells, Myocytes"
+1,0.25,Smooth Muscle,"MYL9,ACTN1,ACTG2",Smooth Muscle Cells
+1,0.25,T cell,"CD3G,CD96,SKAP1","T cells, Cytotoxic T cells"
+1,0.25,Vascular Endothelial,"PECAM1,PECAM1,EPHB4",Endothelial cells
+1,0.5,Adipocyte,"GHR,FOXO1,PPARG,PLIN2,ACSL1","Adipocytes, T cells"
+1,0.5,B cell_memory,"CXCR3,CD24",B cells
+1,0.5,Fibroblast,"SLIT2,FBLN1,COL6A2,COL3A1,NEGR1,VIM,FBN1,COL5A1,IGFBP5,FN1,COL5A2,HGF,S100A4,COL6A6",Fibroblasts
+1,0.5,Luminal Epithelial,"KRT7,SOX9,HES2,KLF5,MUC1,KRT8,KRT19,AFF3",Epithelial Cells
+1,0.5,Lymphatic Endothelial,"LYVE1,RELN,FLT4",Lymphatic Endothelial Cells
+1,0.5,Macrophage,"MS4A6A,MRC1,CD36,CSF1R,PTPRC,MSR1,LYVE1,CD163,CD68",Macrophages
+1,0.5,Mast Cell,"CD69,HDC,KIT",Mast Cells
+1,0.5,Myoepithelial (Basal),"TP63,MME,KRT5,MYH11","Epithelial Stem Cells, Smooth Muscle Cells"
+1,0.5,Pericyte,"CSPG4,ACTA2,DES,MCAM",Pericytes
+1,0.5,Smooth Muscle,"DES,SMTN,CALD1,ACTG2,VCL,PALLD,TAGLN",Smooth Muscle Cells
+1,0.5,T cell,"CD69,PTPRC,CD3D,CD3E,IL7R,SKAP1",T Cells
+1,0.5,Vascular Endothelial,"PECAM1,PTPRB,EGFL7,EPHB4,LDB2,CD300LG,LDB2",Endothelial Cells
+1,0.75,Adipocyte,"LPIN1,PPARG,ACSL1,GHR,PLIN2,EBF1,PLIN1",Adipocytes
+1,0.75,B cell_memory,"CD24,FAS,CXCR3",B cells
+1,0.75,Fibroblast,"FN1,HGF,COL5A2,COL3A1,COL1A2,CCN2,COL1A1,FBN1,IL33,FGF7,IGFBP5,COL5A1,DDR2,IGFBP3,COL18A1,SLIT2,VIM,COL6A2,S100A4,NEGR1,FBLN1",Fibroblasts
+1,0.75,Luminal Epithelial,"MUC1,TFCP2L1,AFF3,KRT18,PRLR,SOX10,EPCAM,KRT8,KLF5,ELF5,KRT7,ESR1",Breast Epithelial cells 
+1,0.75,Lymphatic Endothelial,"MMRN1,LYVE1,RELN,FLT4,PROX1",Lymphatic Endothelial Cells
+1,0.75,Macrophage,"CD36,RBPJ,CD163,MS4A6A,MS4A4A,MS4A6A,LYZ,CPM,CD74,CD68,CSF1R,MSR1,MERTK,MRC1",Monocytes/Macrophages
+1,0.75,Mast Cell,"FCER1A,HDC,TPSB2,TPSAB1",Mast Cells
+1,0.75,Myoepithelial (Basal),"ACTA2,MME,CALD1,TP63,KRT5,KRT14",Myoepithelial Cells
+1,0.75,Pericyte,"MCAM,ANPEP,CSPG4,PDGFRB,DES,ACTA2",Pericytes
+1,0.75,Smooth Muscle,"ACTA2,CALD1,TAGLN,CNN1,ACTG2,SMTN,ACTN1,MYH11,VCL,MYOCD,PALLD",Smooth Muscle Cells
+1,0.75,T cell,"CD3E,CD3G,THEMIS,NKG7,SKAP1,CD96,CD3D,TRBC1,CD69",T cells
+1,0.75,Vascular Endothelial,"LDB2,VWF,CDH5,EPHB4,NOSTRIN,BACE2,CD300LG,PTPRB,RAMP3,EGFL7",Endothelial Cells
+2,0.25,Adipocyte,"G0S2,ACSL1",Adipocytes
+2,0.25,B cell_memory,CXCR3,T cells
+2,0.25,Fibroblast,"COL4A1,NEGR1,DDR2,COL1A1,FBN1,COL5A1,COL1A2",Fibroblasts
+2,0.25,Luminal Epithelial,"SOX10,HES2,KIT,MUC1",Melanocytes
+2,0.25,Lymphatic Endothelial,LYVE1,Lymphatic endothelial cells
+2,0.25,Macrophage,"PTPRC,CD68,MSR1,CD163",Macrophages
+2,0.25,Mast Cell,HDC,Mast cells
+2,0.25,Myoepithelial (Basal),"TP63,MYH11",Smooth muscle cells
+2,0.25,Pericyte,"ANPEP,ACTA2",Smooth muscle cells
+2,0.25,Smooth Muscle,"GUCY1B3,TAGLN,DES",Smooth muscle cells
+2,0.25,T cell,"TRAC,TRBC1,IL7R",T cells
+2,0.25,Vascular Endothelial,"BACE2,VWF,LDB2",Endothelial cells
+2,0.5,Adipocyte,"PPARG,PLIN2,FOXO1,ADIPOQ,LPIN1",Adipocytes
+2,0.5,B cell_memory,"CD24,CXCR3",T cells
+2,0.5,Fibroblast,"NEGR1,FN1,HGF,SLIT2,IL6,FBLN1,FN1,S100A4,IL33,FBN1,COL6A1,COL1A1,COL6A2,COL18A1",Fibroblasts
+2,0.5,Luminal Epithelial,"KRT7,PRLR,HES2,TFCP2L1,KRT19,KRT8,ELF5,ESR1",Luminal Epithelial Breast Cells
+2,0.5,Lymphatic Endothelial,"MMRN1,FLT4,PROX1",Lymphatic Endothelial Cells
+2,0.5,Macrophage,"CD163,PTPRC,RBPJ,C1QA,CD36,LYZ,MS4A6A,MRC1,MERTK",Macrophages
+2,0.5,Mast Cell,"TPSB2,TPSAB1,HDC",Mast Cells
+2,0.5,Myoepithelial (Basal),"KRT5,CALD1,MME,MYH11",Smooth Muscle Cells
+2,0.5,Pericyte,"MCAM,DES,ACTA2,CSPG4",Pericytes
+2,0.5,Smooth Muscle,"CALD1,DES,MYL9,ACTN1,TAGLN,GUCY1B3,VCL",Smooth Muscle Cells
+2,0.5,T cell,"SKAP1,CD96,CD3E,TRAC,IL7R,CD3D",T cells
+2,0.5,Vascular Endothelial,"PECAM1,PTPRB,CDH5,EGFL7,PECAM1,CLDN5,LDB2",Endothelial Cells
+2,0.75,Adipocyte,"PPARG,EBF1,ADIPOQ,GHR,FOXO1,ACSL1,PLIN1",Adipocytes
+2,0.75,B cell_memory,"FAS,CR2,CD1c",B cells
+2,0.75,Fibroblast,"IGFBP3,COL1A1,COL4A1,IL6,NEGR1,S100A4,COL6A1,COL3A1,IL33,CCN2,COL6A6,HGF,COL1A2,IGFBP5,DCN,DDR2,COL6A3,FGF7,FBLN1,FN1,FN1",Fibroblasts
+2,0.75,Luminal Epithelial,"SOX10,PGR,ESR1,HES2,KRT8,ELF5,PRLR,KIT,KLF5,KRT7,AFF3,KRT18",Breast Epithelial Cells
+2,0.75,Lymphatic Endothelial,"CCL21,FLT4,RELN,LYVE1,PROX1",Lymphatic Endothelial Cells
+2,0.75,Macrophage,"MS4A6A,CD68,PTPRC,MR1,CD163,CD74,RBPJ,MERTK,LYVE1,MRC1,MSR1,LYZ,MS4A4A,C1QA",Macrophages
+2,0.75,Mast Cell,"TPSB2,CD69,KIT,TPSAB1",Mast Cells
+2,0.75,Myoepithelial (Basal),"ACTA2,MME,CALD1,KRT17,KRT5,MYH11",Smooth Muscle Cells
+2,0.75,Pericyte,"CSPG4,MCAM,ACTA2,PDGFRB,MYO1B,ANPEP",Pericytes
+2,0.75,Smooth Muscle,"GUCY1B3,MYL9,ACTA2,SMTN,DES,MYOCD,CALD1,ACTG2,ACTN1,GUCY1A3,VCL",Smooth Muscle Cells
+2,0.75,T cell,"TRBC1,CD3D,NKG7,PTPRC,TRAC,CD96,CD3E,SKAP1,CD3G",T Cells
+2,0.75,Vascular Endothelial,"CDH5,VWF,EPHB4,CLDN5,RAMP3,CD300LG,LDB2,PTPRB,EGFL7,LDB2",Endothelial Cells
+3,0.25,Adipocyte,"LPIN1,ADIPOQ",Adipocytes
+3,0.25,B cell_memory,CD1c,Dendritic Cells
+3,0.25,Fibroblast,"NEGR1,COL6A6,FBLN1,COL6A1,FN1,COL3A1,IGFBP3",Fibroblasts
+3,0.25,Luminal Epithelial,"ELF5,SOX10,HES2,SOX9",Mammary epithelial cells
+3,0.25,Lymphatic Endothelial,PROX1,Lymphatic endothelial cells
+3,0.25,Macrophage,"CD36,CSF1R,MS4A6A,MS4A6A",Macrophages
+3,0.25,Mast Cell,KIT,Mast Cells
+3,0.25,Myoepithelial (Basal),"MYH11,ACTA2",Smooth Muscle Cells
+3,0.25,Pericyte,"ACTA2,MCAM",Pericytes
+3,0.25,Smooth Muscle,"SMTN,PALLD,CNN1",Smooth Muscle Cells
+3,0.25,T cell,"IL7R,SKAP1,CD247",T Cells
+3,0.25,Vascular Endothelial,"VWF,EGFL7,CLDN5",Endothelial Cells
+3,0.5,Adipocyte,"LPIN1,PLIN1,G0S2,ACSL1,FOXO1",Adipocytes
+3,0.5,B cell_memory,"CD1c,FAS",Dendritic Cells
+3,0.5,Fibroblast,"COL6A2,COL18A1,COL6A3,S100A4,COL6A6,IL6,COL5A1,VIM,IL33,DCN,CCN2,NEGR1,COL3A1,COL4A1",Fibroblasts
+3,0.5,Luminal Epithelial,"SOX9,KLF5,KRT18,ESR1,KIT,HES2,MUC1,KRT7",Breast Epithelial Cells
+3,0.5,Lymphatic Endothelial,"RELN,CCL21,MMRN1",Lymphatic Endothelial Cells
+3,0.5,Macrophage,"RBPJ,MSR1,MRC1,CD74,C1QA,LYVE1,MR1,MS4A6A,MS4A6A",Macrophages
+3,0.5,Mast Cell,"KIT,HDC,CD69",Mast Cells
+3,0.5,Myoepithelial (Basal),"KRT17,KRT5,TP63,KRT14",Basal Epithelial Cells
+3,0.5,Pericyte,"DES,ACTA2,MCAM,CSPG4",Myofibroblasts
+3,0.5,Smooth Muscle,"ACTA2,SMTN,TAGLN,MYH11,GUCY1A3,MYL9,MYOCD",Smooth Muscle Cells
+3,0.5,T cell,"THEMIS,IL7R,CD3D,TRBC1,NKG7,CD3E",T Cells
+3,0.5,Vascular Endothelial,"PECAM1,EPHB4,RAMP3,CDH5,LDB2,LDB2,PECAM1",Endothelial Cells
+3,0.75,Adipocyte,"PLIN1,ACSL1,PLIN2,ADIPOQ,G0S2,PPARG,EBF1",Adipocytes
+3,0.75,B cell_memory,"CR2,FAS,CD1c",B cells
+3,0.75,Fibroblast,"COL5A2,DDR2,FBLN1,DCN,SLIT2,COL1A2,COL4A1,COL3A1,IL6,COL6A1,FBN1,NEGR1,IGFBP3,FN1,IL33,VIM,COL6A6,COL6A2,COL1A1,FN1,COL18A1",Fibroblasts
+3,0.75,Luminal Epithelial,"EPCAM,SOX9,TFCP2L1,KLF5,ESR1,KRT8,AFF3,KRT19,MUC1,KRT7,PGR,PRLR",Luminal epithelial cells
+3,0.75,Lymphatic Endothelial,"CCL21,LYVE1,MMRN1,FLT4,LYVE1",Lymphatic endothelial cells
+3,0.75,Macrophage,"SLC11A1,CSF1R,MS4A6A,LYZ,CD36,MS4A6A,RBPJ,CD163,MR1,LYVE1,CPM,MS4A4A,C1QA,MRC1",Tissue-resident macrophages
+3,0.75,Mast Cell,"KIT,TPSAB1,FCER1A,CD69",Mast cells
+3,0.75,Myoepithelial (Basal),"ACTA2,MME,KRT17,KRT14,MYH11,CALD1",Myofibroblasts
+3,0.75,Pericyte,"DES,PDGFRB,CSPG4,ACTA2,MCAM,ACTA2",Pericytes
+3,0.75,Smooth Muscle,"SMTN,GUCY1A3,MYOCD,GUCY1B3,ACTG2,CALD1,MYL9,ACTA2,TAGLN,PALLD,MYH11",Smooth muscle cells
+3,0.75,T cell,"THEMIS,IL7R,SKAP1,CD96,TRBC1,CD247,CD3D,CD3G,TRAC",T cells
+3,0.75,Vascular Endothelial,"PTPRB,EGFL7,CD300LG,CDH5,NOSTRIN,VWF,PECAM1,EPHB4,CLDN5,RAMP3",Endothelial cells
+4,0.25,Adipocyte,"G0S2,PLIN1",Adipocytes
+4,0.25,B cell_memory,CXCR3,T cells
+4,0.25,Fibroblast,"S100A4,COL4A1,FBN1,COL18A1,FN1,COL6A6,IL6",Fibroblasts
+4,0.25,Luminal Epithelial,"KRT18,SOX10,KRT7,PGR",Basal Cells
+4,0.25,Lymphatic Endothelial,RELN,Neurons
+4,0.25,Macrophage,"CD36,CPM,LYVE1,RBPJ",Endothelial Cells
+4,0.25,Mast Cell,CD69,T cells
+4,0.25,Myoepithelial (Basal),"ACTA2,KRT14",Myoepithelial Cells
+4,0.25,Pericyte,"ANPEP,DES",Myocytes
+4,0.25,Smooth Muscle,"ACTN1,DES,SMTN",Smooth muscle cells
+4,0.25,T cell,"SKAP1,PTPRC,CD3D",T Cells
+4,0.25,Vascular Endothelial,"LDB2,PECAM1,CLDN5",Endothelial Cells
+4,0.5,Adipocyte,"PLIN1,G0S2,PPARG,PLIN2,FOXO1",Adipocytes
+4,0.5,B cell_memory,"CR2,CXCR3",T cells or B cells
+4,0.5,Fibroblast,"NEGR1,COL1A2,FN1,IL33,SLIT2,FGF7,IGFBP3,COL6A2,COL18A1,COL5A1,COL4A1,CCN2,COL3A1,HGF",Fibroblasts
+4,0.5,Luminal Epithelial,"KRT19,ELF5,ESR1,PRLR,SOX9,KRT18,HES2,EPCAM",Luminal Breast Epithelial Cells
+4,0.5,Lymphatic Endothelial,"MMRN1,LYVE1,CCL21",Lymphatic Endothelial Cells
+4,0.5,Macrophage,"CD74,PTPRC,RBPJ,CD163,CPM,LYVE1,MSR1,LYZ,MR1",Macrophages
+4,0.5,Mast Cell,"TPSAB1,TPSB2,FCER1A",Mast Cells
+4,0.5,Myoepithelial (Basal),"TP63,KRT5,MYH11,KRT14",Epithelial Stem Cells
+4,0.5,Pericyte,"ACTA2,ANPEP,ACTA2,MYO1B",Smooth Muscle Cells
+4,0.5,Smooth Muscle,"TAGLN,SMTN,GUCY1B3,MYOCD,ACTA2,ACTG2,MYL9",Smooth Muscle Cells
+4,0.5,T cell,"PTPRC,TRBC1,IL7R,SKAP1,CD69,CD3G",T cells
+4,0.5,Vascular Endothelial,"RAMP3,PTPRB,BACE2,PECAM1,EPHB4,CD300LG,LDB2",Endothelial Cells
+4,0.75,Adipocyte,"LPIN1,ADIPOQ,FOXO1,ACSL1,GHR,PLIN1,PLIN2",Adipocytes
+4,0.75,B cell_memory,"CD1c,CD24,FAS",B cells
+4,0.75,Fibroblast,"COL6A6,IGFBP5,FGF7,COL1A1,VIM,FBN1,HGF,COL6A1,COL1A2,COL6A3,COL4A1,NEGR1,IL33,COL6A2,FN1,COL18A1,SLIT2,COL5A2,COL3A1,COL5A1,S100A4",Fibroblasts
+4,0.75,Luminal Epithelial,"KRT7,AFF3,KIT,PGR,PRLR,ELF5,SOX9,HES2,MUC1,KRT18,ESR1,KRT8",Epithelial Cells
+4,0.75,Lymphatic Endothelial,"MMRN1,PROX1,RELN,LYVE1,CCL21",Lymphatic Endothelial Cells
+4,0.75,Macrophage,"MS4A4A,SLC11A1,CD36,MS4A6A,CSF1R,CD74,LYZ,MS4A6A,C1QA,MR1,MSR1,RBPJ,MRC1,MERTK",Macrophages
+4,0.75,Mast Cell,"TPSB2,FCER1A,TPSAB1,CD69",Mast Cells
+4,0.75,Myoepithelial (Basal),"MME,MYH11,KRT5,KRT17,ACTA2,KRT14",Myoepithelial Cells
+4,0.75,Pericyte,"ANPEP,MYO1B,PDGFRB,MCAM,CSPG4,DES",Pericytes
+4,0.75,Smooth Muscle,"ACTN1,MYL9,ACTG2,VCL,TAGLN,MYOCD,CALD1,GUCY1B3,SMTN,MYH11,CNN1",Smooth Muscle Cells
+4,0.75,T cell,"TRBC1,CD3G,CD247,NKG7,PTPRC,CD69,IL7R,TRAC,CD96",T Cells
+4,0.75,Vascular Endothelial,"EPHB4,RAMP3,VWF,PTPRB,NOSTRIN,CLDN5,CDH5,CD300LG,EGFL7,PECAM1",Endothelial Cells
+5,0.25,Adipocyte,"PLIN2,GHR","Adipocytes, Hepatocytes"
+5,0.25,B cell_memory,CR2,B cells
+5,0.25,Fibroblast,"IGFBP5,FBN1,CCN2,COL1A2,NEGR1,FGF7,COL5A2",Fibroblasts
+5,0.25,Luminal Epithelial,"KRT19,AFF3,EPCAM,KIT","Epithelial cells, Basal Cells"
+5,0.25,Lymphatic Endothelial,FLT4,Endothelial cells
+5,0.25,Macrophage,"MS4A6A,CD36,CPM,CD68","Monocytes, Macrophages"
+5,0.25,Mast Cell,HDC,Mast cells
+5,0.25,Myoepithelial (Basal),"KRT17,KRT14",Stratified epithelial cells
+5,0.25,Pericyte,"MYO1B,ACTA2","Myocytes, Smooth muscle cells"
+5,0.25,Smooth Muscle,"TAGLN,CNN1,DES",Smooth muscle cells
+5,0.25,T cell,"IL7R,CD69,TRBC1",T cells
+5,0.25,Vascular Endothelial,"CD300LG,LDB2,PTPRB",Endothelial cells
+5,0.5,Adipocyte,"ACSL1,PPARG,LPIN1,PLIN2,GHR",Adipocytes
+5,0.5,B cell_memory,"CD24,CD1c",Dendritic Cells
+5,0.5,Fibroblast,"FBN1,S100A4,CCN2,IGFBP5,SLIT2,FN1,COL6A3,COL3A1,NEGR1,COL6A6,DCN,FBLN1,VIM,COL1A2",Fibroblasts
+5,0.5,Luminal Epithelial,"ESR1,KLF5,SOX9,AFF3,SOX10,KRT19,PGR,ELF5",Luminal Breast Cancer Cells
+5,0.5,Lymphatic Endothelial,"CCL21,RELN,FLT4",Lymphatic Endothelial Cells
+5,0.5,Macrophage,"CD36,LYVE1,MS4A6A,CPM,C1QA,MRC1,MERTK,MR1,CD163",Macrophages
+5,0.5,Mast Cell,"HDC,TPSB2,FCER1A",Mast Cells
+5,0.5,Myoepithelial (Basal),"MME,MYH11,ACTA2,KRT5",Myoepithelial Cells
+5,0.5,Pericyte,"ACTA2,MCAM,MYO1B,ANPEP",Pericytes
+5,0.5,Smooth Muscle,"PALLD,VCL,MYL9,CALD1,CNN1,ACTG2,TAGLN",Smooth Muscle Cells
+5,0.5,T cell,"CD3E,NKG7,CD3D,SKAP1,CD96,THEMIS",T Cells
+5,0.5,Vascular Endothelial,"RAMP3,EPHB4,VWF,CDH5,CLDN5,BACE2,CD300LG",Blood Vascular Endothelial Cells
+5,0.75,Adipocyte,"GHR,LPIN1,PPARG,EBF1,FOXO1,ADIPOQ,PLIN1",Adipocytes
+5,0.75,B cell_memory,"CD24,FAS,CR2",B Cells
+5,0.75,Fibroblast,"FN1,CCN2,COL3A1,SLIT2,FN1,COL6A1,IGFBP3,COL6A2,FBN1,COL1A2,DCN,COL5A1,HGF,DDR2,COL6A3,FGF7,COL18A1,COL6A6,IL33,NEGR1,IGFBP5",Fibroblasts
+5,0.75,Luminal Epithelial,"KLF5,EPCAM,SOX10,PRLR,HES2,ESR1,PGR,MUC1,KIT,KRT8,KRT19,TFCP2L1",Breast Epithelial cells
+5,0.75,Lymphatic Endothelial,"LYVE1,MMRN1,PROX1,FLT4,CCL21",Lymphatic Endothelial Cells
+5,0.75,Macrophage,"MERTK,CPM,SLC11A1,C1QA,MS4A4A,LYVE1,MRC1,CD74,CD68,CD36,PTPRC,MR1,CSF1R,CD163",Macrophages
+5,0.75,Mast Cell,"FCER1A,CD69,TPSB2,TPSAB1",Mast Cells
+5,0.75,Myoepithelial (Basal),"MYH11,ACTA2,MME,KRT17,KRT5,TP63",Epithelial Cells
+5,0.75,Pericyte,"MYO1B,ACTA2,DES,MCAM,ACTA2,ANPEP",Smooth Muscle Cells
+5,0.75,Smooth Muscle,"MYL9,MYH11,CALD1,GUCY1B3,CNN1,TAGLN,PALLD,ACTA2,ACTG2,SMTN,ACTN1",Smooth Muscle Cells
+5,0.75,T cell,"IL7R,SKAP1,CD3E,TRAC,CD3G,THEMIS,CD247,CD3D,TRBC1",T Cells
+5,0.75,Vascular Endothelial,"EGFL7,BACE2,EPHB4,RAMP3,CDH5,PECAM1,VWF,PECAM1,NOSTRIN,CLDN5",Endothelial Cells

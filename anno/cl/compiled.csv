@@ -1,0 +1,1625 @@
+originalname,Clname,CLID,type
+colonocyte,colon epithelial cell,CL:0011108,epithelial cell
+epithelial tumor cell / adenocarcinoma cells,NA,NA,malignant cell
+stroma cell,stromal cell,CL:0000499,stromal cell
+intestinal stem cell or transit-amplifying cells,"NA,transit amplifying cell","NA,CL:0009010","stem cell,transit amplifying cell"
+secretory luminal epithelial cell,NA,NA,epithelial cell
+t helper 17 (th17) cell or lymphocytes,T-helper 17 cell,CL:0000899,t/nk cell
+vascular smooth muscle cell or myofibroblasts,"vascular associated smooth muscle cell,myofibroblast cell","CL:0000359,CL:0000186","muscle cell,myofibroblast cell"
+na,NA,NA,NA
+biliary epithelial cell,NA,NA,epithelial cell
+cholinergic amacrine cell,NA,NA,neuron
+cholinergic neurons,cholinergic neuron,CL:0000108,neuron
+ciliary body cell,NA,NA,blood vessel cell
+clec9a+ dendritic cell,NA,NA,dendritic cell
+colonocytes / absorptive cell,"colon epithelial cell,absorptive cell","CL:0011108,CL:0000212","epithelial cell,absorptive cell"
+colonocytes / goblet cell,"colon epithelial cell,goblet cell","CL:0011108,CL:0000160",epithelial cell
+cornea epithelial cell,corneal epithelial cell,CL:0000575,epithelial cell
+cytotoxic effector t cell,NA,NA,t/nk cell
+dendritic cell / antigen-presenting cells,"dendritic cell,professional antigen presenting cell","CL:0000451,CL:0000145","dendritic cell,antigen presenting cell"
+ductal progenitor cell,NA,NA,progenitor cell
+early transit-amplifying prostate epithelial cell,NA,NA,epithelial cell
+effector cd4+ t cell,"effector CD4-positive, alpha-beta T cell",CL:0001044,t/nk cell
+effector cd8 t cell,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+endometrial stromal cell,stromal cell of endometrium,CL:0002255,stromal cell
+endothelial cell / fibroblasts,"endothelial cell,fibroblast","CL:0000115,CL:0000057","endothelial cell,fibroblast"
+endothelial cell / smooth muscle cells,"endothelial cell,smooth muscle cell","CL:0000115,CL:0000192","endothelial cell,muscle cell"
+endothelial cell / vascular cells,"endothelial cell,NA","CL:0000115,NA","endothelial cell,blood vessel cell"
+enterochromaffin cell / endocrine cells,"enterochromaffin-like cell,endocrine cell","CL:0000504,CL:0000163","epithelial cell,secretory cell"
+enterocytes / absorptive cell,"enterocyte,absorptive cell","CL:0000584,CL:0000212",absorptive cell
+epithelial cell / endothelial cells,"epithelial cell,endothelial cell","CL:0000066,CL:0000115","epithelial cell,endothelial cell"
+epithelial cell / mesenchymal cells,"epithelial cell,mesenchymal cell","CL:0000066,CL:0008019","epithelial cell,mesenchymal cell"
+epithelioid macrophage,epithelioid macrophage,CL:0002150,macrophage/monocyte
+fibroblasts / endothelial cell,"fibroblast,endothelial cell","CL:0000057,CL:0000115","fibroblast,endothelial cell"
+fibroblasts / immune cell,"fibroblast,NA","CL:0000057,NA","fibroblast,immune cell"
+foxn4+ cell,NA,NA,NA
+glutamatergic neurons,glutamatergic neuron,CL:0000679,neuron
+goblet cell / epithelial cells,"goblet cell,epithelial cell","CL:0000160,CL:0000066",epithelial cell
+ilc3 (group 3 innate lymphoid cell),group 3 innate lymphoid cell,CL:0001071,innate lymphoid cell
+intestinal stem cell,NA,NA,stem cell
+iodide-transporting cell,NA,NA,NA
+lacrimal gland cell,NA,NA,NA
+lgr5+ stem cell,NA,NA,stem cell
+ltf granulocyte,NA,NA,granulocyte
+m2c macrophage,NA,NA,macrophage/monocyte
+mast cell / macrophages,"mast cell,macrophage","CL:0000097,CL:0000235","granulocyte,macrophage/monocyte"
+mature endothelial cell,NA,NA,endothelial cell
+memory cd4 t cell,"CD4-positive, alpha-beta memory T cell",CL:0000897,t/nk cell
+migrating dendritic cell,NA,NA,dendritic cell
+migratory langerhans cell,NA,NA,dendritic cell
+mitochondrial-rich cell,NA,NA,NA
+mki67+ progenitor cell,NA,NA,progenitor cell
+monocytes / macrophages,"monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+myoblasts / satellite cell,"myoblast,NA","CL:0000056,NA",progenitor cell
+myocytes / smooth muscle cell,"muscle cell,smooth muscle cell","CL:0000187,CL:0000192",muscle cell
+naive cytotoxic t cell,NA,NA,t/nk cell
+neuroepithelial cell,neuroepithelial stem cell,CL:0002259,stem cell
+nk cell / cytotoxic t cells,"natural killer cell,cytotoxic T cell","CL:0000623,CL:0000910",t/nk cell
+rod cell,retinal rod cell,CL:0000604,neuron
+serous cell,NA,NA,NA
+smooth muscle cell / mesenchymal cells,"smooth muscle cell,mesenchymal cell","CL:0000192,CL:0008019","muscle cell,mesenchymal cell"
+smooth muscle cell / myofibroblasts,"smooth muscle cell,myofibroblast cell","CL:0000192,CL:0000186","muscle cell,myofibroblast cell"
+smooth muscle cell / vascular cells,"smooth muscle cell,NA","CL:0000192,NA","muscle cell,blood vessel cell"
+t cell / nk cells,"T cell,natural killer cell","CL:0000084,CL:0000084",t/nk cell
+thymus seeding progenitor (tsp),NA,NA,progenitor cell
+undetermined/non-coding rna,NA,NA,NA
+1) endothelial cell,endothelial cell,CL:0000115,endothelial cell
+2) cardiomyocytes,cardiac muscle cell,CL:0000746,muscle cell
+3) epithelial cell,epithelial cell,CL:0000066,epithelial cell
+4) smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell
+5) fibroblasts,fibroblast,fibroblast,fibroblast
+6) macrophages,macrophage,CL:0000235,macrophage/monocyte
+absorbing colonocytes,NA,NA,epithelial cell
+acinar cell of salivary gland,acinar cell of salivary gland,CL:0002623,epithelial cell
+"acinar cell, ductal cells","acinar cell,NA","CL:0000622,NA",epithelial cell
+airway smooth muscle cell,NA,NA,muscle cell
+alveolar epithelial type 2 cell,type II pneumocyte,CL:0002063,epithelial cell
+alveolar fibroblast,NA,NA,fibroblast
+arterial endothelial cell,endothelial cell of artery,CL:1000413,endothelial cell
+artery endothelial cell,endothelial cell of artery,CL:1000413,endothelial cell
+"b cell, plasma cells","B cell,plasma cell","CL:0000236,CL:0000786",b cell
+basal cell of limbus,NA,NA,stem cell
+basal cell of prostate epithelium,basal cell of prostate epithelium,CL:0002341,epithelial cell
+basophil,basophil,CL:0000767,granulocyte
+bladder urothelial cell,bladder urothelial cell,CL:1001428,epithelial cell
+bronchial smooth muscle cell,bronchial smooth muscle cell,CL:0002598,muscle cell
+bronchial vessel endothelial cell,NA,NA,endothelial cell
+cardiac endothelial cell,cardiac endothelial cell,CL:0010008,endothelial cell
+cd141-positive myeloid dendritic cell,CD141-positive myeloid dendritic cell,CL:0002394,dendritic cell
+cd1c-positive myeloid dendritic cell,CD1c-positive myeloid dendritic cell,CL:0002399,dendritic cell
+cd24 neutrophil,NA,NA,granulocyte
+cd4-positive helper t cell,CD4-positive helper T cell,CL:0000492,t/nk cell
+"cd4-positive, alpha-beta memory t cell","CD4-positive, alpha-beta memory T cell",CL:0000897,t/nk cell
+"cd4-positive, alpha-beta t cell","CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+"cd8-positive, alpha-beta cytokine secreting effector t cell","CD8-positive, alpha-beta cytokine secreting effector T cell",CL:0000908,t/nk cell
+"cd8-positive, alpha-beta cytotoxic t cell","CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,t/nk cell
+"cd8-positive, alpha-beta memory t cell","CD8-positive, alpha-beta memory T cell",CL:0000909,t/nk cell
+"cd8-positive, alpha-beta t cell","CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+cd8b-positive nk t cell,NA,NA,t/nk cell
+cell of skeletal muscle,cell of skeletal muscle,CL:0000188,muscle cell
+cilia and flagella cell,NA,NA,NA
+ciliary body,NA,NA,NA
+ciliary epithelium,NA,NA,epithelial cell
+classical monocyte,classical monocyte,CL:0000860,macrophage/monocyte
+club cell of prostate epithelium,club-like cell of the urethral epithelium,CL:4032000,epithelial cell
+conjunctival epithelial cell,conjunctival epithelial cell,CL:1000432,epithelial cell
+connective tissue cell,connective tissue cell,CL:0002320,connective tissue cell
+corneal epithelial cell,corneal epithelial cell,CL:0000575,epithelial cell
+corneal epithelial stem cell,NA,NA,stem cell
+corneal keratocyte,keratocyte,CL:0002363,fibroblast
+"cytotoxic t cell, natural killer cells","cytotoxic T cell,natural killer cell","CL:0000910,CL:0000623",t/nk cell
+cytotoxic t-cell,cytotoxic T cell,CL:0000910,t/nk cell
+"dendritic cell, myeloid cells","dendritic cell,myeloid cell","CL:0000451,CL:0000763","dendritic cell,myeloid cell"
+dn1 thymic pro-t cell,DN1 thymic pro-T cell,CL:0000894,progenitor cell
+dn3 thymocyte,DN3 thymocyte,CL:0000807,t/nk cell
+dn4 thymocyte,DN4 thymocyte,CL:0000808,t/nk cell
+"double-positive, alpha-beta thymocyte","double-positive, alpha-beta thymocyte",CL:0000809,t/nk cell
+duct epithelial cell,duct epithelial cell,CL:0000068,epithelial cell
+duodenum glandular cell,duodenum glandular cell,CL:1001589,epithelial cell
+endothelial cell of artery,endothelial cell of artery,CL:1000413,endothelial cell
+endothelial cell of hepatic sinusoid,endothelial cell of hepatic sinusoid,CL:1000398,endothelial cell
+endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+endothelial cell of vascular tree,endothelial cell of vascular tree,CL:0002139,endothelial cell
+"endothelial cell, lymphatic cells",endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+enteric neural cell,enteric neuron,CL:0007011,neuron
+enterocyte cell,enterocyte,CL:0000584,absorptive cell
+enterocyte of epithelium of large intestine,enterocyte of epithelium of large intestine,CL:0002071,absorptive cell
+enterocyte of epithelium of small intestine,enterocyte of epithelium of small intestine,CL:1000334,absorptive cell
+enterocyte progenitor cell,NA,NA,progenitor cell
+enteroglial cell,NA,NA,glial cell
+epidermal basal cell,basal cell of epidermis,CL:0002187,epithelial cell
+epithelial cell of lacrimal sac,epithelial cell of lacrimal sac,CL:1000436,epithelial cell
+epithelial cell of uterus,epithelial cell of uterus,CL:0002149,epithelial cell
+"erythrocyte, erythroblast","erythrocyte,erythroblast","CL:0000232,CL:0000765",erythroid cell
+eye photoreceptor cell,eye photoreceptor cell,CL:0000287,neuron
+fast muscle cell,fast muscle cell,CL:0000190,muscle cell
+fibroblast of breast,fibroblast of breast,CL:4006000,fibroblast
+fibroblast of cardiac tissue,fibroblast of cardiac tissue,CL:0002548,fibroblast
+follicular cell,NA,NA,NA
+gamma/delta cell,gamma-delta T cell,CL:0000798,t/nk cell
+gut endothelial cell,gut endothelial cell,CL:0000131,endothelial cell
+helper t-cell,helper T cell,CL:0000912,t/nk cell
+hillock cell of prostate epithelium,NA,NA,epithelial cell
+hillock-club cell of prostate epithelium,NA,NA,epithelial cell
+hippocampal cell,hippocampal cell,hippocampal cell,brain cell
+hypothetical cell type (not identifiable),NA,NA,NA
+immature enterocyte,vacuolated fetal-type enterocyte,CL:0009067,absorptive cell
+immature natural killer cell,immature natural killer cell,CL:0000823,t/nk cell
+intermediate monocyte,intermediate monocyte,CL:0002393,macrophage/monocyte
+intestinal crypt stem cell,intestinal crypt stem cell,CL:0002250,stem cell
+intestinal crypt stem cell of large intestine,intestinal crypt stem cell of large intestine,CL:0009016,stem cell
+intestinal crypt stem cell of small intestine,intestinal crypt stem cell of small intestine,CL:0009017,stem cell
+intestinal enteroendocrine cell,intestinal enteroendocrine cell,CL:1001516,epithelial cell
+intestinal intraepithelial lymphocytes,intraepithelial lymphocyte,CL:0002496,t/nk cell
+intestinal tuft cell,intestinal tuft cell,CL:0019032,epithelial cell
+intrahepatic cholangiocyte,intrahepatic cholangiocyte,CL:0002538,epithelial cell
+keratocyte,keratocyte,CL:0002363,fibroblast
+keratocytes,keratocyte,CL:0002363,fibroblast
+kidney epithelial cell,kidney epithelial cell,CL:0002518,epithelial cell
+kinetochore-associated cell,NA,NA,NA
+lacrimal gland functional unit cell,NA,NA,NA
+lactating luminal cell,NA,NA,NA
+large intestine goblet cell,large intestine goblet cell,CL:1000320,epithelial cell
+leucocyte,leukocyte,CL:0000738,leukocyte
+leukocyte endothelial cell,NA,NA,NA
+limbal stem cell,NA,NA,stem cell
+limbal stromal cell,NA,NA,stromal cell
+liver dendritic cell,liver dendritic cell,CL:2000055,dendritic cell
+luminal cell of prostate epithelium,luminal cell of prostate epithelium,CL:0002340,epithelial cell
+luminal epithelial cell of mammary gland,luminal epithelial cell of mammary gland,CL:0002326,epithelial cell
+lung ciliated cell,lung ciliated cell,CL:1000271,ciliated cell
+"lung epithelial cell, salivary acinar cells","epithelial cell of lung,acinar cell of salivary gland","CL:0000082,CL:0002623",epithelial cell
+lung microvascular endothelial cell,lung microvascular endothelial cell,CL:2000016,endothelial cell
+"lung progenitor cell, kidney cells","NA,kidney cell","NA,CL:1000497","progenitor cell,kidney cell"
+mature conventional dendritic cell,mature conventional dendritic cell,CL:0000841,dendritic cell
+mature enterocyte,enterocyte,CL:0000584,absorptive cell
+mature nk t cell,mature NK T cell,CL:0000814,t/nk cell
+medullary thymic epithelial cell,medullary thymic epithelial cell,CL:0002365,epithelial cell
+"megakaryocyte, cytotoxic t-cell","megakaryocyte,cytotoxic T cell","CL:0000556,CL:0000910","megakaryocyte,t/nk cell"
+membrane t cell,NA,NA,t/nk cell
+memory t cell,memory T cell,CL:0000813,t/nk cell
+minor salivary gland duct cell,NA,NA,epithelial cell
+mitochondrial cell,NA,NA,NA
+mitochondrial genome expressing cell,NA,NA,NA
+"monocyte, macrophage","monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+mucosal epithelial cell,NA,NA,epithelial cell
+mucous neck cell,mucous neck cell,CL:0000651,epithelial cell
+mucus secreting cell,mucus secreting cell,CL:0000319,secretory cell
+mucus-producing cell,mucus secreting cell,CL:0000319,secretory cell
+mucus-secreting goblet cell,goblet cell,CL:0000160,epithelial cell
+muller cell,Mueller cell,CL:0000636,glial cell
+müller glia,Mueller cell,CL:0000636,glial cell
+müller glia cell,Mueller cell,CL:0000636,glial cell
+muscle precursor cell,muscle precursor cell,CL:0000680,progenitor cell
+myeloid progenitor,common myeloid progenitor,CL:0000049,progenitor cell
+myoblasts,myoblast,CL:0000056,progenitor cell
+myofibroblast cell,myofibroblast cell,CL:0000186,myofibroblast cell
+myometrial cell,myometrial cell,CL:0002366,muscle cell
+naive regulatory t cell,naive regulatory T cell,CL:0002677,t/nk cell
+naive t cell,naive T cell,CL:0000898,t/nk cell
+"naive thymus-derived cd4-positive, alpha-beta t cell","naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+"naive thymus-derived cd8-positive, alpha-beta t cell","naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+nampt neutrophil,NA,NA,granulocyte
+"natural killer cell, cytotoxic t-cell","natural killer cell,cytotoxic T cell","CL:0000623,CL:0000910",t/nk cell
+nervous system cell,NA,NA,NA
+"neutrophil, monocyte","neutrophil,monocyte","CL:0000775,CL:0000576","granulocyte,macrophage/monocyte"
+nk-t cell,NA,NA,t/nk cell
+non-classical monocyte,non-classical monocyte,CL:0000875,macrophage/monocyte
+ocular surface cell,NA,NA,NA
+oral mucosa cell,NA,NA,NA
+pancreatic alpha cell,pancreatic A cell,CL:0000171,epithelial cell
+pancreatic delta cell,pancreatic D cell,CL:0000173,epithelial cell
+pancreatic pp cell,pancreatic PP cell,CL:0002275,epithelial cell
+paneth cell of epithelium of large intestine,NA,NA,epithelial cell
+paneth cell of epithelium of small intestine,paneth cell of epithelium of small intestine,CL:1000343,epithelial cell
+pericyte cell,pericyte,CL:0000669,pericyte
+phagocytes,phagocyte,CL:0000234,phagocyte
+photoreceptors,photoreceptor cell,CL:0000210,neuron
+preamyloidogenic b cell,NA,NA,b cell
+pulmonary ionocyte,pulmonary ionocyte,CL:0017000,epithelial cell
+regulatory t-cell,regulatory T cell,CL:0000815,t/nk cell
+respiratory goblet cell,respiratory goblet cell,CL:0002370,epithelial cell
+respiratory mucous cell,NA,NA,NA
+retina horizontal cell,retina horizontal cell,CL:0000745,neuron
+retinal bipolar neuron,retinal bipolar neuron,CL:0000748,neuron
+retinal blood vessel endothelial cell,retinal blood vessel endothelial cell,CL:0002585,endothelial cell
+retinal ganglion cell,retinal ganglion cell,CL:0000740,neuron
+retinal pigment epithelium,retinal pigment epithelial cell,CL:0002586,epithelial cell
+ribosomal protein cell,NA,NA,NA
+rod photoreceptor cell,retinal rod cell,CL:0000604,neuron
+rod photoreceptors,retinal rod cell,CL:0000604,neuron
+salivary acinar cell,acinar cell of salivary gland,CL:0002623,epithelial cell
+salivary gland epithelial cell,NA,NA,epithelial cell
+serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,CL:1000331,secretory cell
+serous cell of epithelium of trachea,serous cell of epithelium of trachea,CL:1000330,secretory cell
+skeletal muscle satellite stem cell,skeletal muscle satellite stem cell,CL:0008011,stem cell
+slow muscle cell,slow muscle cell,CL:0000189,muscle cell
+small intestine goblet cell,small intestine goblet cell,CL:1000495,epithelial cell
+small rnas,NA,NA,NA
+"smooth muscle cell, myoepithelial cells","smooth muscle cell,myoepithelial cell","CL:0000192,CL:0000185","muscle cell,epithelial cell"
+sperm,sperm,CL:0000019,germ cell
+stem cell,stem cell,CL:0000034,stem cell
+"t cell, helper t cells","T cell,helper T cell","CL:0000084,CL:0000912",t/nk cell
+"t cell, regulatory t cells","T cell,regulatory T cell","CL:0000084,CL:0000815",t/nk cell
+t cytotoxic cell,cytotoxic T cell,CL:0000910,t/nk cell
+t effector memory cell,NA,NA,t/nk cell
+t helper 17 cell,T-helper 17 cell,CL:0000899,t/nk cell
+taste receptor cell,taste receptor cell,CL:0000209,epithelial cell
+tendon cell,tendon cell,CL:0000388,stromal cell
+tenocyte,tendon cell,CL:0000388,stromal cell
+thymocyte,thymocyte,CL:0000893,t/nk cell
+thymocytes (t cell),T cell,CL:0000084,t/nk cell
+thymocytes (t-cell),T cell,CL:0000084,t/nk cell
+tongue muscle cell,tongue muscle cell,CL:0002673,muscle cell
+tracheal goblet cell,tracheal goblet cell,CL:1000329,epithelial cell
+transit amplifying cell,transit amplifying cell,CL:0009010,transit amplifying cell
+transit amplifying cell of large intestine,transit amplifying cell of colon,CL:0009011,transit amplifying cell
+transit amplifying cell of small intestine,transit amplifying cell of small intestine,CL:0009012,transit amplifying cell
+transitional epithelial cell,transitional epithelial cell,CL:0000244,epithelial cell
+treg cell,regulatory T cell,CL:0000815,t/nk cell
+tumor cell,neoplastic cell,CL:0001063,malignant cell
+type i nk t cell,type I NK T cell,CL:0000921,t/nk cell
+type i pneumocyte,type I pneumocyte,CL:0002062,epithelial cell
+"unclear, multiple cell markers suggesting mixture of cell types",NA,NA,NA
+unknow cell types,NA,NA,NA
+unknown cell type,NA,NA,NA
+vascular associated smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,muscle cell
+vein endothelial cell,vein endothelial cell,CL:0002543,endothelial cell
+venous endothelial cell,vein endothelial cell,CL:0002543,endothelial cell
+venule endothelial cell,endothelial cell of venule,CL:1000414,endothelial cell
+acinar cell / ductal cells,"acinar cell,NA","CL:0000622,NA",epithelial cell
+activated effector cell,NA,NA,NA
+adipocytes / vascular cell,"fat cell,NA","CL:0000136,NA",fat cell
+"adipocytes, hepatocytes","fat cell,hepatocyte","CL:0009099,CL:0000182","fat cell,epithelial"
+"adipocytes, lipid metabolizing cell","fat cell,NA","CL:0000136,NA",fat cell
+"adipocytes, t cell","fat cell,T cell","CL:0000136,CL:0000084","fat cell,t/nk cell"
+alveolar type ii cell / pneumocytes,type II pneumocyte,CL:0002063,epithelial cell
+b cell / plasma cells,plasma cell,CL:0000786,b cell
+"b cell, myeloid cells","B cell,myeloid cell","CL:0000236,CL:0000763","b cell,myeloid cell"
+"b cell, myeloid cells, dendritic cells","B cell,myeloid cell,dendritic cell","CL:0000236,CL:0000763,CL:0000451","b cell,myeloid cell,dendritic cell"
+b-2 cell,B-2 B cell,CL:0000822,b cell
+b-cell,B cell,CL:0000236,b cell
+basal cell / goblet cells,"basal cell,goblet cell","CL:0000646,CL:0000160","stem cell,epithelial cell"
+basal cell of the epidermis,basal cell of epidermis,CL:0002187,epithelial cell
+"basal cell, epidermal stem cells","basal cell,stem cell of epidermis","CL:0000646,CL:1000428",stem cell
+blood vascular endothelial cell,blood vessel endothelial cell,CL:0000071,endothelial cell
+bm,NA,NA,NA
+breast cell,NA,NA,breast cell
+breast epithelial cell ,mammary gland epithelial cell,CL:0002327,epithelial cell
+bronchial epithelial cell / goblet cells,"bronchial epithelial cell,goblet cell","CL:0002328,CL:0000160",epithelial cell
+cd3/cd28-stimulated nk cell,NA,NA,t/nk cell
+cd34+ hematopoietic stem cell,hematopoietic stem cell,CL:0000037,stem cell
+cd34+ pre-t cell,NA,NA,progenitor cell
+classical dendritic cell b(cdcb),NA,NA,dendritic cell
+club cell / goblet cells,"club cell,goblet cell","CL:0000158,CL:0000160",epithelial cell
+connective tissue cell / fibroblasts,"connective tissue cell,fibroblast","CL:0002320,CL:0000057","connective tissue cell,fibroblast"
+corneal fibroblast cell,NA,NA,fibroblast
+corneal stromal cell,NA,NA,stromal cell
+cytotoxic t cell / nk cells,"cytotoxic T cell,natural killer cell","CL:0000910,CL:0000623",t/nk cell
+cytotoxic t cell/natural killer cells,"cytotoxic T cell,natural killer cell","CL:0000910,CL:0000623",t/nk cell
+dclk1+ progenitor cell,NA,NA,progenitor cell
+dendritic cell / macrophages,"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+ductal cell / epithelial cells,"NA,epithelial cell","NA,CL:0000066",epithelial cell
+ductal cell / secretory cells,"NA,secretory cell","NA,CL:0000151",secretory cell
+early t cell progenitor (etp),NA,NA,progenitor cell
+effector cd4+ memory t (tem) cell,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,t/nk cell
+effector t(teff) cell,effector T cell,CL:0000911,t/nk cell
+enteric neurons,enteric neuron,CL:0007011,neuron
+epithelial cell / muscle cells,"epithelial cell,muscle cell","CL:0000066,CL:0000187","epithelial cell,muscle cell"
+epithelial cell and smooth muscle cells,"epithelial cell,smooth muscle cell","CL:0000066,CL:0000192","epithelial cell,muscle cell"
+"epithelial cell, basal cells","epithelial cell,basal cells","CL:0000066,CL:0000646","epithelial cell,stem cell"
+"epithelial cell, gastric epithelial cells","epithelial cell,NA","CL:0000066,NA",epithelial cell
+epithelial stem cell,epithelial fate stem cell,CL:0000036,stem cell
+"epithelial stem cell, smooth muscle cells","epithelial fate stem cell,smooth muscle cell","CL:0000036,CL:0000192","stem cell,muscle cell"
+erythrocytes / hematopoietic cell,"erythrocyte,hematopoietic cell","CL:0000232,CL:0000988",erythroid cell
+erythrocytes / red blood cell,"erythrocyte,primitive red blood cell","CL:0000232,CL:0002355",erythroid cell
+erythroid lineage cell,erythroid lineage cell,CL:0000764,erythroid cell
+extracellular matrix components,NA,NA,NA
+fibroblasts / connective tissue cell,"fibroblast,connective tissue cell","CL:0000057,CL:0002320","fibroblast,connective tissue cell"
+fibroblasts / extracellular matrix components,"fibroblast,NA","CL:0000057,NA",fibroblast
+fibroblasts / mesenchymal cell,"fibroblast,mesenchymal cell","CL:0000057,CL:0008019","fibroblast,mesenchymal cell"
+fibroblasts / stromal cell,"fibroblast,stromal cell","CL:0000057,CL:0000499","fibroblast,stromal cell"
+"fibroblasts, dermal fibroblasts","fibroblast,NA","CL:0000057,NA",fibroblast
+"fibroblasts, smooth muscle cell","fibroblast,smooth muscle cell","CL:0000057,CL:0000192","fibroblast,muscle cell"
+follicle-associated epithelium cell,NA,NA,epithelial cell
+follicular b cell,follicular B cell,CL:0000843,b cell
+gabaergic neurons,GABAergic interneuron,CL:0011005,neuron
+gamma (pp) cell,PP cell,CL:0000696,epithelial cell
+glandular cell,NA,NA,secretory cell
+glandular cell / secretory cells,"NA,secretory cell","NA,CL:0000151",secretory cell
+glomerular endothelial cell (ecg),glomerular endothelial cell,CL:0002188,endothelial cell
+granulocytes / neutrophils,"granulocyte,neutrophil","CL:0000094,CL:0000775",granulocyte
+hematopoietic stem cell / progenitor cells,"hematopoietic stem cell,NA","CL:0000037,NA","stem cell,progenitor cell"
+hepatocytes / endothelial cell,"hepatocyte,endothelial cell","CL:0000182,CL:0000115","epithelial cell,endothelial cell"
+hsc_-g-csf,NA,NA,stem cell
+immune system cell,NA,NA,immune cell
+intermediate cell,NA,NA,NA
+ionocytes,ionocyte,CL:0005006,epithelial cell
+islet beta cell,type B pancreatic cell,CL:0000169,epithelial cell
+keratinocytes / epithelial cell,"keratinocyte,epithelial cell","CL:0000312,CL:0000066",epithelial cell
+kupffer-like cell,Kupffer cell,CL:0000091,macrophage/monocyte
+leukocyte,leukocyte,CL:0000738,leukocyte
+lipid droplet-containing cell,NA,NA,NA
+luminal breast cancer cell,NA,NA,malignant cell
+luminal breast epithelial cell,luminal epithelial cell of mammary gland,CL:0002326,epithelial cell
+luminal epithelial breast cell,luminal epithelial cell of mammary gland,CL:0002326,epithelial cell
+lymphocytes,lymphocyte,CL:0000542,lymphocyte
+lymphocytes / immune cell,"lymphocyte,NA","CL:0000542,NA","lymphocyte,immune cell"
+macrophages / dendritic cell,"macrophage,dendritic cell","CL:0000235,CL:0000451","macrophage/monocyte,dendritic cell"
+macrophages / monocytes,"macrophage,monocyte","CL:0000235,CL:0000576",macrophage/monocyte
+mast cell / basophils,"mast cell,basophil","CL:0000097,CL:0000767",granulocyte
+mast cell / connective tissue cells,"mast cell,connective tissue cell","CL:0000097,CL:0002320","granulocyte,connective tissue cell"
+mast cell / myeloid cells,"mast cell,myeloid cell","CL:0000097,CL:0000763","granulocyte,myeloid cell"
+melanocytes and schwann cell,"melanocyte,Schwann cell","CL:0000148,CL:0002573","melanocyte,glial cell"
+mesenchymal cell / myofibroblasts,"mesenchymal cell,myofibroblast cell","CL:0008019,CL:0000186","mesenchymal cell,myofibroblast"
+mural cell,mural cell,CL:0008034,mural cell
+muscle cell / myoblasts,"muscle cell,myoblast","CL:0000187,CL:0000056","muscle cell,progenitor cell"
+"muscle cell, myocytes",muscle cell,CL:0000187,muscle cell
+myo-epithelial cell,myoepithelial cell,CL:0000185,epithelial cell
+"myocytes, smooth muscle cell","muscle cell,smooth muscle cell","CL:0000187,CL:0000192",muscle cell
+naive double-positive t cell,NA,NA,t/nk cell
+naive t(th0) cell,naive T cell,CL:0000898,t/nk cell
+"natural killer cell, b cells","natural killer cell,B cell","CL:0000623,CL:0000236","t/nk cell,b cell"
+natural killer cell/t-cells,"natural killer cell,T cell","CL:0000623,CL:0000084",t/nk cell
+natural regulatory t cell,natural T-regulatory cell,CL:0000903,t/nk cell
+neural crest cell / schwann cells,"neural crest cell,Schwann cell","CL:0011012,CL:0002573","embryonic cell,glial cell"
+neutrophil lineage,neutrophil,CL:0000775,granulocyte
+neutrophils / granulocytes,"neutrophil,granulocyte","CL:0000775,CL:0000094",granulocyte
+neutrophils / macrophages,"neutrophil,macrophage","CL:0000775,CL:0000235","granulocyte,macrophage/monocyte"
+neutrophils / monocytes,"neutrophil,monocyte","CL:0000775,CL:0000576","granulocyte,macrophage/monocyte"
+neutrophils / myeloid cell,"myeloid cell,myeloid cell","CL:0000763,CL:0000763","granulocyte,myeloid cell"
+nk and t cell,"natural killer cell,T cell","CL:0000623,CL:0000084",t/nk cell
+nk cell / t cells,"natural killer cell,T cell","CL:0000623,CL:0000084",t/nk cell
+no specific cell type (most of these markers are non-coding rnas),NA,NA,NA
+non-coding rna / regulatory elements,NA,NA,NA
+non-coding rna cell,NA,NA,NA
+not applicable/ unknown,NA,NA,NA
+p53-like cell,NA,NA,NA
+pan-macrophage,macrophage,CL:0000235,macrophage/monocyte
+pan‐t cell,T cell,CL:0000084,t/nk cell
+"pericytes, smooth muscle cell","pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+plasma b cell,plasma cell,CL:0000786,b cell
+plasma cell / b cells,"plasma cell,B cell","CL:0000786,CL:0000236",b cell
+platelets/megakaryocytes,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte"
+pro-myelocyte,NA,NA,progenitor cell
+procr+ progenitor cell,NA,NA,progenitor cell
+proliferating cell (various),NA,NA,NA
+regulatory t(treg) cell,regulatory T cell,CL:0000815,t/nk cell
+renal interstitium (mesenchymal cell),NA,NA,mesenchymal cell
+rpe cell,retinal pigment epithelial cell,CL:0002586,epithelial cell
+secretory cell / club cells,"secretory cell,club cell","CL:0000151,CL:0000158","secretory cell,epithelial cell"
+smooth muscle cell / epithelial cells,"smooth muscle cell,epithelial cell","CL:0000192,CL:0000066","muscle cell,epithelial cell"
+smooth muscle cell / fibroblasts,"smooth muscle cell,fibroblast","CL:0000192,CL:0000057","muscle cell,fibroblast"
+stellate cell / myeloid cells,"NA,myeloid cell","NA,CL:0000763","fibroblast,myeloid cell"
+stromal cell / fibroblasts,"stromal cell,fibroblast","CL:0000499,CL:0000057","stromal cell,fibroblast"
+synapses,NA,NA,brain cell
+t cell / macrophages,"T cell,macrophage","CL:0000084,CL:0000235","t/nk cell,macrophage/monocyte"
+t cell or b cells,"T cell,B cell","CL:0000084,CL:0000236","t/nk cell,b cell"
+"t cell, cytotoxic t cells","T cell,cytotoxic T cell","CL:0000084,CL:0000910",t/nk cell
+t helper(th) cell,helper T cell,CL:0000912,t/nk cell
+tissue-resident macrophages,tissue-resident macrophage,CL:0000864,macrophage/monocyte
+tregs / regulatory t cell,regulatory T cell,CL:0000815,t/nk cell
+tuft cell,NA,NA,epithelial cell
+unclear,NA,NA,NA
+undefined/unidentified,NA,NA,NA
+unknown / novel cell type,NA,NA,NA
+various,NA,NA,NA
+a1 astrocyte,NA,NA,astrocyte
+a2 astrocyte,NA,NA,astrocyte
+acinar,acinar cell,CL:0000622,epithelial cell
+acinar cell,acinar cell,CL:0000622,epithelial cell
+activated b cell,NA,NA,b cell
+activated cd25+ regulatory t cell,NA,NA,t/nk cell
+activated cd4+ t cell,"activated CD4-positive, alpha-beta T cell",CL:0000896,t/nk cell
+activated hepatic stellate cell,NA,NA,fibroblast
+activated naive b,NA,NA,b cell
+activated nk cell,NA,NA,t/nk cell
+activated stellate,NA,NA,fibroblast
+activated t cell,NA,NA,t/nk cell
+activative cytotoxic t cell,NA,NA,t/nk cell
+adenocarcinoma stem-like cell,NA,NA,stem cell
+adipocyte or fat cell,fat cell,CL:0000136,fat cell
+adipogenic cell,fibro/adipogenic progenitor cell,CL:0009099,progenitor cell
+adipose progenitor cell,fibro/adipogenic progenitor cell,CL:0009099,progenitor cell
+adrenal medulla cell,adrenal medulla chromaffin cell,CL:0000336,epithelial cell
+adrenergic neuron,adrenergic neuron,CL:0000109,neuron
+adult neural stem cell,neural stem cell,CL:0000047,stem cell
+adventitial cell,adventitial cell,CL:0002503,adventitial cell
+aerocyte,NA,NA,epithelial cell
+afp_alb positive cell,NA,NA,NA
+aire-enriched cell,NA,NA,NA
+airway basal cell,respiratory basal cell,CL:0002633,epithelial cell
+airway goblet cell,NA,NA,epithelial cell
+airway secretory cell,NA,NA,secretory cell
+alpha cell,pancreatic A cell,CL:0000171,epithelial cell
+alpha cell (glucagon-producing cells),pancreatic A cell,CL:0000171,epithelial cell
+alpha cell (α cell),pancreatic A cell,CL:0000171,epithelial cell
+alpha islet cell,pancreatic A cell,CL:0000171,epithelial cell
+alveolar cell type 2,type II pneumocyte,CL:0002063,epithelial cell
+alveolar epithelial cell,NA,NA,epithelial cell
+alveolar epithelial progenitor cell,NA,NA,epithelial cell
+alveolar epithelial type 1,type I pneumocyte,CL:0002062,epithelial cell
+alveolar epithelial type 2,type II pneumocyte,CL:0002063,epithelial cell
+alveolar macrophage,alveolar macrophage,CL:0000583,macrophage/monocyte
+alveolar macrophages,alveolar macrophage,CL:0000583,macrophage/monocyte
+alveolar pneumocyte type ii,type II pneumocyte,CL:0002063,epithelial cell
+alveolar type 1 cell,type I pneumocyte,CL:0002062,epithelial cell
+alveolar type 1 cell (at1),type I pneumocyte,CL:0002062,epithelial cell
+alveolar type 2 cell,type II pneumocyte,CL:0002063,epithelial cell
+alveolar type 2 cell (at2),type II pneumocyte,CL:0002063,epithelial cell
+alveolar type 2-like cell,type II pneumocyte,CL:0002063,epithelial cell
+alveolar type i,type I pneumocyte,CL:0002062,epithelial cell
+alveolar type i cell,type I pneumocyte,CL:0002062,epithelial cell
+alveolar type i cell (ati),type I pneumocyte,CL:0002062,epithelial cell
+alveolar type ii,type II pneumocyte,CL:0002063,epithelial cell
+alveolar type ii cell (atii),type II pneumocyte,CL:0002063,epithelial cell
+alveolar type ii pneumocytes,type II pneumocyte,CL:0002063,epithelial cell
+amacrine cell,amacrine cell,CL:0000561,neuron
+anterior segment cell,NA,NA,eye cell
+anti-tumor immune cell,NA,NA,immune cell
+"antigen-presenting cell (e.g., dendritic cells, macrophages)",professional antigen presenting cell,CL:0000145,antigen presenting cell
+antigen-presenting cell or immune cell,professional antigen presenting cell,CL:0000145,antigen presenting cell
+antigen-presenting cell or macrophages,"professional antigen presenting cell,macrophage","CL:0000145,CL:0000235","antigen presenting cell,macrophage/monocyte"
+arterial endothelial,endothelial cell of artery,CL:1000413,endothelial cell
+artery,NA,NA,blood vessel cell
+ascending thin limb,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,epithelial cell
+astrocytes or oligodendrocytes,"astrocyte,oligodendrocyte","CL:0000127,CL:0000128","astrocyte,oligodendrocyte"
+at1,type I pneumocyte,CL:0002062,epithelial cell
+at2,type II pneumocyte,CL:0002063,epithelial cell
+atrial cardiomyocyte,regular atrial cardiac myocyte,CL:0002129,muscle cell
+atrial cardiomyocytes,regular atrial cardiac myocyte,CL:0002129,muscle cell
+atrial cell,NA,NA,heart cell
+autonomic nervous system cell,autonomic neuron,CL:0000107,neuron
+axl+ dendritic cell,NA,NA,dendritic cell
+axonal cell,NA,NA,neuron
+b,B cell,CL:0000236,b cell
+b cell (memory),memory B cell,CL:0000787,b cell
+b cell (plasma cell),plasma cell,CL:0000786,b cell
+b cell (plasma cells),plasma cell,CL:0000786,b cell
+b cell (specifically those producing immunoglobulins),B cell,CL:0000236,b cell
+b cell lineage,B cell,CL:0000236,b cell
+b cell_memory,memory B cell,CL:0000787,b cell
+b cell/plasma cells,plasma cell,CL:0000786,b cell
+b progenitor cell,NA,NA,progenitor cell
+b_cell,B cell,CL:0000236,b cell
+barrett’s esophagus cell,NA,NA,esophagus cell
+basal,basal cell,CL:0000646,stem cell
+basal cell (airway progenitor cells),respiratory basal cell,CL:0002633,epithelial cell
+basal epithelia,basal cell,CL:0000646,stem cell
+basal gland mucous cell,NA,NA,epithelial cell
+basal keratinocyte,basal cell of epidermis,CL:0002187,epithelial cell
+basal keratinocytes,basal cell of epidermis,CL:0002187,epithelial cell
+basal-like cell,basal cell,CL:0000646,stem cell
+basophil eosinophil mast progenitor,basophil mast progenitor cell,CL:0002028,progenitor cell
+basophil/mast,"basophil,mast cell","CL:0000767,CL:0000097",granulocyte
+beige adipogenic precursor cell,NA,NA,progenitor cell
+beta cell,type B pancreatic cell,CL:0000169,epithelial cell
+beta cell (insulin-producing cells),type B pancreatic cell,CL:0000169,epithelial cell
+beta islet cell,type B pancreatic cell,CL:0000169,epithelial cell
+biliary cell,NA,NA,biliary cell
+bipolar cell,NA,NA,neuron
+blood vessel endothelial cell,blood vessel endothelial cell,CL:0000071,endothelial cell
+blood-related cell,blood cell,CL:0000081,blood cell
+bronchial cell,NA,NA,bronchial cell
+bronchial epithelial cell,bronchial epithelial cell,CL:0002328,epithelial cell
+bronchial vessel,NA,NA,bronchial cell
+bronchiolar and alveolar epithelial cell,NA,NA,epithelial cell
+brown adipocyte,beige adipocyte,CL:0001070,fat cell
+cajal-retzius cell,Cajal-Retzius cell,CL:0000695,neuron
+cancer cell,malignant cell,CL:0001064,malignant cell
+cancer stem cell,NA,NA,malignant cell
+cap mesenchyme cell (mesenchymal cells),mesenchymal cell,CL:0008019,mesenchymal cell
+capillary,NA,NA,blood vessel cell
+capillary aerocyte,NA,NA,epithelial cell
+capillary cell,NA,NA,blood vessel cell
+capillary endothelial,NA,NA,endothelial cell
+capillary intermediate,NA,NA,blood vessel cell
+car-t cell,NA,NA,t/nk cell
+cardiac fibroblast,fibroblast of cardiac tissue,CL:0002548,fibroblast
+cardiac fibroblasts,fibroblast of cardiac tissue,CL:0002548,fibroblast
+cardiac muscle cell (cardiomyocytes),cardiac muscle cell,CL:0000746,muscle cell
+cardiomyocyte,cardiac muscle cell,CL:0000746,muscle cell
+cardiomyocytes (not specific to kidney),cardiac muscle cell,CL:0000746,muscle cell
+cardiovascular progenitor cell,NA,NA,progenitor cell
+cartilage cell or chondrocyte,chondrocyte,CL:0000138,stromal cell
+cd14 monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte
+cd14+ monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte
+cd16 monocyte,NA,NA,macrophage/monocyte
+cd16+ monocyte,NA,NA,macrophage/monocyte
+cd34+ common lymphoid progenitor cell,common lymphoid progenitor,CL:0000051,progenitor cell
+cd34+ granulocytic progenitor cell,granulocyte monocyte progenitor cell,CL:0000557,progenitor cell
+cd34+ lympho-myeloid progenitor cell,"CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor",CL:0000995,progenitor cell
+cd34+ megakaryocyte-erythroid progenitor cell,megakaryocyte-erythroid progenitor cell,CL:0000050,progenitor cell
+cd4 effector,"effector CD4-positive, alpha-beta T cell",CL:0001044,t/nk cell
+cd4 memory,"CD4-positive, alpha-beta memory T cell",CL:0000897,t/nk cell
+cd4 naive,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+cd4 t,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+cd4+ central memory t,"central memory CD4-positive, alpha-beta T cell",CL:0000904,t/nk cell
+cd4+ cytotoxic t,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,t/nk cell
+cd4+ cytotoxic t cell,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,t/nk cell
+cd4+ effector memory t,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,t/nk cell
+cd4+ naive t,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+cd4+ proliferating t,NA,NA,t/nk cell
+cd45+ immune cell,NA,NA,immune cell
+cd56-bright natural killer,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,t/nk cell
+cd56-dim natural killer,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,t/nk cell
+cd8 effector 1,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+cd8 effector 2,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+cd8 effector 3,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+cd8 memory,"CD8-positive, alpha-beta memory T cell",CL:0000909,t/nk cell
+cd8 naive,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+cd8 t,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+cd8+ central memory t,"central memory CD8-positive, alpha-beta T cell",CL:0000907,t/nk cell
+cd8+ effector memory t,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,t/nk cell
+cd8+ naive t,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+cd8+ nkt-like cell,NA,NA,t/nk cell
+cd8+ proliferating t,NA,NA,t/nk cell
+cell cycle cell,NA,NA,NA
+central memory cd4+ t cell,"central memory CD4-positive, alpha-beta T cell",CL:0000904,t/nk cell
+central memory cd8+ t cell,"central memory CD8-positive, alpha-beta T cell",CL:0000907,t/nk cell
+central memory t cell precursor,NA,NA,progenitor cell
+chief cell,NA,NA,epithelial cell
+cholangiocyte,cholangiocyte,CL:1000488,epithelial cell
+cholangiocytes,cholangiocyte,CL:1000488,epithelial cell
+chondro progenitor cell,NA,NA,progenitor cell
+choroid plexus cell,NA,NA,blood vessel cell
+chromaffin cell,chromaffin cell,CL:0000166,epithelial cell
+"chromaffin cell (e.g., in adrenal medulla)",chromaffin cell,CL:0000166,epithelial cell
+ciliated,ciliated cell,CL:0000064,ciliated cell
+ciliated airway epithelial cell,NA,NA,epithelial cell
+ciliated epithelial,ciliated epithelial cell,CL:0000067,epithelial cell
+ciliated epithelial cell,ciliated epithelial cell,CL:0000067,epithelial cell
+ciliated respiratory epithelial cell,NA,NA,epithelial cell
+circulating immune cell,NA,NA,immune cell
+classical monocytes,classical monocyte,CL:0000860,macrophage/monocyte
+classical monocytes (cd14++ cd16-),classical monocyte,CL:0000860,macrophage/monocyte
+club,club cell,CL:0000158,epithelial cell
+club cell (clara cells),club cell,CL:0000158,epithelial cell
+club cell (formerly known as clara cells),club cell,CL:0000158,epithelial cell
+club cell (previously known as clara cells),club cell,CL:0000158,epithelial cell
+club epithelial,club cell,CL:0000158,epithelial cell
+cmp,common myeloid progenitor,CL:0000049,progenitor cell
+cmp cell,common myeloid progenitor,CL:0000049,progenitor cell
+collagen-rich fibroblasts,NA,NA,fibroblast
+collecting duct cell,kidney collecting duct cell,CL:1001225,kidney cell
+collecting ductal cell,kidney collecting duct cell,CL:1001225,kidney cell
+coloncyte,colon epithelial cell,CL:0011108,epithelial cell
+columnar epithelial cell,columnar/cuboidal epithelial cell,CL:0000075,epithelial cell
+committed erythroid progenitor cell,erythroid progenitor cell,CL:0000038,progenitor cell
+common lymphoid progenitor,common lymphoid progenitor,CL:0000051,progenitor cell
+cone bipolar cell,cone retinal bipolar cell,CL:0000752,neuron
+cone photoreceptor cell,retinal cone cell,CL:0000573,neuron
+conjunctival cell,NA,NA,eye cell
+connecting tubule,NA,NA,kidney cell
+conventional dendritic cell,conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell (cdcs),conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell 1,conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell 1(cdc1),conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell 2,conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell 2(cdc2),conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell type 1 (cdc1s),conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell type 2 (cdc2s),conventional dendritic cell,CL:0000990,dendritic cell
+conventional dendritic cell(cdc),conventional dendritic cell,CL:0000990,dendritic cell
+corneal and conjunctival epithelial cell,NA,NA,epithelial cell
+corneal endothelial cell,corneal endothelial cell,CL:0000132,endothelial cell
+cortical neurons,NA,NA,neuron
+csh1_csh2 positive cell,NA,NA,NA
+cuboidal epithelial cell,columnar/cuboidal epithelial cell,CL:0000075,epithelial cell
+cycling,NA,NA,NA
+cycling b,NA,NA,b cell
+cycling follicular dendritic,NA,NA,dendritic cell
+cycling myeloid,NA,NA,myeloid cell
+cycling t,NA,NA,t/nk cell
+cytotoxic cd4+ t cell,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,t/nk cell
+cytotoxic cd4+ t2 cell,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,t/nk cell
+cytotoxic cd8+ t cell,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,t/nk cell
+cytotoxic double-positive t cell,NA,NA,t/nk cell
+cytotoxic natural killer cell,natural killer cell,CL:0000623,t/nk cell
+cytotoxic t cell (cd8+),"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,t/nk cell
+cytotoxic t cell or natural killer (nk) cells,"cytotoxic T cell,natural killer cell","CL:0000910,CL:0000623",t/nk cell
+cytotoxic t lymphocytes (cd8+ t cell),"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,t/nk cell
+cytotoxic t lymphocytes (ctls) or natural killer (nk) cell,"cytotoxic T cell,natural killer cell","CL:0000910,CL:0000623",t/nk cell
+d1-msn(medium spiny neuron),direct pathway medium spiny neuron,CL:4023026,neuron
+dc,dendritic cell,CL:0000451,dendritic cell
+dc1,dendritic cell,CL:0000451,dendritic cell
+dc2,dendritic cell,CL:0000451,dendritic cell
+deep layer neuron,NA,NA,neuron
+delta cell,pancreatic D cell,CL:0000173,epithelial cell
+delta cell (somatostatin-producing cells),pancreatic D cell,CL:0000173,epithelial cell
+delta islet cell,pancreatic D cell,CL:0000173,epithelial cell
+dendritic,dendritic cell,CL:0000451,dendritic cell
+dendritic cell or immune cell,"dendritic cell,NA","CL:0000451,NA",dendritic cell
+dermal papilla cell,hair follicle dermal papilla cell,CL:0000346,stem cell
+descending thin limb,kidney loop of Henle short descending thin limb epithelial cell,CL:4030012,epithelial cell
+developmental transcription factors,NA,NA,NA
+differentiated alveolar cell,NA,NA,epithelial cell
+differentiated keratinocyte,keratinocyte,CL:0000312,epithelial cell
+differentiated keratinocytes (suprabasal layer),keratinocyte,CL:0000312,epithelial cell
+differentiating mesenchymal stem cell,NA,NA,stem cell
+distal convoluted tubular cell,kidney distal convoluted tubule epithelial cell,CL:1000849,epithelial cell
+distal convoluted tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,epithelial cell
+distal tubular cell,kidney distal convoluted tubule epithelial cell,CL:1000849,epithelial cell
+distal tubule cell,kidney distal convoluted tubule epithelial cell,CL:1000849,epithelial cell
+distal tubule cell (kidney),kidney distal convoluted tubule epithelial cell,CL:1000849,epithelial cell
+dividing cardiomyocyte,NA,NA,muscle cell
+dividing cell,NA,NA,NA
+dividing plasma b cell,NA,NA,b cell
+double negative t,double negative thymocyte,CL:0002489,t/nk cell
+double-negative t,double negative thymocyte,CL:0002489,t/nk cell
+ductal,pancreatic ductal cell,CL:0002079,epithelial cell
+ductal cell,pancreatic ductal cell,CL:0002079,epithelial cell
+duodenal epithelial cell,NA,NA,epithelial cell
+early endothelial cell,NA,NA,endothelial cell
+early erythroid,NA,NA,erythroid cell
+early erythroid cell,NA,NA,erythroid cell
+early erythroid progenitor cell,NA,NA,erythroid cell
+early germ cell,NA,NA,germ cell
+early thymic precursors,NA,NA,progenitor cell
+early-erythroblast,NA,NA,erythroid cell
+ec arterial,endothelial cell of artery,CL:1000413,endothelial cell
+ec capillary,capillary endothelial cell,CL:0002144,endothelial cell
+ec venous,vein endothelial cell,CL:0002543,endothelial cell
+effector cd8+ t cell,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+effector memory cd4+ t cell,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,t/nk cell
+effector memory cd8 t cell,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,t/nk cell
+effector memory cd8+ t cell,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,t/nk cell
+effector memory t cell,NA,NA,t/nk cell
+effector t cell,effector T cell,CL:0000911,t/nk cell
+effector th2-like cell,NA,NA,t/nk cell
+embryonic myocardial cell,NA,NA,muscle cell
+embryonic_stem_cell,embryonic stem cell,CL:0002322,stem cell
+emt cancer stem cell,NA,NA,malignant cell
+endocardial,endocardial cell,CL:0002350,endothelial cell
+endocardial cell,endocardial cell,CL:0002350,endothelial cell
+endometrial,NA,NA,uterus cell
+endothelial,endothelial cell,CL:0000115,endothelial cell
+endothelial progenitor cell,adult endothelial progenitor cell,CL:0002619,progenitor cell
+endothelial_cell,endothelial cell,CL:0000115,endothelial cell
+ens glia,NA,NA,glial cell
+ens neurons,enteric neuron,CL:0007011,neuron
+enteric endocrine cell,NA,NA,secretory cell
+enterochromaffin cell,enterochromaffin-like cell,CL:0000504,epithelial cell
+enterochromaffin cell (gut),enterochromaffin-like cell,CL:0000504,epithelial cell
+eosinophils,eosinophil,CL:0000771,granulocyte
+ependymal cell,ependymal cell,CL:0000065,epithelial cell
+epiblast cell,epiblast cell,CL:0000352,stem cell
+epicardial fat cell,epicardial adipocyte,CL:1000309,fat cell
+epidermal posterior cell,NA,NA,epithelial cell
+epithelial,epithelial cell,CL:0000066,epithelial cell
+epithelial cell (colon cancer cells),NA,NA,malignant cell
+epithelial cell (goblet cells),goblet cell,CL:0000160,epithelial cell
+epithelial cell (lung cancer cells),NA,NA,malignant cell
+epithelial cell (not specific to kidney),epithelial cell,CL:0000066,epithelial cell
+epithelial cell (skin keratinocyte),keratinocyte,CL:0000312,epithelial cell
+epithelial cell or fibroblast,"epithelial cell,fibroblast","CL:0000066,CL:0000057","epithelial cell,fibroblast"
+"epithelial cell, particularly in the kidney",kidney epithelial cell,CL:0002518,epithelial cell
+epithelial progenitor cell,NA,NA,progenitor cell
+epithelial_cell,epithelial cell,CL:0000066,epithelial cell
+epithelial-mesenchymal cell,mesenchymal cell,CL:0008019,mesenchymal cell
+epsilon cell,pancreatic epsilon cell,CL:0005019,secretory cell
+epsilon islet cell,pancreatic epsilon cell,CL:0005019,secretory cell
+erythrocyte,erythrocyte,CL:0000232,erythroid cell
+erythrocyte progenitor cell or erythroblasts,"erythroid progenitor cell,erythroblast","CL:0000038,CL:0000765","progenitor cell,erythroid cell"
+erythroid megakaryocyte progenitor,megakaryocyte-erythroid progenitor cell,CL:0000050,progenitor cell
+erythroid-like and erythroid precursor cell,"erythroid lineage cell,erythroid progenitor cell","CL:0000764,CL:0000038","erythroid cell,progenitor cell"
+esophageal epithelial cell,NA,NA,epithelial cell
+exausted t(tex) cell,exhausted T cell,CL:0011025,t/nk cell
+excitatory neuron,NA,NA,neuron
+excitatory neurons,NA,NA,neuron
+excitatory neurons (specifically pyramidal neurons),pyramidal neuron,CL:0000598,neuron
+exocrine acinar cell,NA,NA,epithelial cell
+extra-embryonic cell,extraembryonic cell,CL:0000349,extraembryonic cell
+extracellular matrix cell,extracellular matrix secreting cell,CL:0000327,stromal cell
+extracellular matrix-related genes,extracellular matrix secreting cell,CL:0000327,stromal cell
+extraembryonic cell,extraembryonic cell,CL:0000349,extraembryonic cell
+extravillous trophoblast cell,extravillous trophoblast,CL:0008036,extraembryonic cell
+extravillous trophoblasts,extravillous trophoblast,CL:0008036,extraembryonic cell
+fast-twitch muscle fibers,fast muscle cell,CL:0000190,muscle cell
+fat cell,fat cell,CL:0000136,fat cell
+fcna+ resident macrophage,NA,NA,macrophage/monocyte
+fetal hepatocyte,NA,NA,epithelial cell
+fetal liver cell,NA,NA,liver cell
+fgfr1highnme5- epithelial cell,NA,NA,epithelial cell
+fibroblast (papillary dermis),fibroblast of papillary layer of dermis,CL:1000302,fibroblast
+fibroblast or connective tissue cell,"fibroblast,connective tissue cell","CL:0000057,CL:0002320",fibroblast
+fibroblast-like cell,fibroblast,CL:0000057,fibroblast
+fibroblastic reticular cell,fibroblastic reticular cell,CL:0009101,fibroblast
+fibroblasts or stromal cell,"fibroblast,stromal cell","CL:0000057,CL:0000499","fibroblast,stromal cell"
+fibrochondrocyte,NA,NA,stromal cell
+fibromyocyte,NA,NA,muscle cell
+fibromyocytes,NA,NA,muscle cell
+follicular dendritic,follicular dendritic cell,CL:0000442,dendritic cell
+follicular dendritic cell,follicular dendritic cell,CL:0000442,dendritic cell
+frontal cortex cell,NA,NA,brain cell
+fusiform cerebral cell,NA,NA,brain cell
+gamma delta(γδ) t cell,gamma-delta T cell,CL:0000798,t/nk cell
+gamma islet cell,pancreatic PP cell,CL:0002275,epithelial cell
+gamma-delta t,gamma-delta T cell,CL:0000798,t/nk cell
+ganglion cell,retinal ganglion cell,CL:0000740,neuron
+gastric epithelial cell,epithelial cell of stomach,CL:0002178,epithelial cell
+gastric mucous neck cell,mucous neck cell of gastric gland,CL:0002181,epithelial cell
+gastric surface mucus cell,surface mucosal cell of stomach,CL:0002182,epithelial cell
+gastrointestinal epithelial cell,NA,NA,epithelial cell
+germ cell,germ cell,CL:0000586,germ cell
+germinal center b,germinal center B cell,CL:0000844,b cell
+germinal center b cell,germinal center B cell,CL:0000844,b cell
+glandular barrett's esophagus cell,glandular cell of esophagus,CL:0002657,epithelial cell
+glandular epithelial cell,glandular epithelial cell,CL:0000150,epithelial cell
+glioma stem cell,NA,NA,malignant cell
+glomerular cell,glomerular cell,CL:1000746,epithelial cell
+gmp,granulocyte monocyte progenitor cell,CL:0000557,progenitor cell
+goblet,goblet cell,CL:0000160,epithelial cell
+goblet cell (mucus-producing cell in gastrointestinal tract),NA,NA,epithelial cell
+goblet cell (respiratory epithelium),respiratory goblet cell,CL:0002370,epithelial cell
+granule neurons,granule cell,CL:0000120,neuron
+granulocyte,granulocyte,CL:0000094,granulocyte
+granulocyte monocyte progenitor,granulocyte monocyte progenitor cell,CL:0000557,progenitor cell
+granulocyte-monocyte progenitor cell(gmp),granulocyte monocyte progenitor cell,CL:0000557,progenitor cell
+granulocytes (neutrophils),neutrophil,CL:0000775,granulocyte
+granulocytopoietic cell,granulocytopoietic cell,CL:0002191,progenitor cell
+granulosa cell (ovary),granulosa cell,CL:0000501,epithelial cell
+gzmk cd8 cell,NA,NA,t/nk cell
+haematopoietic stem cell,hematopoietic stem cell,CL:0000037,stem cell
+hair canal cell,NA,NA,neuron
+hair follicle cell,hair follicle cell,CL:0002559,hair follicle cell
+healing enriched-fibroblast,NA,NA,fibroblast
+heart cell,NA,NA,heart cell
+heart muscle cell,cardiac muscle cell,CL:0000746,muscle cell
+hematopoeitic stem cell,hematopoietic stem cell,CL:0000037,stem cell
+hematopoietic cell,hematopoietic cell,CL:0000988,blood cell
+hematopoietic progenitor cell,hematopoietic multipotent progenitor cell,CL:0000837,progenitor cell
+hematopoietic progenitors,hematopoietic multipotent progenitor cell,CL:0000837,progenitor cell
+hematopoietic stem and progenitor cell,hematopoietic stem cell,CL:0000037,stem cell
+hematopoietic stem and progenitor cell (hspcs),hematopoietic stem cell,CL:0000037,stem cell
+hematopoietic stem cell,hematopoietic stem cell,CL:0000037,stem cell
+hematopoietic stem cell (hscs),hematopoietic stem cell,CL:0000037,stem cell
+hematopoietic stem/progenitor cell,hematopoietic stem cell,CL:0000037,stem cell
+hemoglobin-producing cell,NA,NA,erythroid cell
+hepatic cell,NA,NA,liver cell
+hepatic stellate cell (hscs),hepatic stellate cell,CL:0000632,fibroblast
+hepatobiliary cell,NA,NA,hepatobiliary cell
+hepatobiliary epithelial cell (cholangiocytes),cholangiocyte,CL:1000488,epithelial cell
+hepatoblasts,hepatoblast,CL:0005026,stem cell
+hepatocyte or liver cell,"hepatocyte,NA","CL:0000182,NA","epithelial cell,NA"
+hepatocytes or hepatocyte progenitors,"hepatocyte,NA","CL:0000182,NA","epithelial cell,progenitor cell"
+hepatocytes or liver-related cell,"hepatocyte,NA","CL:0000182,NA","epithelial cell,NA"
+horizontal cell,retina horizontal cell,CL:0000745,neuron
+hsc,hematopoietic stem cell,CL:0000037,stem cell
+hsc_cd34+,hematopoietic stem cell,CL:0000037,stem cell
+hypoblast-like cell,NA,NA,embryonic cell
+ilc,innate lymphoid cell,CL:0001065,innate lymphoid cell
+immature b cell,immature B cell,CL:0000816,b cell
+immature dendritic cell,NA,NA,dendritic cell
+immature erythroid cell,NA,NA,erythroid cell
+immature neutrophil,immature neutrophil,CL:0000776,granulocyte
+immune,NA,NA,immune cell
+immune cell (b cells),B cell,CL:0000236,b cell
+immune cell (dendritic cells),dendritic cell,CL:0000451,dendritic cell
+immune cell (likely t cells or macrophages),"T cell,macrophage","CL:0000084,CL:0000235","t/nk cell,macrophage/monocyte"
+immune cell (mast cells),mast cell,CL:0000097,granulocyte
+immune cell (monocytes/macrophages),"monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+immune cell (natural killer cells),natural killer cell,CL:0000623,t/nk cell
+immune cell (nk cells),natural killer cell,CL:0000623,t/nk cell
+immune cell (t cells),T cell,CL:0000084,t/nk cell
+immune oligodendroglial cell(imolg),NA,NA,oligodendrocyte
+immuneendothelial cell,NA,NA,endothelial cell
+infiltrating immune cell (not specific to kidney),NA,NA,immune cell
+inflammatory cancer-associated fibroblast,NA,NA,fibroblast
+inflammatory fibroblast,NA,NA,fibroblast
+inflammatory macrophage,inflammatory macrophage,CL:0000863,macrophage/monocyte
+inhibitory interneurons,inhibitory interneuron,CL:0000498,neuron
+inhibitory neurons,NA,NA,neuron
+inhibitory neurons (specifically neuropeptide y-positive interneurons),NA,NA,neuron
+inhibitory neurons (specifically parvalbumin-positive interneurons),NA,NA,neuron
+inhibitory neurons (specifically somatostatin-positive interneurons),NA,NA,neuron
+"innate immune cell (e.g., neutrophils, monocytes)",NA,NA,immune cell
+innate lymphoid,innate lymphoid cell,CL:0001065,innate lymphoid cell
+innate lymphoid cell,innate lymphoid cell,CL:0001065,innate lymphoid cell
+innate lymphoid cell (ilc3),group 3 innate lymphoid cell,CL:0001071,innate lymphoid cell
+innate lymphoid cell nk,natural killer cell,CL:0000623,t/nk cell
+inner phalangeal cell,inner phalangeal cell,CL:0005015,epithelial cell
+inner radial glial cell,radial glial cell,CL:0000681,radial glial cell
+inter ductal cell,NA,NA,epithelial cell
+intercalated,renal intercalated cell,CL:0005010,epithelial cell
+intercalated cell (renal collecting duct),kidney collecting duct intercalated cell,CL:1001432,epithelial cell
+intermediate b cell,transitional stage B cell,CL:0000818,b cell
+intermediate mesoderm cell,intermediate mesodermal cell,CL:0011011,embryonic cell
+interneurons,interneuron,CL:0000099,neuron
+interstitial cell,interstitial cell,CL:4030031,interstitial cell
+interstitial cell (not specific to kidney),interstitial cell,CL:4030031,interstitial cell
+interstitial cell of cajal,interstitial cell of Cajal,CL:0002088,interstitial cell
+interstitial cell of cajal (icc),interstitial cell of Cajal,CL:0002088,interstitial cell
+interstitial macrophage,NA,NA,macrophage/monocyte
+intestinal goblet cell,intestine goblet cell,CL:0019031,epithelial cell
+ionocyte,ionocyte,CL:0005006,epithelial cell
+ionocyte cell,ionocyte,CL:0005006,epithelial cell
+ips_cell,NA,NA,stem cell
+isg expressing immune cell,NA,NA,immune cell
+islet endocrine cell,NA,NA,secretory cell
+isthmus cell,NA,NA,uterus cell
+keratinocyte,keratinocyte,CL:0000312,epithelial cell
+keratinocytes (basal layer),basal cell of epidermis,CL:0002187,epithelial cell
+keratinocytes (granular layer),granular cell of epidermis,CL:0002189,epithelial cell
+keratinocytes (spinous layer),NA,NA,epithelial cell
+keratinocytes (stratum corneum),NA,NA,epithelial cell
+kidney development cell,NA,NA,kidney cell
+kidney progenitor cell or developing nephrons,NA,NA,progenitor cell
+kidney proximal tubule cell,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+kupffer cell,Kupffer cell,CL:0000091,macrophage/monocyte
+l cell,type L enteroendocrine cell,CL:0002279,epithelial cell
+lacrimal gland germ epithelial cell,NA,NA,epithelial cell
+lake et al.science.ex3,NA,NA,neuron
+lamp5+ gabaergic neuron,lamp5 GABAergic cortical interneuron,CL:4023011,neuron
+langerhans cell,Langerhans cell,CL:0000453,dendritic cell
+late digit condensations,NA,NA,NA
+late endothelial cell,NA,NA,endothelial cell
+late erythroid,NA,NA,erythroid cell
+late erythroid cell,NA,NA,erythroid cell
+"layer 2-3 glutamatergic neuron, intratelencephalon-projecting",L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023047,neuron
+layer 4 cell,NA,NA,brain cell
+"layer 5 glutamatergic neuron, extratelencephalon-projecting",L5 extratelencephalic projecting glutamatergic cortical neuron,CL:4023041,neuron
+"layer 5 glutamatergic neuron, intratelencephalon-projecting",L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023049,neuron
+"layer 5-6 glutamatergic neuron, near-projecting",L5/6 near-projecting glutamatergic neuron of the primary motor cortex,CL:4023043,neuron
+"layer 6 car3+ glutamatergic neuron, intratelencephalon-projecting",NA,NA,neuron
+"layer 6 glutamatergic neuron, corticothalamic-projecting",L6 corticothalamic-projecting glutamatergic cortical neuron,CL:4023042,neuron
+"layer 6 glutamatergic neuron, intratelencephalon-projecting",L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023050,neuron
+layer 6b glutamatergic neuron,L6b glutamatergic cortical neuron,CL:4023038,neuron
+lee et al.cell.a,NA,NA,NA
+lens cell,vertebrate lens cell,CL:0002222,epithelial cell
+lens fiber cell,lens fiber cell,CL:0011004,epithelial cell
+lens fibre cell,lens fiber cell,CL:0011004,epithelial cell
+leydig precursor cell,NA,NA,progenitor cell
+lge-lineage cell (lateral ganglionic eminence),NA,NA,brain cell
+limbic system neurons,NA,NA,neuron
+lipofibroblast,alveolar type 1 fibroblast cell,CL:4028004,fibroblast
+liver bud hepatic cell,NA,NA,liver cell
+liver progenitor cell,NA,NA,progenitor cell
+loop of henle cell,kidney loop of Henle epithelial cell,CL:1000909,epithelial cell
+"loop of henle cell, intercalated cell",kidney loop of Henle epithelial cell,CL:1000909,epithelial cell
+loop of henle thick ascending limb cell (tal),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,epithelial cell
+luminal epithelial,NA,NA,epithelial cell
+luminal epithelial cell,NA,NA,epithelial cell
+luminal progenitor cell,NA,NA,progenitor cell
+luminal prostate epithelial cell,luminal cell of prostate epithelium,CL:0002340,epithelial cell
+lung cell,NA,NA,lung cell
+lung epithelial cell,epithelial cell of lung,CL:0000082,epithelial cell
+lymphatic,NA,NA,immune cell
+lymphatic cell,NA,NA,immune cell
+lymphatic ec differentiating,NA,NA,endothelial cell
+lymphatic ec mature,NA,NA,endothelial cell
+lymphatic ec proliferating,NA,NA,endothelial cell
+lymphatic endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+lymphatic endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+lymphocyte,lymphocyte,CL:0000542,lymphocyte
+lymphoid cell,lymphocyte,CL:0000542,lymphocyte
+lymphoid primed multipotent progenitor,early lymphoid progenitor,CL:0000936,progenitor cell
+m1 macrophage,inflammatory macrophage,CL:0000863,macrophage/monocyte
+m1 microglial cell,NA,NA,microglia
+m2 macrophages,alternatively activated macrophage,CL:0000890,macrophage/monocyte
+macroglial cell,macroglial cell,CL:0000126,macroglial cell
+macrophage or immune cell,macrophage,CL:0000235,macrophage/monocyte
+macrophages or other antigen-presenting cell,"macrophage,professional antigen presenting cell","CL:0000235,CL:0000145","macrophage/monocyte,antigen presenting cell"
+macrophages/monocytes,"macrophage,monocyte","CL:0000235,CL:0000576",macrophage/monocyte
+mammary epithelial cell,mammary gland epithelial cell,CL:0002327,epithelial cell
+marginal zone b cell,NA,NA,b cell
+mast,mast cell,CL:0000097,granulocyte
+mast progenitor cell,mast cell progenitor,CL:0000831,progenitor cell
+mature adipocytes,NA,NA,fat cell
+mature b cell,mature B cell,CL:0000785,b cell
+mature dendritic cell,NA,NA,dendritic cell
+mature hepatocyte,hepatocyte,CL:0000182,epithelial cell
+mature keratinocyte,keratinocyte,CL:0000312,epithelial cell
+mature mast cell,mast cell,CL:0000097,granulocyte
+mature natural killer (nk) cell,mature natural killer cell,CL:0000824,t/nk cell
+mature neurons,neuron,CL:0000540,neuron
+mature oligodendrocyte,oligodendrocyte,CL:0000128,oligodendrocyte
+medullary cell,NA,NA,thyroid cell
+megakaryocyte,megakaryocyte,CL:0000556,megakaryocyte
+megakaryocyte progenitor cell,megakaryocyte progenitor cell,CL:0000553,progenitor cell
+megakaryocyte progenitors,megakaryocyte progenitor cell,CL:0000553,progenitor cell
+megakaryocyte-erythroid-mast cell progenitor cell,megakaryocyte-erythroid progenitor cell,CL:0000050,progenitor cell
+megakaryocytes,megakaryocyte,CL:0000556,megakaryocyte
+memory b,memory B cell,CL:0000787,b cell
+memory cd4+ t cell,"CD4-positive, alpha-beta memory T cell",CL:0000897,t/nk cell
+memory cd8 t cell,"CD8-positive, alpha-beta memory T cell",CL:0000909,t/nk cell
+memory cd8+ t cell,"CD8-positive, alpha-beta memory T cell",CL:0000909,t/nk cell
+memory double-positive t cell,NA,NA,t/nk cell
+memory t helper cell,NA,NA,t/nk cell
+memory t-cell,memory T cell,CL:0000813,t/nk cell
+mep,megakaryocyte-erythroid progenitor cell,CL:0000050,progenitor cell
+merkel cell,Merkel cell,CL:0000242,epithelial cell
+mesangial cell,mesangial cell,CL:0000650,pericyte
+mesenchymal progenitor cell,NA,NA,progenitor cell
+mesenchymal stem cell,mesenchymal stem cell,CL:0000134,stem cell
+mesenchymal stem cell or stromal cells,"mesenchymal stem cell,stromal cell","CL:0000134,CL:0000499","stem cell,stromal cell"
+mesenchymal stromal cell,stromal cell,CL:0000499,stromal cell
+mesothelial,mesothelial cell,CL:0000077,epithelial cell
+metanephric cell,NA,NA,kidney cell
+metaplastic-stem cell,NA,NA,stem cell
+microglia / perivascular macrophage,"microglial cell,perivascular macrophage","CL:0000129,CL:0000881","microglia,macrophage/monocyte"
+"mixed cell types (excitatory neurons, inhibitory neurons)",NA,NA,neuron
+"mixed cell types (inhibitory neurons, astrocytes)","NA,astrocyte","NA,CL:0000127","neuron,astrocyte"
+"mixed cell types (inhibitory neurons, excitatory neurons)",NA,NA,neuron
+monocyte progenitor cell,granulocyte monocyte progenitor cell,CL:0000557,progenitor cell
+monocyte-derived macrophage,macrophage,CL:0000235,macrophage/monocyte
+monocyte/cdc,"monocyte,conventional dendritic cell","CL:0000576,CL:0000990","macrophage/monocyte,dendritic cell"
+monocyte/macrophage,"monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+motile cilia cell,NA,NA,epithelial cell
+msc,mesenchymal stem cell,CL:0000134,stem cell
+muc13_dmbt1 positive cell,NA,NA,NA
+mucosal associated invariant t,mucosal invariant T cell,CL:0000940,t/nk cell
+mucosal cell,NA,NA,mucosal cell
+mucosal epithelial cell (not specific to the lung),NA,NA,epithelial cell
+mucous,NA,NA,mucosal cell
+mucous cell (goblet cells),goblet cell,CL:0000160,epithelial cell
+mueller glia cell,Mueller cell,CL:0000636,radial glial cell
+multiciliated lineage,multi-ciliated epithelial cell,CL:0005012,epithelial cell
+multipotent progenitor cell,NA,NA,progenitor cell
+multipotent progenitors,NA,NA,progenitor cell
+muscularis cell,NA,NA,mucosal cell
+myelocyte,myelocyte,CL:0002193,progenitor cell
+myeloid dendritic cell,myeloid dendritic cell,CL:0000782,dendritic cell
+"myeloid dendritic cell (mdcs, cd1c+)",CD1c-positive myeloid dendritic cell,CL:0002399,dendritic cell
+myeloid dendritic cell (mdcs),myeloid dendritic cell,CL:0000782,dendritic cell
+myeloid derived suppressor cell (mdsc),myeloid suppressor cell,CL:0000889,myeloid cell
+myocytes (muscle cell),muscle cell,CL:0000187,muscle cell
+myocytes (skeletal muscle cell),cell of skeletal muscle,CL:0000188,muscle cell
+myoepithelial cell,myoepithelial cell,CL:0000185,epithelial cell
+myofiber,muscle cell,CL:0000187,muscle cell
+myofiber/myocyte,muscle cell,CL:0000187,muscle cell
+myofibroblastic cancer-associated fibroblast,NA,NA,malignant cell
+myofibroblasts or smooth muscle cell,"myofibroblast cell,smooth muscle cell","CL:0000186,CL:0000192",muscle cell
+myotube,myotube,CL:0002372,muscle cell
+naive b,naive B cell,CL:0000788,b cell
+naive b cell,naive B cell,CL:0000788,b cell
+naive cd4 t,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+naive cd4 t cell,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+naive cd4+ t cell,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+naive cd8 t,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+naive cd8+ t cell,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+naive-like t cell,naive T cell,CL:0000898,t/nk cell
+natural killer,natural killer cell,CL:0000623,t/nk cell
+natural killer  cell,natural killer cell,CL:0000623,t/nk cell
+natural killer cd56+,NA,NA,t/nk cell
+natural killer t,NA,NA,t/nk cell
+natural killer t (nkt) cell,NA,NA,t/nk cell
+natural killer t(nkt)-like cell,NA,NA,t/nk cell
+nephron epithelial cell,epithelial cell of nephron,CL:1000449,epithelial cell
+nerve cell,neuron,CL:0000540,neuron
+nerve mesenchymal cell,NA,NA,mesenchymal cell
+neural crest cell,neural crest cell,CL:0011012,stem cell
+neural stem cell,neural stem cell,CL:0000047,stem cell
+neuroepithelial_cell,neuroepithelial stem cell,CL:0002259,stem cell
+neuron or brain cell,"neuron,NA","CL:0000540,NA",neuron
+neuronal,neuron,CL:0000540,neuron
+neurons (not specific to kidney),neuron,CL:0000540,neuron
+neurons or chromaffin cell,"neuron,chromaffin cell","CL:0000540,CL:0000166","neuron,epithelial cell"
+neurons or glial cell,"neuron,glial cell","CL:0000540,CL:0000125",neuron
+neurons or neuronal progenitor cell,"neuron,NA","CL:0000540,NA",neuron
+neurons or retinal cell,"neuron,retinal cell","CL:0000540,CL:0009004",neuron
+"neurons, astrocytes, or oligodendrocytes","neuron,astrocyte,oligodendrocyte","CL:0000540,CL:0000127,CL:0000128","neuron,astrocyte,oligodendrocyte"
+neutrophil or granulocyte,"neutrophil,granulocyte","CL:0000775,CL:0000094",granulocyte
+neutrophil or immune cell,"neutrophil,NA","CL:0000775,NA",granulocyte
+neutrophil progenitor cell,neutrophil progenitor cell,CL:0000834,progenitor cell
+nk cell/monocytes,"natural killer cell,monocyte","CL:0000623,CL:0000576","t/nk cell,macrophage/monocyte"
+nk t cell,NA,NA,t/nk cell
+nk_cd56bright,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938 ,t/nk cell
+nk_cell,natural killer cell,CL:0000623,t/nk cell
+nkt cell,NA,NA,t/nk cell
+non-neuroendocrine cell,NA,NA,NA
+non-β endocrine cell,NA,NA,NA
+noninflammatory macrophage,NA,NA,macrophage/monocyte
+normal cell,NA,NA,NA
+oligodendrocyte precursor cell,oligodendrocyte precursor cell,CL:0002453,progenitor cell
+oligodendrocyte precursor cell (opcs),oligodendrocyte precursor cell,CL:0002453,progenitor cell
+oral epithelium cell,NA,NA,epithelial cell
+osteocyte,osteocyte,CL:0000137,osteocyte
+outer radial glia,NA,NA,radial glial cell
+outflow tract(oft) cell,NA,NA,heart cell
+paep_mecom positive cell,NA,NA,NA
+paget cell,NA,NA,malignant cell
+pan leukocyte,leukocyte,CL:0000738,leukocyte
+pan-endothelial cell,endothelial cell,CL:0000115,endothelial cell
+pancreatic beta cell,type B pancreatic cell,CL:0000169,epithelial cell
+pancreatic duct cell,pancreatic ductal cell,CL:0002079,epithelial cell
+pancreatic ductal cell,pancreatic ductal cell,CL:0002079,epithelial cell
+pancreatic islet cell (beta cell),type B pancreatic cell,CL:0000169,epithelial cell
+pancreatic polypeptide (pp) cell,pancreatic PP cell,CL:0002275,epithelial cell
+pancreatic polypeptide cell,pancreatic PP cell,CL:0002275,epithelial cell
+pancreatic progenitor cell,NA,NA,progenitor cell
+pancreatic stellate cell,pancreatic stellate cell,CL:0002410,fibroblast
+panvascular cell,NA,NA,blood vessel cell
+papillary tip epithelial,papillary tips cell,CL:1000597,epithelial cell
+parietal and chief cell,"parietal cell,NA","CL:0000162,NA",epithelial cell
+parietal cell,parietal cell,CL:0000162,epithelial cell
+parietal cell (gastric epithelium),parietal cell,CL:0000162,epithelial cell
+parietal epithelial,parietal epithelial cell,CL:1000452,epithelial cell
+parvalbumin interneuron,pvalb GABAergic cortical interneuron,CL:4023018,neuron
+patelet,platelet,CL:0000233,platelet
+pdc,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+pdcs (plasmacytoid dendritic cell),plasmacytoid dendritic cell,CL:0000784,dendritic cell
+pelvic epithelial cell,NA,NA,epithelial cell
+perichondrial embryonic skeletal stem cell,NA,NA,stem cell
+pericyte,pericyte,CL:0000669,pericyte
+pericyte 1,pericyte,CL:0000669,pericyte
+pericytes or vascular smooth muscle cell,"pericyte,vascular associated smooth muscle cell","CL:0000669,CL:0000359","pericyte,muscle cell"
+peridermal keratinocyte,NA,NA,epithelial cell
+periportal fibroblasts,NA,NA,fibroblast
+peritubular capillary endothelial cell,peritubular capillary endothelial cell,CL:1001033,endothelial cell
+perivascular cell,NA,NA,blood vessel cell
+photoreceptor cell,photoreceptor cell,CL:0000210,neuron
+pigment epithelial cell,NA,NA,epithelial cell
+pineal gland cell,NA,NA,brain cell
+placental trophoblast cell,placental villous trophoblast,CL:2000060,extraembryonic cell
+plasma,plasma cell,CL:0000786,b cell
+plasmablast,plasmablast,CL:0000980,b cell
+plasmacytoid dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+plasmacytoid dendritic cell,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+plasmacytoid dendritic cell (pdcs),plasmacytoid dendritic cell,CL:0000784,dendritic cell
+plasmacytoid dendritic cell(pdc),plasmacytoid dendritic cell,CL:0000784,dendritic cell
+platelet,platelet,CL:0000233,platelet
+platelet/megakaryocyte,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte"
+platelets (megakaryocyte-derived),platelet,CL:0000233,platelet
+platelets or megakaryocytes,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte"
+pneumocytes (various types),NA,NA,lung cell
+podocyte,podocyte,CL:0000653,epithelial cell
+podocytes,podocyte,CL:0000653,epithelial cell
+portal fibroblast,hepatic portal fibroblast,CL:0009100,fibroblast
+pp cell,PP cell,CL:0000696,epithelial cell
+pre-b cell,NA,NA,b cell
+pre-b_cell_cd34-,NA,NA,b cell
+pre-dendritic cell,pre-conventional dendritic cell,CL:0002010,dendritic cell
+preb/t,NA,NA,leukocyte
+precursor b,precursor B cell,CL:0000817,b cell
+precursor b cell,precursor B cell,CL:0000817,b cell
+precursor myeloid dendritic dell,NA,NA,progenitor cell
+precursor plasmacytoid dendritic cell,NA,NA,progenitor cell
+primed human pluripotent stem cell,NA,NA,stem cell
+principal,renal principal cell,CL:0005009,epithelial cell
+principal cell (collecting duct),kidney collecting duct principal cell,CL:1001431,epithelial cell
+pro-b cell,pro-B cell,CL:0000826,progenitor cell
+pro-b_cell_cd34+,early pro-B cell,CL:0002046,progenitor cell
+progenitor b,pro-B cell,CL:0000826,progenitor cell
+progenitor cell,progenitor cell,CL:0011026,progenitor cell
+progenitor megakaryocyte,megakaryocyte progenitor cell,CL:0000553,progenitor cell
+proliferating cd8+ t cell,NA,NA,t/nk cell
+proliferating cell,NA,NA,NA
+"proliferating cell (e.g., cancer cells, progenitor cells)",NA,NA,NA
+proliferating cell (not specific to a single cell type),NA,NA,NA
+proliferating cell (possibly cancer cells),NA,NA,malignant cell
+proliferating cytotoxic t cell,NA,NA,t/nk cell
+proliferating hepatocytes,NA,NA,epithelial cell
+proliferating macrophage,NA,NA,macrophage/monocyte
+proliferating natural killer,NA,NA,t/nk cell
+proliferating nk cell,NA,NA,t/nk cell
+proliferating nk/t,NA,NA,t/nk cell
+proliferating t,NA,NA,t/nk cell
+proliferating t/nk,NA,NA,t/nk cell
+proliferative cell,NA,NA,NA
+prom1high progenitor cell,NA,NA,progenitor cell
+proximal straight tubular cell,kidney proximal straight tubule epithelial cell,CL:1000839,epithelial cell
+proximal tubule,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+proximal tubule cell (kidney),epithelial cell of proximal tubule,CL:0002306,epithelial cell
+"proximal tubule cell, loop of henle cell","epithelial cell of proximal tubule,kidney loop of Henle epithelial cell","CL:0002306,CL:1000909",epithelial cell
+purkinje neurons,Purkinje cell,CL:0000121,neuron
+putative myogenic progenitor cell,NA,NA,progenitor cell
+pvalb+ gabaergic neuron,pvalb GABAergic cortical interneuron,CL:4023018,neuron
+pyramidal neurons,pyramidal neuron,CL:0000598,neuron
+quiescent stellate,NA,NA,fibroblast
+radial glial cell,radial glial cell,CL:0000681,radial glial cell
+red blood cell (erythrocyte),erythrocyte,CL:0000232,erythroid cell
+red blood cell (erythrocytes),erythrocyte,CL:0000232,erythroid cell
+red blood cell or erythrocyte,erythrocyte,CL:0000232,erythroid cell
+regenerative stem cell,NA,NA,stem cell
+regulatory cd4 t cell,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",CL:0000792,t/nk cell
+regulatory t,regulatory T cell,CL:0000815,t/nk cell
+regulatory t cell (tregs),regulatory T cell,CL:0000815,t/nk cell
+renal glomerular cell,kidney glomerular epithelial cell,CL:1000510,epithelial cell
+renal intercalated cell,renal intercalated cell,CL:0005010,epithelial cell
+renal interstitial fibroblasts,NA,NA,fibroblast
+renal proximal tubule cell,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+renal stromal cell,NA,NA,stromal cell
+renal tubule cell,NA,NA,epithelial cell
+renal vesicle cell,NA,NA,kidney cell
+residual embryonic cell,NA,NA,embryonic cell
+respiratory tract cell,NA,NA,respiratory tract cell
+retina cell,retinal cell,CL:0009004,neuron
+retinal bipolar cell,retinal bipolar neuron,CL:0000748,neuron
+retinal cell,retinal cell,CL:0009004,neuron
+retinal cell or photoreceptor cells,"retinal cell,photoreceptor cell","CL:0009004,CL:0000210",neuron
+retinal pigment cell,retinal pigment epithelial cell,CL:0002586,epithelial cell
+retinal pigment epithelium cell,retinal pigment epithelial cell,CL:0002586,epithelial cell
+retinal pigment epithelium cell (not specific to kidney),retinal pigment epithelial cell,CL:0002586,epithelial cell
+retinal progenitors and muller glia,"retinal progenitor cell,Mueller cell","CL:0002672,CL:0000636","progenitor cell,radial glial cell"
+rheaume et al.nat commun.25,NA,NA,NA
+ribosomal or hemoglobin-associated cell,NA,NA,NA
+ribosomal proteins-expressing cell,NA,NA,NA
+"ribosome-rich cell (e.g., proliferating cells)",NA,NA,NA
+salivary gland acinar cell,acinar cell of salivary gland,CL:0002623,epithelial cell
+satb2_lrrc7 positive cell,NA,NA,NA
+satellite cell (muscle stem cells),NA,NA,stem cell
+scar‐associated macrophage (sam),NA,NA,macrophage/monocyte
+schwann,Schwann cell,CL:0002573,glial cell
+schwann cell ,Schwann cell,CL:0002573,glial cell
+schwann cell or glial cells,"Schwann cell,glial cell","CL:0002573,CL:0000125",glial cell
+schwann cell or other neural crest-derived cells,"Schwann cell precursor,NA","CL:0002375,NA",progenitor cell
+schwann precursor cell,Schwann cell precursor,CL:0002375,progenitor cell
+sebocyte,sebum secreting cell,CL:0000317,secretory cell
+sebocytes (sebaceous gland cell),sebum secreting cell,CL:0000317,secretory cell
+secretory,secretory cell,CL:0000151,secretory cell
+secretory cell,secretory cell,CL:0000151,secretory cell
+secretory cell (epithelial or glandular cell),secretory cell,CL:0000151,secretory cell
+secretory cell of sweat glands,sweat secreting cell,CL:0000318,secretory cell
+secretory club cell,club cell,CL:0000158,epithelial cell
+secretory luminal epithelial cell (producing prostate-specific antigen),luminal cell of prostate epithelium,CL:0002340,epithelial cell
+secretory progenitor cell,NA,NA,progenitor cell
+secretory prostate epithelial cell,NA,NA,secretory cell
+secretory transient-amplifying cell,NA,NA,secretory cell
+serous,serous secreting cell,CL:0000313,secretory cell
+sinusoidal endothelial,endothelial cell of sinusoid,CL:0002262,endothelial cell
+skeletal muscle cell or myoblasts,"cell of skeletal muscle,myoblast","CL:0000188,CL:0000056",muscle cell
+skin keratinocyte,keratinocyte,CL:0000312,epithelial cell
+skin keratinocytes,keratinocyte,CL:0000312,epithelial cell
+skin resident t cell,NA,NA,t/nk cell
+slc16a7+ cell,NA,NA,NA
+slc26a4_paep positive cell,NA,NA,NA
+smooth muscle,smooth muscle cell,CL:0000192,muscle cell
+"smooth muscle cell (e.g., arrector pili muscles)",smooth muscle cell,CL:0000192,muscle cell
+smooth muscle cell (myoepithelial),smooth muscle cell,CL:0000192,muscle cell
+smooth_muscle_cell,smooth muscle cell,CL:0000192,muscle cell
+sncg+ gabaergic neuron,sncg GABAergic cortical interneuron,CL:4023015,neuron
+somatostatin-producing cell,somatostatin secreting cell,CL:0000172,secretory cell
+spermatid,spermatid,CL:0000018,germ cell
+spermatocyte,spermatocyte,CL:0000017,germ cell
+spermatogenic cell,male germ line stem cell (sensu Vertebrata),CL:0000089,stem cell
+spermatogonium,spermatogonium,CL:0000020,germ cell
+spinous cell,prickle cell,CL:0000649,epithelial cell
+squamous epithelia,squamous epithelial cell,CL:0000076,epithelial cell
+sst+ chodl+ gabaergic neuron,sst chodl GABAergic cortical interneuron,CL:4023121,neuron
+sst+ gabaergic neuron,sst GABAergic cortical interneuron,CL:4023017,neuron
+stc2_tlx1 positive cell,NA,NA,NA
+stellate cell,NA,NA,fibroblast
+stem/progenitor cell,"stem cell,progenitor cell","CL:0000034,CL:0011026","stem cell,progenitor cell"
+"steroidogenic cell (e.g., in adrenal cortex or gonads)",Leydig cell,CL:0000178,interstitial cell
+stomach parietal cell,parietal cell,CL:0000162,epithelial cell
+stratified esophageal cell,NA,NA,epithelial cell
+stratum corneum (outermost layer) keratinocytes,NA,NA,epithelial cell
+striated muscle cell,striated muscle cell,CL:0000737,muscle cell
+stromal,stromal cell,CL:0000499,stromal cell
+stromal cell,stromal cell,CL:0000499,stromal cell
+stromal progenitor cell,NA,NA,progenitor cell
+submucosal secretory,NA,NA,secretory cell
+suprabasal keratinocyte,NA,NA,epithelial cell
+suprabasal keratinocytes,NA,NA,epithelial cell
+supratentorial-radial-glia-like cell,radial glial cell,CL:0000681,radial glial cell
+surfactant-producing cell,surfactant secreting cell,CL:0000157,secretory cell
+sympathetic neurons,sympathetic neuron,CL:0011103,neuron
+sympathoblast cell,NA,NA,progenitor cell
+sympathoblasts,NA,NA,progenitor cell
+syncytiotrophoblast,syncytiotrophoblast cell,CL:0000525,extraembryonic cell
+syncytiotrophoblast cell,syncytiotrophoblast cell,CL:0000525,extraembryonic cell
+syncytiotrophoblasts and villous cytotrophoblasts,"syncytiotrophoblast cell,placental villous trophoblast","CL:0000525,CL:2000060",extraembryonic cell
+synovial cell,synovial cell,CL:0000214,epithelial cell
+t,T cell,CL:0000084,t/nk cell
+t cell (cd4+),"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+t cell (cd8+),"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+t cell (invariant natural killer t cell),NA,NA,t/nk cell
+t cell lineage,T cell,CL:0000084,t/nk cell
+t cell or natural killer (nk) cells,"T cell,natural killer cell","CL:0000084,CL:0000623",t/nk cell
+t cell or t cell precursors,"T cell,NA","CL:0000084,NA",t/nk cell
+t follicular helper cell,T follicular helper cell,CL:0002038,t/nk cell
+t helper 1(th1) cell,T-helper 1 cell,CL:0000545,t/nk cell
+t helper cell,helper T cell,CL:0000912,t/nk cell
+t lymphocyte,T cell,CL:0000084,t/nk cell
+t regulatory cell,regulatory T cell,CL:0000815,t/nk cell
+t_cell,T cell,CL:0000084,t/nk cell
+tanycytes,tanycyte,tanycyte,astrocyte
+tenocytes,tendon cell,CL:0000388,stromal cell
+tenocytes (tendon cell),tendon cell,CL:0000388,stromal cell
+terminal effector cd8+ t cell,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+th17 cell,T-helper 17 cell,CL:0000899,t/nk cell
+thick ascending limb,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,epithelial cell
+thick ascending limb (tal) cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,epithelial cell
+thick ascending loop of henle(talh) cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,epithelial cell
+thymic epithelial cell,epithelial cell of thymus,CL:0002293,epithelial cell
+thymic epithelial cell (tec),epithelial cell of thymus,CL:0002293,epithelial cell
+thymocytes,thymocyte,CL:0000893,t/nk cell
+tissue resident macrophage,tissue-resident macrophage,CL:0000864,macrophage/monocyte
+tissue_stem_cell,NA,NA,stem cell
+tissue-resident macrophage,tissue-resident macrophage,CL:0000864,macrophage/monocyte
+tonsillar epithelial cell,NA,NA,epithelial cell
+transitional b,transitional stage B cell,CL:0000818,b cell
+transitional b cell,transitional stage B cell,CL:0000818,b cell
+transitional cell,NA,NA,NA
+trigeminal schwann cell,NA,NA,glial cell
+trophoblast giant cell,trophoblast giant cell,CL:0002488,extraembryonic cell
+tumor‐associated macrophage (tam),NA,NA,malignant cell
+type ii pneumocyte,type II pneumocyte,CL:0002063,epithelial cell
+type ii pneumocyte or lung alveolar cell,"type II pneumocyte,NA","CL:0002063,NA",epithelial cell
+undifferentiated pancreatic progenitor cell,NA,NA,progenitor cell
+unipolar brush cell,unipolar brush cell,CL:4023161,neuron
+unknown,NA,NA,NA
+unknown/unspecified,NA,NA,NA
+valve interstitial cell,valve interstitial cell,CL:4030032,interstitial cell
+vascual central venous endothelial,NA,NA,endothelial cell
+vascual portal endothelial,NA,NA,endothelial cell
+vascular cell,NA,NA,blood vessel cell
+vascular endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+vascular lepotomeningeal cell,vascular leptomeningeal cell,CL:4023051,fibroblast
+vascular smooth muscle / pericyte,"vascular associated smooth muscle cell,pericyte","CL:0000359,CL:0000669","muscle cell,pericyte"
+vascular smooth muscle cell or pericytes,"vascular associated smooth muscle cell,pericyte","CL:0000359,CL:0000669","muscle cell,pericyte"
+vascular smooth muscle cell(vsmc),vascular associated smooth muscle cell,CL:0000359,muscle cell
+vein,NA,NA,blood vessel cell
+venous endothelial,vein endothelial cell,CL:0002543,endothelial cell
+ventricle cell,NA,NA,heart cell
+ventricular cardiomyocyte,ventricular cardiac muscle cell,CL:2000046,muscle cell
+ventricular cell,NA,NA,heart cell
+ventricular myocyte,NA,NA,muscle cell
+vip+ gabaergic neuron,vip GABAergic cortical interneuron,CL:4023016,neuron
+visceral neurons,visceromotor neuron,CL:0005025,neuron
+visual cortex neurons,visual system neuron,CL:0008028,neuron
+white blood cell,NA,NA,leukocyte
+zona fasciculata cell,type II cell of adrenal cortex,CL:0002136,epithelial cell
+zona reticularis cell,type III cell of adrenal cortex,CL:0002137,epithelial cell
+α-intercalated cell (collecting duct system),kidney collecting duct alpha-intercalated cell,CL:4030015,epithelial cell
+β-intercalated cell (collecting duct system),kidney collecting duct beta-intercalated cell,CL:4030005,epithelial cell
+γδ-t cell,gamma-delta T cell,CL:0000798,t/nk cell
+δ cell,pancreatic D cell,CL:0000173,epithelial cell
+antigen presenting cell,professional antigen presenting cell,CL:0000145,antigen presenting cell
+early embryonic cell,early embryonic cell (metazoa),CL:0000007,embryonic cell
+antigen-presenting cell (dendritic cells or macrophages),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+dermal fibroblasts,NA,NA,fibroblast
+t lymphocytes or dendritic cell,"T cell,dendritic cell","CL:0000084,CL:0000451","t/nk cell,dendritic cell"
+acinar cell of the pancreas,pancreatic acinar cell,CL:0002064,epithelial cell
+activated memory b cell,memory B cell,CL:0000787,b cell
+adipocyte,fat cell,CL:0000136,fat cell
+adipocytes,fat cell,CL:0000136,fat cell
+adipose tissue,NA,NA,adipose cell
+adrenal cell,NA,NA,adrenal gland cell
+adrenal cortex cell,adrenal cortex chromaffin cell,CL:1000427,epithelial cell
+adrenal cortical cell,cortical cell of adrenal gland,CL:0002097,epithelial cell
+adrenal gland inflammatory cell,adrenal gland glandular cell,CL:1001601,epithelial cell
+adrenocortical cell,cortical cell of adrenal gland,CL:0002097,epithelial cell
+alveolar cell,NA,NA,lung cell
+alveolar epithelial type ii cell,type II pneumocyte,CL:0002063,epithelial cell
+alveolar type ii cell,type II pneumocyte,CL:0002063,epithelial cell
+antigen presenting cell (rps high),professional antigen presenting cell,CL:0000145,antigen presenting cell
+antigen-presenting cell,professional antigen presenting cell,CL:0000145,antigen presenting cell
+astrocyte,astrocyte,CL:0000127,astrocyte
+astrocytes,astrocyte,CL:0000127,astrocyte
+at2 cell,type II pneumocyte,CL:0002063,epithelial cell
+b cell,B cell,CL:0000236,b cell
+b cell (plasmocyte),plasma cell,CL:0000786,b cell
+"b cell, t cells, cytotoxic t cells","B cell,T cell,cytotoxic T cell","CL:0000236,CL:0000084,CL:0000910","b cell,t/nk cell"
+b lymphocytes,B cell,CL:0000236,b cell
+basal cell,basal cell,CL:0000646,stem cell
+basal cell in skin,basal cell of epidermis,CL:0002187,epithelial cell
+basal cell of epidermis,basal cell of epidermis,CL:0002187,epithelial cell
+basal epithelial cell,basal cell,CL:0000646,stem cell
+basophils,mature basophil,CL:0000043,granulocyte
+breast ductal cell,NA,NA,breast cell
+breast epithelial cell,mammary gland epithelial cell,CL:0002327,epithelial cell
+breast luminal epithelial cell,luminal epithelial cell of mammary gland,CL:0002326,epithelial cell
+bronchiolar cell,club cell,CL:0000158,epithelial cell
+brown adipocyte cell,brown fat cell,CL:0000449,fat cell
+brown adipocytes,brown fat cell,CL:0000449,fat cell
+capillary endothelial cell,capillary endothelial cell,CL:0002144,endothelial cell
+cardiac muscle cell,cardiac muscle cell,CL:0000746,muscle cell
+cardiomyocytes,cardiac muscle cell,CL:0000746,muscle cell
+cartilage cell,chondrocyte,CL:0000138,stromal cell
+cb cd34+,NA,NA,NA
+cd4 t cell,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+cd4 th cell,CD4-positive helper T cell,CL:0000492,t/nk cell
+cd4+ t cell,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+cd8 t cell,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+cd8+ t cell,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+chondrocyte,chondrocyte,CL:0000138,stromal cell
+chondrocytes,chondrocyte,CL:0000138,stromal cell
+ciliated cell,ciliated cell,CL:0000064,ciliated cell
+clara cell,club cell,CL:0000158,epithelial cell
+club cell,club cell,CL:0000158,epithelial cell
+colon cancer cell,NA,NA,malignant cell
+colon epithelial cell,colon epithelial cell,CL:0011108,epithelial cell
+colonocyte (mature colon epithelial cell),colon epithelial cell,CL:0011108,epithelial cell
+colonocytes,colon epithelial cell,CL:0011108,epithelial cell
+cumulus cell,cumulus cell,CL:0000711,epithelial cell
+cycling cell,NA,NA,NA
+cytotoxic t cell,cytotoxic T cell,CL:0000910,t/nk cell
+cytotoxic t cell / natural killer cells,"cytotoxic T cell,natural killer cell","CL:0000910,CL:0000623",t/nk cell
+decidual stromal cell,decidual cell,CL:2000002,stromal cell
+dendritic cell,dendritic cell,CL:0000451,dendritic cell
+"dendritic cell, b cells, t cells","dendritic cell,b cell,t cell","CL:0000451,CL:0000236,CL:0000084","dendritic cell,b cell,t/nk cell"
+distal convoluted tubule cell,epithelial cell of early distal convoluted tubule,CL:4030016,epithelial cell
+egg cell,egg cell,CL:0000025,germ cell
+embryonic stem cell,embryonic stem cell,CL:0002322,stem cell
+endocrine cell,endocrine cell,CL:0000163,secretory cell
+endothelial cell,endothelial cell,CL:0000115,endothelial cell
+endothelial cell (apc),endothelial cell,CL:0000115,endothelial cell
+endothelial cell (endothelial to mesenchymal transition),valve endothelial cell,CL:4030033,endothelial cell
+endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+enterocyte,enterocyte,CL:0000584,epithelial cell
+enterocyte progenitor,NA,NA,progenitor cell
+enterocytes,enterocyte,CL:0000584,epithelial cell
+enteroendocrine cell,enteroendocrine cell,CL:0000164,secretory cell
+eosinophil,eosinophil,CL:0000771,granulocyte
+epidermal cell,epidermal cell,CL:0000362,epithelial cell
+epidermal cell (keratinocyte),keratinocyte,CL:0000312,epithelial cell
+epidermal keratinocytes,keratinocyte,CL:0000312,epithelial cell
+epithelial cell,epithelial cell,CL:0000066,epithelial cell
+epithelial cell (alveolar type i),type I pneumocyte,CL:0002062,epithelial cell
+epithelial cell (alveolar type ii),type II pneumocyte,CL:0002063,epithelial cell
+epithelial cell (basal keratinocyte),basal cell,CL:0000646,stem cell
+epithelial cell (basal),basal cell,CL:0000646,stem cell
+epithelial cell (brush border),brush border epithelial cell,CL:0000239,epithelial cell
+epithelial cell (ciliated),ciliated epithelial cell,CL:0000067,epithelial cell
+epithelial cell (club),club cell,CL:0000158,epithelial cell
+epithelial cell (cornified keratinocyte),keratinocyte,CL:0000312,epithelial cell
+epithelial cell (hillock),hillock cell,CL:4030024,epithelial cell
+epithelial cell (intermediated),epithelial cell,CL:0000066,epithelial cell
+epithelial cell (intestine or liver),intestinal epithelial cell,CL:0002563,epithelial cell
+epithelial cell (luminal),NA,NA,epithelial cell
+epithelial cell (mature keratinocyte),keratinocyte,CL:0000312,epithelial cell
+epithelial cell (squamous),squamous epithelial cell,CL:0000076,epithelial cell
+epithelial cell (suprabasal keratinocyte),keratinocyte,CL:0000312,epithelial cell
+epithelial cell (suprabasal),NA,NA,epithelial cell
+epithelial cell of proximal tubule,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+erythroblast,erythroblast,CL:0000765,erythroid cell
+erythroblasts,erythroblast,CL:0000765,erythroid cell
+erythrocytes,erythrocyte,CL:0000232,erythroid cell
+erythroid cell,erythroid lineage cell,CL:0000764,erythroid cell
+erythroid progenitor,erythroid progenitor cell,CL:0000038,progenitor cell
+erythroid progenitor cell,erythroid progenitor cell,CL:0000038,progenitor cell
+erythroid progenitor cell (rp high),erythroid progenitor cell,CL:0000038,progenitor cell
+esophageal squamous epithelial cell,esophagus non-keratinized squamous epithelial cell,CL:0009096,epithelial cell
+exhausted t cell,exhausted T cell,CL:0011025,t/nk cell
+fallopian tube cell,NA,NA,fallopian tube cell
+fasciculata cell,type II cell of adrenal cortex,CL:0002136,epithelial cell
+fetal acinar cell,acinar cell,CL:0000622,epithelial cell
+fetal chondrocyte,chondrocyte,CL:0000138,stromal cell
+fetal endocrine cell,endocrine cell,CL:0000163,secretory cell
+fetal enterocyte,enterocyte,CL:0000584,epithelial cell
+fetal epithelial progenitor,NA,NA,progenitor cell
+fetal fibroblast,fibroblast,CL:0000057,fibroblast
+fetal mesenchymal progenitor,mesenchymal cell,CL:0008019,mesenchymal cell
+fetal neuron,neuron,CL:0000540,neuron
+fetal skeletal muscle cell,cell of skeletal muscle,CL:0000188,muscle cell
+fetal stromal cell,stromal cell,CL:0000499,stromal cell
+fibroblast,fibroblast,CL:0000057,fibroblast
+fibroblast cell,fibroblast,CL:0000057,fibroblast
+fibroblasts,fibroblast,CL:0000057,fibroblast
+fibroblasts/mesenchymal stem cell,"fibroblast,mesenchymal stem cell","CL:0000057,CL:0000134","fibroblast,stem cell"
+fibroblasts/muscle cell,"fibroblast,muscle cell","CL:0000057,CL:0000187","fibroblast,muscle cell"
+fibroblasts/neurons,"fibroblast,neuron","CL:0000057,CL:0000540","fibroblast,neuron"
+gamma delta t cell,gamma-delta T cell,CL:0000798,t/nk cell
+gastric cell,NA,NA,stomach cell
+gastric chief cell,peptic cell,CL:0000155,epithelial cell
+gastric endocrine cell,enteroendocrine cell,CL:0000164,secretory cell
+gastric glands,NA,NA,stomach cell
+gastric mucosa cell,surface mucosal cell of stomach,CL:0002182,epithelial cell
+gastric mucosal cell,surface mucosal cell of stomach,CL:0002182,epithelial cell
+gastric mucous cell,mucous cell of stomach,CL:0002180,epithelial cell
+gastric parietal cell,parietal cell,CL:0000162,epithelial cell
+gastric zymogenic epithelial cell,peptic cell,CL:0000155,epithelial cell
+gd t,gamma-delta T cell,CL:0000798,t/nk cell
+glioblastoma cell,NA,NA,malignant cell
+goblet cell,goblet cell,CL:0000160,epithelial cell
+granulocytes,granulocyte,CL:0000094,granulocyte
+granulosa cell,granulosa cell,CL:0000501,epithelial cell
+helper t cell,helper T cell,CL:0000912,t/nk cell
+hepatic stellate cell,hepatic stellate cell,CL:0000632,fibroblast
+hepatocyte,hepatocyte,CL:0000182,epithelial cell
+hepatocyte/endodermal cell,"hepatocyte,endodermal cell","CL:0000182,CL:0000223","epithelial cell,embryonic cell"
+hepatocytes,hepatocyte,CL:0000182,epithelial cell
+hesc,embryonic stem cell,CL:0002322,stem cell
+humerus chondrocytes,chondrocyte,CL:0000138,stromal cell
+immature sertoli cell (pre-sertoli cell),NA,NA,epithelial cell
+immune (alveolar macrophage),alveolar macrophage,CL:0000583,macrophage/monocyte
+immune (b cell),B cell,CL:0000236,b cell
+immune (dc),dendritic cell,CL:0000451,dendritic cell
+immune (dc/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+immune (langerhans),Langerhans cell,CL:0000453,dendritic cell
+immune (mast cell),mast cell,CL:0000097,granulocyte
+immune (nk cell),natural killer cell,CL:0000623,t/nk cell
+immune (t cell),T cell,CL:0000084,t/nk cell
+immune cell,NA,NA,immune cell
+"immune cell, b cells",B cell,CL:0000236,b cell
+innate lymphoid cell (ilcs),innate lymphoid cell,CL:0001065,innate lymphoid cell
+intercalated cell,renal intercalated cell,CL:0005010,epithelial cell
+intercalated cell of collecting duct,kidney collecting duct intercalated cell,CL:1001432,epithelial cell
+interconnecting tubule cell,kidney tubule cell,CL:1000507,epithelial cell
+intestinal epithelial cell,intestinal epithelial cell,CL:0002563,epithelial cell
+keratinocytes,keratinocyte,CL:0000312,epithelial cell
+kidney cell,kidney cell,CL:1000497,kidney cell
+kidney collecting duct cell,kidney collecting duct cell,CL:1001225,kidney cell
+kidney epithelial,kidney epithelial cell,CL:0002518,epithelial cell
+kidney intercalated cell,kidney connecting tubule intercalated cell,CL:4030019,epithelial cell
+kidney proximal tubules,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+kidney tubular cell,kidney tubule cell,CL:1000507,epithelial cell
+kidney tubule cell,kidney tubule cell,CL:1000507,epithelial cell
+leiomyocytes,NA,NA,muscle cell
+leydig cell,Leydig cell,CL:0000178,interstitial cell
+liver cell,NA,NA,liver cell
+loop of henle,kidney loop of Henle epithelial cell,CL:1000909,epithelial cell
+luminal cell,NA,NA,epithelial cell
+luminal cell of the mammary gland,luminal epithelial cell of mammary gland,CL:0002326,epithelial cell
+luteal cell,luteal cell,CL:0000175,stromal cell
+m2 macrophage,alternatively activated macrophage,CL:0000890,macrophage/monocyte
+macrophage,macrophage,CL:0000235,macrophage/monocyte
+macrophages,macrophage,CL:0000235,macrophage/monocyte
+macrophages / microglia,"macrophage,microglial cell","CL:0000235,CL:0000129","macrophage/monocyte,microglia"
+"macrophages, microglia","macrophage,microglial cell","CL:0000235,CL:0000129","macrophage/monocyte,microglia"
+malignant b cell,NA,NA,malignant cell
+malignant cell,malignant cell,CL:0001064,malignant cell
+mammary gland cell,NA,NA,breast cell
+mammary gland epithelial cell,mammary gland epithelial cell,CL:0002327,epithelial cell
+mast cell,mast cell,CL:0000097,granulocyte
+melanocyte,melanocyte,CL:0000148,melanocyte
+melanocytes,melanocyte,CL:0000148,melanocyte
+memory b cell,memory B cell,CL:0000787,b cell
+mesc,embryonic stem cell,CL:0002322,stem cell
+mesenchymal cell,mesenchymal cell,CL:0008019,mesenchymal cell
+mesothelial cell,mesothelial cell,CL:0000077,epithelial cell
+microglia,microglial cell,CL:0000129,microglia
+microglia cell,microglial cell,CL:0000129,microglia
+microglial cell,microglial cell,CL:0000129,microglia
+monocyte,monocyte,CL:0000576,macrophage/monocyte
+monocytes,monocyte,CL:0000576,macrophage/monocyte
+"monocytes, macrophages","monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+monocytes/macrophages,"monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+monocytes/macrophages or dendritic cell,"monocyte,macrophage,dendritic cell","CL:0000576,CL:0000235,CL:0000451","macrophage/monocyte,dendritic cell"
+monocytes/ribosome (no cell type),monocyte,CL:0000576,macrophage/monocyte
+motor neurons,motor neuron,CL:0000100,neuron
+msc (cultured),mesenchymal stem cell,CL:0000134,stem cell
+mucous cell,NA,NA,mucosal cell
+muscle cell,muscle cell,CL:0000187,muscle cell
+myeloid cell,myeloid cell,CL:0000763,myeloid cell
+myeloid progenitor cell,myeloid lineage restricted progenitor cell,CL:0000839,progenitor cell
+myeloids,myeloid cell,CL:0000763,myeloid cell
+myoblast,myoblast,CL:0000056,progenitor cell
+myoblast cell,myoblast,CL:0000056,progenitor cell
+myocyte,NA,NA,muscle cell
+"myocyte (cardiac, cytoplasmic)",cardiac muscle cell,CL:0000746,muscle cell
+myocyte (cardiac),cardiac muscle cell,CL:0000746,muscle cell
+myocyte (nmj-rich),NA,NA,muscle cell
+"myocyte (sk. muscle, cytoplasmic)",muscle cell,CL:0000187,muscle cell
+myocyte (sk. muscle),muscle cell,CL:0000187,muscle cell
+myocyte (smooth muscle),smooth muscle cell,CL:0000192,muscle cell
+myocytes,muscle cell,CL:0000187,muscle cell
+myoepithelial (basal),myoepithelial cell,CL:0000185,epithelial cell
+myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell
+myofibroblasts,myofibroblast cell,CL:0000186,myofibroblast cell
+myogenic precursor cell,NA,NA,progenitor cell
+natural killer (nk) cell,natural killer cell,CL:0000623,t/nk cell
+natural killer cell,natural killer cell,CL:0000623,t/nk cell
+natural killer t cell,mature NK T cell,CL:0000814,t/nk cell
+neural progenitor cell,neural progenitor cell,CL:0011020,progenitor cell
+neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell
+neuroendocrine cell,neuroendocrine cell,CL:0000165,epithelial cell
+neuron,neuron,CL:0000540,neuron
+neuronal cell,neuron,CL:0000540,neuron
+neuronal cell (mostly),neuron,CL:0000540,neuron
+neurons,neuron,CL:0000540,neuron
+neutrophil,neutrophil,CL:0000775,granulocyte
+neutrophil (rps high),neutrophil,CL:0000775,granulocyte
+neutrophils,neutrophil,CL:0000775,granulocyte
+nk,natural killer cell,CL:0000623,t/nk cell
+nk cell,natural killer cell,CL:0000623,t/nk cell
+nk/t cell,"natural killer cell,T cell","CL:0000623,CL:0000084",t/nk cell
+non-ciliated epithelial cell,NA,NA,epithelial cell
+non-malignant b cell,B cell,CL:0000236,b cell
+oligo,oligodendrocyte,CL:0000128,oligodendrocyte
+oligodendrocyte,oligodendrocyte,CL:0000128,oligodendrocyte
+oligodendrocytes,oligodendrocyte,CL:0000128,oligodendrocyte
+oocytes,oocyte,CL:0000023,germ cell
+oral epithelial cell,oral mucosa squamous cell,CL:1001576,epithelial cell
+osteoblast,osteoblast,CL:0000062,osteoblast
+osteoblasts,osteoblast,CL:0000062,osteoblast
+osteoclasts,osteoblast,CL:0000062,osteoblast
+ovarian cancer cell,NA,NA,malignant cell
+ovarian granulosa cell,granulosa cell,CL:0000501,epithelial cell
+ovarian stroma cell,NA,NA,stromal cell
+pancreas exocrine cell,pancreas exocrine glandular cell,CL:1001599,epithelial cell
+pancreatic acinar cell,pancreatic acinar cell,CL:0002064,epithelial cell
+pancreatic cell,NA,NA,pancreatic cell
+pancreatic islet cell,NA,NA,pancreatic cell
+pancreatic islets,NA,NA,pancreatic cell
+paneth cell,paneth cell,CL:0000510,epithelial cell
+parathyroid cell,parathyroid glandular cell,CL:1001593,epithelial cell
+parotid gland acinar cell,acinar cell of salivary gland,CL:0002623,epithelial cell
+pericyte/smc,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+pericytes,pericyte,CL:0000669,pericyte
+placenta endodermal cell,NA,NA,embryonic cell
+plasma cell,plasma cell,CL:0000786,b cell
+platelets,platelet,CL:0000233,platelet
+preimplantation embryo cell,NA,NA,embryonic cell
+premeiotic germ cell,NA,NA,germ cell
+primordial germ cell,primordial germ cell,CL:0000670,germ cell
+principal cell of cortical collecting duct,kidney cortex collecting duct principal cell,CL:1000714,epithelial cell
+proliferating myocyte,NA,NA,muscle cell
+proliferating t cell,NA,NA,t/nk cell
+proliferative neuron,NA,NA,neuron
+prostate epithelial cell,epithelial cell of prostate,CL:0002231,epithelial cell
+prostate epithelial secretory cell,NA,NA,epithelial cell
+prostate gland cell,NA,NA,prostate cell
+prostate luminal cell,luminal cell of prostate epithelium,CL:0002340,epithelial cell
+proximal tubular cell,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+proximal tubule brush border cell,brush border cell of the proximal tubule,CL:0002307,epithelial cell
+proximal tubule cell,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+proximal tubule progenitor,NA,NA,progenitor cell
+pulmonary alveolar type i cell,type I pneumocyte,CL:0002062,epithelial cell
+pulmonary alveolar type ii cell,type II pneumocyte,CL:0002063,epithelial cell
+pulmonary epithelial cell,epithelial cell of lung,CL:0000082,epithelial cell
+pulmonary vascular endothelial cell,NA,NA,endothelial cell
+rectal glandular cell,rectum glandular cell,CL:1001595,epithelial cell
+red blood cell,primitive red blood cell,CL:0002355,erythroid cell
+regulatory t cell,regulatory T cell,CL:0000815,t/nk cell
+renal cell,kidney cell,CL:1000497,kidney cell
+renal tubular cell,NA,NA,kidney cell
+retinal pigment epithelial cell,retinal pigment epithelial cell,CL:0002586,epithelial cell
+ribosomal cell,NA,NA,NA
+ribosome,NA,NA,NA
+ribosome (no cell type),NA,NA,NA
+ribosomes,NA,NA,NA
+ribosomes/ribosomal cell,NA,NA,NA
+rpe cell (retinal pigment epithelium cells),retinal pigment epithelial cell,CL:0002586,epithelial cell
+salivary gland cell,salivary gland cell,CL:0009005,salivary gland cell
+satellite cell,skeletal muscle satellite cell,CL:0000594,progenitor cell
+schwann cell,Schwann cell,CL:0002573,glial cell
+sebaceous duct cell,NA,NA,sebaceous gland cell
+sebaceous gland cell,sebaceous gland cell,CL:2000021,sebaceous gland cell
+sebocytes,sebum secreting cell,CL:0000317,secretory cell
+secretory alveoli cell,NA,NA,secretory cell
+sertoli cell,Sertoli cell,CL:0000216,epithelial cell
+sialomucin-secreting cell of the uterus,NA,NA,secretory cell
+sinusoidal endothelial cell,endothelial cell of hepatic sinusoid,CL:1000398,endothelial cell
+skeletal muscle cell,cell of skeletal muscle,CL:0000188,muscle cell
+"skeletal muscle cell, adipocytes","cell of skeletal muscle,fat cell","CL:0000188,CL:0000136","muscle cell,fat cell"
+skeletal muscle fibers,skeletal muscle fiber,CL:0008002,muscle cell
+smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell
+"smooth muscle cell, endothelial cells","smooth muscle cell,endothelial cell","CL:0000192,CL:0000115","muscle cell,endothelial cell"
+"smooth muscle cell, fibroblasts","smooth muscle cell,fibroblast","CL:0000192,CL:0000057","muscle cell,fibroblast"
+smooth muscle cell/fibroblasts,"smooth muscle cell,fibroblast","CL:0000192,CL:0000057","muscle cell,fibroblast"
+sperm cell,sperm,CL:0000019,germ cell
+spermatids,spermatid,CL:0000018,germ cell
+spermatocytes,spermatocyte,CL:0000017,germ cell
+spermatogonia,spermatogonium,CL:0000020,germ cell
+spermatogonial stem cell,male germ line stem cell (sensu Vertebrata),CL:0000089,stem cell
+spongiotrophoblast,spongiotrophoblast cell,CL:0002499,extraembryonic cell
+squamous epithelial cell,squamous epithelial cell,CL:0000076,epithelial cell
+steroidogenic cell,Leydig cell,CL:0000178,interstitial cell
+stomach cell,NA,NA,stomach cell
+stomach epithelial cell,epithelial cell of stomach,CL:0002178,epithelial cell
+stomach lining cell,epithelial cell of stomach,CL:0002178,epithelial cell
+stratified epithelial cell,stratified epithelial cell,CL:0000079,epithelial cell
+stratified squamous epithelial cell,stratified squamous epithelial cell,CL:0000240,epithelial cell
+stromal cell,stromal cell,CL:0000499,stromal cell
+sweat gland cell,epithelial cell of sweat gland,CL:1000448,epithelial cell
+t and b cell,"T cell,B cell","CL:0000084,CL:0000236","t/nk cell,b cell"
+t cell,T cell,CL:0000084,t/nk cell
+"t cell, b cells","T cell,B cell","CL:0000084,CL:0000236","t/nk cell,b cell"
+t lymphocytes,T cell,CL:0000084,t/nk cell
+t-cell,T cell,CL:0000084,t/nk cell
+t-regulatory cell,regulatory T cell,CL:0000815,t/nk cell
+taste bud cell,NA,NA,taste bud cell
+testicular cell,NA,NA,testis cell
+testicular sertoli cell,Sertoli cell,CL:0000216,epithelial cell
+theca cell,theca cell,CL:0000503,stromal cell
+thyroid cell,NA,NA,thyroid cell
+thyroid follicular cell,thyroid follicular cell,CL:0002258,epithelial cell
+tracheal cell,NA,NA,tracheal cell
+treg,regulatory T cell,CL:0000815,t/nk cell
+tregs,regulatory T cell,CL:0000815,t/nk cell
+trophectodermal cell,trophectodermal cell,CL:1000274,extraembryonic cell
+trophoblast cell,trophoblast cell,CL:0000351,extraembryonic cell
+trophoblast progenitor cell,NA,NA,progenitor cell
+trophoblast stem cell,NA,NA,stem cell
+trophoblasts,trophoblast cell,CL:0000351,extraembryonic cell
+type ii pneumocytes,type II pneumocyte,CL:0002063,epithelial cell
+ureteric bud cell,NA,NA,ureteric bud cell
+urothelial cell,urothelial cell,CL:0000731,epithelial cell
+urothelium,urothelial cell,CL:0000731,epithelial cell
+uterine epithelial cell,NA,NA,epithelial cell
+vascular endothelial cell,endothelial cell of vascular tree,CL:0002139,endothelial cell
+vascular smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,muscle cell
+ventricle cardiomyocyte,ventricular cardiac muscle cell,CL:2000046,muscle cell

@@ -1,0 +1,17 @@
+d1 <- readRDS('/celltype/stromal/expr/hca.rds')
+d2 <- readRDS('/celltype/stromal/expr/hcl.rds')
+d3 <- readRDS('/celltype/stromal/expr/lungcancer.rds')
+d4 <- readRDS('/celltype/stromal/expr/mca.rds')
+
+d5 <- readRDS('/celltype/stromal/expr/tabulasapiens.rds')
+
+d1 <- do.call(rbind,sapply(d1,as.data.frame,simplify = F))
+d1 <- data.frame(dataset='HCA',tissue=sub('\\..*','',rownames(d1)),celltype=d1[,1],d1[,-1])
+d2 <- data.frame(dataset='HCL',tissue=NA,celltype=d2[,1],d2[,-1])
+d3 <- data.frame(dataset='lungcancer',tissue='lung cancer and brain metastasis',celltype=d3[,1],d3[,-1])
+d4 <- data.frame(dataset='MCA',tissue=NA,celltype=d4[,1],d4[,-1])
+colnames(d4)[4:6] <- toupper(colnames(d4)[4:6])
+d5 <- do.call(rbind,sapply(d5,as.data.frame,simplify = F))
+d5 <- data.frame(dataset='tabulasapiens',tissue=sub('\\..*','',rownames(d5)),celltype=d5[,1],d5[,-1])
+d <- rbind(d1,d2,d3,d4,d5)
+saveRDS(d,file='/celltype/stromal/expr.rds')

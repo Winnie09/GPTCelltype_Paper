@@ -1,0 +1,556 @@
+celltype,subset
+acinar,no
+acinar cell,no
+acinar cell of salivary gland,yes
+activated naive b,yes
+activated stellate,yes
+adipocyte,no
+adrenal gland inflammatory cell,yes
+adrenocortical cell,no
+adventitial cell,no
+alpha islet cell,yes
+alveolar epithelial type 1,yes
+alveolar epithelial type 2,yes
+alveolar fibroblast,yes
+alveolar type i,yes
+alveolar type ii,yes
+alveolar type ii cell,yes
+amacrine cell,no
+antigen presenting cell,no
+antigen presenting cell (rps high),no
+arterial endothelial,yes
+artery,no
+artery endothelial cell,yes
+ascending thin limb,no
+astrocyte,no
+astrocytes,no
+at1,yes
+at2,yes
+at2 cell,yes
+atrial cardiomyocyte,yes
+axl+ dendritic cell,yes
+b,no
+b cell,no
+b cell (plasmocyte),yes
+b cell lineage,no
+b cell_memory,yes
+b lymphocytes,no
+basal,no
+basal cell,no
+basal cell of prostate epithelium,yes
+basal epithelia,yes
+basal keratinocyte,yes
+basophil,no
+basophil eosinophil mast progenitor,yes
+basophil/mast,no
+beta islet cell,yes
+bipolar cell,no
+bladder urothelial cell,yes
+bronchial smooth muscle cell,yes
+bronchial vessel,yes
+bronchial vessel endothelial cell,yes
+bronchiolar and alveolar epithelial cell,yes
+capillary,no
+capillary aerocyte,yes
+capillary endothelial,yes
+capillary endothelial cell,yes
+capillary intermediate,yes
+cardiac endothelial cell,yes
+cardiac muscle cell,yes
+cardiomyocytes,yes
+cartilage cell,no
+cd14 monocyte,yes
+cd14+ monocyte,yes
+cd141-positive myeloid dendritic cell,yes
+cd16 monocyte,yes
+cd16+ monocyte,yes
+cd1c-positive myeloid dendritic cell,yes
+cd24 neutrophil,yes
+cd4 effector,yes
+cd4 memory,yes
+cd4 naive,yes
+cd4 t,yes
+cd4 t cell,yes
+cd4-positive helper t cell,yes
+"cd4-positive, alpha-beta memory t cell",yes
+"cd4-positive, alpha-beta t cell",yes
+cd4+ central memory t,yes
+cd4+ cytotoxic t,yes
+cd4+ effector memory t,yes
+cd4+ naive t,yes
+cd4+ proliferating t,yes
+cd56-bright natural killer,yes
+cd56-dim natural killer,yes
+cd8 effector 1,yes
+cd8 effector 2,yes
+cd8 effector 3,yes
+cd8 memory,yes
+cd8 naive,yes
+cd8 t,yes
+cd8 t cell,yes
+"cd8-positive, alpha-beta cytokine secreting effector t cell",yes
+"cd8-positive, alpha-beta cytotoxic t cell",yes
+"cd8-positive, alpha-beta memory t cell",yes
+"cd8-positive, alpha-beta t cell",yes
+cd8+ central memory t,yes
+cd8+ effector memory t,yes
+cd8+ naive t,yes
+cd8+ proliferating t,yes
+cd8b-positive nk t cell,yes
+cell of skeletal muscle,no
+cholangiocyte,yes
+chondrocyte,no
+chromaffin cell,yes
+ciliated,no
+ciliated cell,no
+ciliated epithelial,yes
+ciliated epithelial cell,yes
+clara cell,yes
+classical monocyte,yes
+club,yes
+club cell,yes
+club cell of prostate epithelium,yes
+club epithelial,yes
+colon cancer cell,no
+common lymphoid progenitor,yes
+conjunctival epithelial cell,yes
+connecting tubule,no
+connective tissue cell,no
+conventional dendritic cell 1,yes
+conventional dendritic cell 2,yes
+corneal and conjunctival epithelial cell,yes
+corneal epithelial cell,yes
+corneal keratocyte,yes
+cumulus cell,no
+cycling b,yes
+cycling follicular dendritic,yes
+cycling myeloid,yes
+cycling t,yes
+dc1,yes
+dc2,yes
+decidual stromal cell,yes
+delta islet cell,yes
+dendritic,no
+dendritic cell,no
+descending thin limb,no
+distal convoluted tubule,no
+dn1 thymic pro-t cell,yes
+dn3 thymocyte,yes
+dn4 thymocyte,yes
+double negative t,yes
+double-negative t,yes
+"double-positive, alpha-beta thymocyte",yes
+duct epithelial cell,yes
+ductal,no
+ductal cell,no
+duodenum glandular cell,no
+early erythroid,yes
+ec arterial,yes
+ec capillary,yes
+ec venous,yes
+endocardial,yes
+endocardial cell,yes
+endocrine cell,no
+endometrial,no
+endothelial,no
+endothelial cell,no
+endothelial cell (apc),yes
+endothelial cell (endothelial to mesenchymal transition),yes
+endothelial cell (lymphatic),yes
+endothelial cell (vascular),yes
+endothelial cell of artery,yes
+endothelial cell of hepatic sinusoid,yes
+endothelial cell of lymphatic vessel,yes
+endothelial cell of vascular tree,yes
+ens glia,yes
+ens neurons,yes
+enterocyte,no
+enterocyte of epithelium of large intestine,yes
+enterocyte of epithelium of small intestine,yes
+enterocyte progenitor,yes
+eosinophil,yes
+epicardial fat cell,yes
+epithelial,no
+epithelial cell,no
+epithelial cell (alveolar type i),yes
+epithelial cell (alveolar type ii),yes
+epithelial cell (basal keratinocyte),yes
+epithelial cell (basal),yes
+epithelial cell (ciliated),yes
+epithelial cell (club),yes
+epithelial cell (cornified keratinocyte),yes
+epithelial cell (hillock),yes
+epithelial cell (intermediated),yes
+epithelial cell (luminal),yes
+epithelial cell (mature keratinocyte),yes
+epithelial cell (squamous),yes
+epithelial cell (suprabasal keratinocyte),yes
+epithelial cell (suprabasal),yes
+epithelial cell of lacrimal sac,yes
+epithelial cell of uterus,yes
+epsilon islet cell,yes
+erythroblast,no
+erythroblasts,no
+erythrocyte,no
+erythroid cell,no
+erythroid lineage cell,no
+erythroid megakaryocyte progenitor,yes
+erythroid progenitor,yes
+erythroid progenitor cell (rp high),yes
+excitatory neurons,yes
+extravillous trophoblasts,yes
+eye photoreceptor cell,yes
+fasciculata cell,yes
+fast muscle cell,yes
+fetal acinar cell,no
+fetal chondrocyte,no
+fetal endocrine cell,no
+fetal enterocyte,no
+fetal epithelial progenitor,no
+fetal fibroblast,no
+fetal mesenchymal progenitor,no
+fetal neuron,no
+fetal skeletal muscle cell,no
+fetal stromal cell,no
+fibroblast,no
+fibroblast (papillary dermis),yes
+fibroblast of breast,yes
+fibroblast of cardiac tissue,yes
+fibroblasts,no
+fibromyocyte,yes
+fibromyocytes,yes
+follicular dendritic,yes
+gamma islet cell,yes
+gamma-delta t,yes
+ganglion cell,no
+gastric chief cell,yes
+gastric endocrine cell,yes
+gastric mucosa cell,yes
+gd t,yes
+germinal center b,yes
+goblet,no
+goblet cell,no
+granule neurons,yes
+granulocyte,no
+granulocyte monocyte progenitor,yes
+granulocytes,no
+granulosa cell,yes
+gut endothelial cell,yes
+hematopoeitic stem cell,no
+hematopoietic stem and progenitor cell,no
+hematopoietic stem cell,no
+hepatoblasts,yes
+hepatocyte,no
+hepatocyte/endodermal cell,no
+hesc,no
+hillock cell of prostate epithelium,yes
+hillock-club cell of prostate epithelium,yes
+horizontal cell,yes
+hsc,no
+ilc,no
+immature enterocyte,yes
+immature natural killer cell,yes
+immature sertoli cell (pre-sertoli cell),yes
+immune,no
+immune (alveolar macrophage),yes
+immune (b cell),no
+immune (dc),no
+immune (dc/macrophage),no
+immune (langerhans),yes
+immune (mast cell),no
+immune (nk cell),no
+immune (t cell),no
+immune cell,no
+inflammatory macrophage,yes
+inhibitory interneurons,yes
+inhibitory neurons,yes
+innate lymphoid,no
+innate lymphoid cell,no
+innate lymphoid cell nk,yes
+intercalated,no
+intercalated cell,no
+intercalated cell of collecting duct,yes
+intermediate b cell,yes
+intermediate monocyte,yes
+interstitial cell of cajal (icc),yes
+intestinal crypt stem cell,yes
+intestinal crypt stem cell of large intestine,yes
+intestinal crypt stem cell of small intestine,yes
+intestinal enteroendocrine cell,yes
+intestinal epithelial cell,yes
+intestinal tuft cell,yes
+intrahepatic cholangiocyte,yes
+ionocyte,yes
+islet endocrine cell,yes
+keratinocyte,no
+kidney epithelial,yes
+kidney epithelial cell,yes
+kidney intercalated cell,yes
+lamp5+ gabaergic neuron,yes
+langerhans cell,yes
+large intestine goblet cell,yes
+late erythroid,yes
+"layer 2-3 glutamatergic neuron, intratelencephalon-projecting",yes
+"layer 5 glutamatergic neuron, extratelencephalon-projecting",yes
+"layer 5 glutamatergic neuron, intratelencephalon-projecting",yes
+"layer 5-6 glutamatergic neuron, near-projecting",yes
+"layer 6 car3+ glutamatergic neuron, intratelencephalon-projecting",yes
+"layer 6 glutamatergic neuron, corticothalamic-projecting",yes
+"layer 6 glutamatergic neuron, intratelencephalon-projecting",yes
+layer 6b glutamatergic neuron,yes
+lens fibre cell,yes
+leucocyte,no
+leydig cell,yes
+limbal stem cell,yes
+limbal stromal cell,yes
+limbic system neurons,yes
+lipofibroblast,yes
+liver dendritic cell,yes
+loop of henle,no
+luminal cell of prostate epithelium,yes
+luminal epithelial,yes
+luminal epithelial cell of mammary gland,yes
+lung ciliated cell,yes
+lung microvascular endothelial cell,yes
+luteal cell,yes
+lymphatic,no
+lymphatic ec differentiating,yes
+lymphatic ec mature,yes
+lymphatic ec proliferating,yes
+lymphatic endothelial,yes
+lymphatic endothelial cell,yes
+lymphoid cell,no
+lymphoid primed multipotent progenitor,yes
+m2 macrophage,yes
+macrophage,no
+macrophages,no
+malignant b cell,yes
+malignant cell,yes
+mast,no
+mast cell,no
+mature conventional dendritic cell,yes
+mature enterocyte,yes
+mature keratinocyte,yes
+mature nk t cell,yes
+medullary thymic epithelial cell,yes
+megakaryocytes,no
+melanocyte,no
+memory b,yes
+memory b cell,yes
+mesangial cell,yes
+mesc,no
+mesenchymal stem cell,no
+mesothelial,yes
+mesothelial cell,yes
+metanephric cell,yes
+microglia,no
+microglia / perivascular macrophage,yes
+microglial cell,no
+monocyte,no
+monocyte/cdc,no
+monocyte/macrophage,no
+monocytes,no
+msc (cultured),no
+mucosal associated invariant t,yes
+mucous,no
+mucous cell,no
+mucus secreting cell,no
+muller cell,no
+multiciliated lineage,yes
+muscle cell,no
+myeloid cell,no
+myeloid dendritic cell,yes
+myeloid progenitor,yes
+myeloid progenitor cell,yes
+myeloids,no
+myoblast,no
+myocyte,no
+"myocyte (cardiac, cytoplasmic)",yes
+myocyte (cardiac),yes
+myocyte (nmj-rich),yes
+"myocyte (sk. muscle, cytoplasmic)",yes
+myocyte (sk. muscle),yes
+myocyte (smooth muscle),no
+myoepithelial (basal),yes
+myoepithelial cell,yes
+myofiber/myocyte,yes
+myofibroblast,no
+myofibroblast cell,no
+myofibroblasts,no
+myometrial cell,no
+naive b,yes
+naive b cell,yes
+naive cd4 t,yes
+naive cd8 t,yes
+naive regulatory t cell,yes
+"naive thymus-derived cd4-positive, alpha-beta t cell",yes
+"naive thymus-derived cd8-positive, alpha-beta t cell",yes
+nampt neutrophil,yes
+natural killer,no
+natural killer cd56+,yes
+natural killer t,no
+neuroendocrine,yes
+neuroendocrine cell,yes
+neuron,no
+neuronal,no
+neutrophil,no
+neutrophil (rps high),no
+nk,no
+nk cell,no
+nk_cd56bright,yes
+nk/t cell,no
+nkt cell,yes
+non-classical monocyte,yes
+non-malignant b cell,yes
+noninflammatory macrophage,yes
+oligo,no
+oligodendrocyte,no
+oligodendrocyte precursor cell,no
+oligodendrocytes,no
+osteoblast,no
+pancreas exocrine cell,yes
+pancreatic acinar cell,yes
+pancreatic alpha cell,yes
+pancreatic beta cell,yes
+pancreatic delta cell,yes
+pancreatic ductal cell,yes
+pancreatic pp cell,yes
+pancreatic stellate cell,yes
+paneth cell of epithelium of large intestine,yes
+paneth cell of epithelium of small intestine,yes
+papillary tip epithelial,yes
+parietal and chief cell,yes
+parietal epithelial,yes
+pdc,yes
+pericyte,no
+pericyte cell,no
+pericyte/smc,no
+photoreceptor cell,no
+placenta endodermal cell,yes
+plasma,yes
+plasma cell,yes
+plasmablast,yes
+plasmacytoid dendritic,yes
+plasmacytoid dendritic cell,yes
+platelet,no
+platelet/megakaryocyte,no
+podocyte,yes
+portal fibroblast,yes
+preb/t,yes
+precursor b,yes
+precursor myeloid dendritic dell,yes
+precursor plasmacytoid dendritic cell,yes
+premeiotic germ cell,no
+primordial germ cell,no
+principal,yes
+principal cell of cortical collecting duct,yes
+progenitor b,yes
+progenitor megakaryocyte,yes
+proliferating macrophage,yes
+proliferating myocyte,yes
+proliferating natural killer,yes
+proliferating nk/t,yes
+proliferating t,yes
+proliferating t cell,yes
+proliferating t/nk,yes
+proliferative neuron,yes
+prostate gland cell,yes
+proximal tubule,no
+proximal tubule brush border cell,yes
+proximal tubule progenitor,yes
+pulmonary ionocyte,yes
+purkinje neurons,yes
+pvalb+ gabaergic neuron,yes
+quiescent stellate,yes
+radial glial cell,no
+regulatory t,yes
+regulatory t cell,yes
+renal tubular cell,no
+respiratory goblet cell,no
+retina horizontal cell,yes
+retinal bipolar neuron,yes
+retinal blood vessel endothelial cell,yes
+retinal ganglion cell,yes
+retinal pigment cell,yes
+retinal pigment epithelial cell,yes
+retinal progenitors and muller glia,yes
+salivary gland cell,no
+satellite cell,no
+schwann,no
+schwann cell,no
+sebaceous gland cell,yes
+sebocyte,no
+secretory,no
+secretory alveoli cell,yes
+secretory cell,no
+serous,no
+serous cell of epithelium of bronchus,yes
+serous cell of epithelium of trachea,yes
+sertoli cell,no
+sinusoidal endothelial,yes
+sinusoidal endothelial cell,yes
+skeletal muscle cell,no
+skeletal muscle satellite stem cell,yes
+slow muscle cell,yes
+small intestine goblet cell,yes
+smooth muscle,no
+smooth muscle cell,no
+sncg+ gabaergic neuron,yes
+sperm,no
+spongiotrophoblast,yes
+squamous epithelia,yes
+squamous epithelial cell,yes
+sst+ chodl+ gabaergic neuron,yes
+sst+ gabaergic neuron,yes
+stellate cell,no
+stomach epithelial cell,yes
+stratified epithelial cell,yes
+stromal,no
+stromal cell,no
+submucosal secretory,yes
+suprabasal keratinocyte,yes
+sweat gland cell,no
+sympathoblasts,yes
+syncytiotrophoblasts and villous cytotrophoblasts,yes
+t,no
+t cell,no
+t cell lineage,no
+t follicular helper cell,yes
+t lymphocytes,no
+tendon cell,yes
+testicular cell,no
+thick ascending limb,no
+thymic epithelial cell,no
+thymocyte,no
+thymocytes,no
+thyroid follicular cell,yes
+tongue muscle cell,yes
+tracheal goblet cell,yes
+transit amplifying cell of large intestine,yes
+transit amplifying cell of small intestine,yes
+transitional b,yes
+treg,yes
+trophoblast giant cell,yes
+trophoblast progenitor cell,yes
+trophoblast stem cell,yes
+type i nk t cell,yes
+type i pneumocyte,yes
+type ii pneumocyte,yes
+unipolar brush cell,yes
+ureteric bud cell,yes
+urothelium,no
+vascual central venous endothelial,yes
+vascual portal endothelial,yes
+vascular associated smooth muscle cell,yes
+vascular endothelial,yes
+vascular endothelial cell,yes
+vascular lepotomeningeal cell,yes
+vascular smooth muscle / pericyte,yes
+vein,yes
+vein endothelial cell,yes
+venous endothelial,yes
+ventricle cardiomyocyte,yes
+ventricular cardiomyocyte,yes
+ventricular myocyte,yes
+vip+ gabaergic neuron,yes
+visceral neurons,yes
