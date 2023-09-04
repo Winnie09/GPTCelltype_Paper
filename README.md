@@ -32,6 +32,6 @@ This repository contains the code to reproduce the results in the manuscript "As
 
 ### Contact
 
-Authors: Wenpin Hou (wh2526@cumc.columbia.edu) and Zhicheng Ji (zhicheng.ji@duke.edu)
+Authors: Wenpin Hou (wh2526@cumc.columbia.edu) and Zhicheng Ji (zhicheng.ji@duke.edu).
 
 Report bugs and provide suggestions by sending email to the maintainer Dr. Wenpin Hou (wh2526@cumc.columbia.edu) or open a new issue on this Github page. 
