@@ -6,18 +6,29 @@ Code to reproduce the results in the manuscript "Assessing GPT-4 for cell type a
 
 ## Overview
 
-analysis: code to generate figures in the paper
-anno: code to generate and compile cell type annotation results
-anno/code: code to generate cell type annotation results
-anno/cl: code to populate CL terms
-anno/subtype: code to identify major cell types or cell subtypes
-anno/compiled: code to compile cell type annotation results
-anno/process: code to process gene expression data and run sctype and SingleR
-numcell: number of cells in each cell type
-runtime: running time calculation
-simu: code for simulation studies
-supp: code to generate supplementary materials
-software: in-house pipeline for sctype
+**analysis**: code to generate figures in the paper
+
+**anno**: code to generate and compile cell type annotation results
+
+**anno/code**: code to generate cell type annotation results
+
+**anno/cl**: code to populate CL terms
+
+**anno/subtype**: code to identify major cell types or cell subtypes
+
+**anno/compiled**: code to compile cell type annotation results
+
+**anno/process**: code to process gene expression data and run sctype and SingleR
+
+**numcell**: number of cells in each cell type
+
+**runtime**: running time calculation
+
+**simu**: code for simulation studies
+
+**supp**: code to generate supplementary materials
+
+**software**: in-house pipeline for sctype
 
 
 ## Contact
