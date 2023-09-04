@@ -3,6 +3,8 @@ Code to reproduce the results in the manuscript "Assessing GPT-4 for cell type a
 
 ### Overview
 
+This repository contains the code to reproduce the results in the manuscript "Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis". The preprint can be found [here](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). 
+
 **analysis**: code to generate figures in the paper
 
 **anno**: code to generate and compile cell type annotation results
