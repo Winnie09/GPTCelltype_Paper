@@ -1,10 +1,7 @@
-
-
-
 Code to reproduce the results in the manuscript "Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis"
+====
 
-
-## Overview
+### Overview
 
 **analysis**: code to generate figures in the paper
 
@@ -31,7 +28,7 @@ Code to reproduce the results in the manuscript "Assessing GPT-4 for cell type a
 **software**: in-house pipeline for sctype
 
 
-## Contact
+### Contact
 
 Authors: Wenpin Hou (wh2526@cumc.columbia.edu) and Zhicheng Ji (zhicheng.ji@duke.edu)
 
