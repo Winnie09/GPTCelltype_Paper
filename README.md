@@ -38,6 +38,7 @@ Report bugs and provide suggestions by sending email to the maintainer Dr. Wenpi
 
 
 #####NEXT#######
+
 R packages: reshape2, ggplot2, org.Hs.eg.db,
 
 analysis:  #For views
@@ -123,8 +124,8 @@ simu/gpt4aug3:
 		        data.frame(simuround=simuround,noise=per,celltype=tmpd$celltype,gene=tmpd$gene)
 	          },simplify = F))
             },simplify = F))
-write.csv(am,'Dropbox/research/gptcelltype/simu/gpt4aug3/noise.csv',row.names = F)
-      outer: simu/gpt4aug3/noise.csv #扩大20倍的模拟数据
+	write.csv(am,'Dropbox/research/gptcelltype/simu/gpt4aug3/noise.csv',row.names = F)
+      	outer: simu/gpt4aug3/noise.csv #扩大20倍的模拟数据
     noise.csv
     
     null.R：#人为混入celltype未知的数据
