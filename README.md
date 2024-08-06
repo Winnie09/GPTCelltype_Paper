@@ -35,3 +35,32 @@ This repository contains the code to reproduce the results in the manuscript "As
 Authors: Wenpin Hou (wh2526@cumc.columbia.edu) and Zhicheng Ji (zhicheng.ji@duke.edu).
 
 Report bugs and provide suggestions by sending email to the maintainer Dr. Wenpin Hou (wh2526@cumc.columbia.edu) or open a new issue on this Github page. 
+
+
+#####NEXT#######
+analysis
+  average_scross.R :  
+    input : robustness.rds, simu_subset.rds, simu_noise.rds
+    outer: ggplot plots(geom_violin, geom_point)
+  compareperf.R:
+    input: anno/compiled/all.csv
+    outer:  ggplot plots
+  gpt4version.R: # gpt4aug3 vs gpt4mar23
+    input: anno/compiled/all.csv
+    outer: ggplot plots  
+  gptperf.R: #
+    input: anno/compiled/all.csv, numcell/numcell.rds, anno/subtype/list.csv, analysis/method_color.rds
+    outer: ggplot plots
+  method_color.R:
+    input: NA 
+    outer: analysis/method_color.rds
+  robustness.R:  #simu data
+    input: simu/gpt4aug3/res/mixanno.csv, simu/gpt4aug3/res/null.csv
+    outer: plot/robustness.rds , ggplot plots
+runtime.R
+simu_noise.R
+simu_subset.R
+stromal.R
+top.R
+
+
