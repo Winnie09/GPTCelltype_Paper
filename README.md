@@ -37,11 +37,10 @@ Authors: Wenpin Hou (wh2526@cumc.columbia.edu) and Zhicheng Ji (zhicheng.ji@duke
 Report bugs and provide suggestions by sending email to the maintainer Dr. Wenpin Hou (wh2526@cumc.columbia.edu) or open a new issue on this Github page. 
 
 
-#####NEXT#######
+########NEXT#######
+```R packages: reshape2, ggplot2, org.Hs.eg.db,
 
-R packages: reshape2, ggplot2, org.Hs.eg.db,
-
-analysis:  #For views
+**analysis**:  #For views
   average_scross.R :  
     input : robustness.rds, simu_subset.rds, simu_noise.rds
     outer: ggplot plots(geom_violin, geom_point)
@@ -76,19 +75,19 @@ analysis:  #For views
     input: analysis/method_color.rds, anno/compiled/gpt4topgenenumber.csv, 
     outer: ggplot plots
 
-numcell:  # mult cancer 
+**numcell**:  # mult cancer 
   make.R: 
     input: celltype/cancer/bcl/data/proc/ct.rds, celltype/cancer/coloncancer/data/proc/ct.rds, celltype/hca/data/proc/*/ct.rds, celltype/hcl/data/proc/anno.rds,celltype/mca/data/proc/anno.rds, celltype/tabulasapiens/data/meta/*
     outer: celltype/numcell/numcell.rds 
 
-runtime:
+**runtime**:
   SingleR.R: #from log
   gpt3.5aug3.R #when run gpt4 , system.time() function return time
   gpt4aug3.R #
   sctype.R #from log
 
-simu/gpt4aug3:
-  compiled:
+**simu/gpt4aug3**:
+  **compiled**:
     noise.R: 
       input: simu/gpt4aug3/res/noise.csv  #?? ,anno/cl/compiled.csv, anno/cl/relation.csv
       outer: simu/gpt4aug3/compiled/noise.csv
@@ -98,7 +97,7 @@ simu/gpt4aug3:
       outer: simu/gpt4aug3/compiled/subset.csv
     subset.csv
     
-  res:
+  **res**:
     annonoise.R: #调用gptcelltype得到annotaion, d$annotation[id] <- gptcelltype(input=gl[id],openai_key='',model='gpt-4')
       input: simu/gpt4aug3/noise.csv
       outer: simu/gpt4aug3/noise.csv (add gptcelltype annotation)
